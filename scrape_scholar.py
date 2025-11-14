@@ -1,17 +1,32 @@
 #!/usr/bin/env python3
 """
-Google Scholar Scraper for ITA Language Assessment Research
-Searches for papers on International Teaching Assistants and language proficiency assessment.
+Google Scholar Scraper for ITA Language Assessment Research.
+
+This version fetches search results in configurable chunks, records progress in
+a checkpoint file, writes every paper to CSV/JSON outputs, generates a
+human-friendly report, and inserts a gentle randomized pause between papers to
+stay under Scholar's rate limits. Resume support takes the last saved index so
+you can run the script multiple times while only processing a manageable batch
+of papers per run.
 """
 
-from scholarly import scholarly
+from __future__ import annotations
+
+import argparse
+import csv
 import json
-from datetime import datetime
+import random
 import time
+from datetime import datetime
+from pathlib import Path
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 
-# ==================== CONFIGURATION - EDIT KEYWORDS HERE ====================
+from scholarly import scholarly
+from scholarly._proxy_generator import MaxTriesExceededException
 
-# ITA-related keywords
+Paper = Dict[str, Any]
+
+# ==================== CONFIGURATION - CUSTOMIZE IF NEEDED =====================
 ITA_KEYWORDS = [
     "ITA",
     "Foreign teaching assistant*",
@@ -19,189 +34,479 @@ ITA_KEYWORDS = [
     "Non-native teaching assistant*",
 ]
 
-# Assessment-related keywords
 ASSESSMENT_KEYWORDS = [
     "speaking assessment*",
     "rubric*",
     "language proficiency",
     "oral proficiency",
-    "assessment*",
+    "language assessment",
+    "accent assessment",
+    "intelligibility assessment",
 ]
 
-# Search settings
-MAX_RESULTS = 100  # Maximum number of papers to retrieve
-DELAY_SECONDS = 0  # Delay between requests to avoid rate limiting
-TEST_MODE = False  # Set to True to only get first 10 results as a test
+DEFAULT_MAX_RESULTS = 1000  # Hard cap on the total number of papers collected
+DEFAULT_CHUNK_SIZE = 50    # Number of papers to fetch per run
+DEFAULT_MIN_DELAY = 0.5     # Minimum pause between fetching consecutive papers (seconds)
+DEFAULT_MAX_DELAY = 1.3     # Maximum pause between fetching consecutive papers (seconds)
 
-# ============================================================================
+CHECKPOINT_PATH = Path("checkpoint.json")
+CSV_PATH = Path("scholar_results.csv")
+JSON_PATH = Path("scholar_results.json")
+REPORT_PATH = Path("scholar_report.txt")
+
+CSV_FIELDS = [
+    "number",
+    "title",
+    "authors",
+    "year",
+    "venue",
+    "citations",
+    "abstract",
+    "url",
+]
 
 
-def build_query(ita_keywords, assessment_keywords):
+def throttle_between_requests(min_delay: float, max_delay: float) -> None:
     """
-    Build a simple search query from keyword lists.
-    Uses a simplified format that works better with scholarly library.
+    Pause between consecutive fetches to reduce the risk of hitting Scholar rate limits.
     """
-    # Combine all keywords into a single search string
-    # Format: (keyword1 OR keyword2) AND (keyword3 OR keyword4)
+    if max_delay <= 0:
+        return
+    wait_time = random.uniform(min_delay, max_delay) if max_delay > min_delay else min_delay
+    time.sleep(wait_time)
+
+
+# ==============================================================================
+def build_query(ita_keywords: List[str], assessment_keywords: List[str]) -> str:
+    """
+    Build a Google Scholar query that mirrors the user's boolean expression.
+    Uses exact phrase matching and excludes Italian language results.
+    """
     ita_terms = " OR ".join([f'"{kw}"' for kw in ita_keywords])
     assessment_terms = " OR ".join([f'"{kw}"' for kw in assessment_keywords])
+    # Exclude Italian language results to avoid "ITA" being interpreted as Italian
+    return f"({ita_terms}) AND ({assessment_terms}) -Italian -lingua"
 
-    query = f"({ita_terms}) AND ({assessment_terms})"
-    return query
 
-
-def search_scholar(query, max_results=2000):
+def _matches_keywords(text: str, keywords: List[str]) -> bool:
     """
-    Search Google Scholar for papers matching the query.
-
-    Args:
-        query: Search query string
-        max_results: Maximum number of results to retrieve
-
-    Returns:
-        List of paper dictionaries with title, authors, year, citations, and abstract
+    Check if text contains any of the keywords (case-insensitive).
+    Handles wildcard (*) by checking if keyword prefix appears in text.
     """
-    print(f"Searching Google Scholar...")
-    print(f"Query: {query}\n")
-    print(f"Target: up to {max_results} results\n")
-    print("=" * 80)
+    if not text:
+        return False
+    text_lower = text.lower()
+    for kw in keywords:
+        if kw.endswith('*'):
+            # Wildcard: check if text contains the prefix
+            prefix = kw[:-1].lower()
+            if prefix in text_lower:
+                return True
+        else:
+            # Check if keyword appears in text (case-insensitive)
+            if kw.lower() in text_lower:
+                return True
+    return False
 
-    # Try to initiate search with error handling
+
+def parse_args() -> argparse.Namespace:
+    """
+    Parse CLI arguments so chunk size, pacing, or reset behavior can be overridden.
+    """
+    parser = argparse.ArgumentParser(
+        description="Chunked Google Scholar scraper for International TA language assessment research."
+    )
+    parser.add_argument(
+        "--chunk-size",
+        "-c",
+        type=int,
+        default=DEFAULT_CHUNK_SIZE,
+        help="Number of new papers to collect per invocation (default: %(default)s).",
+    )
+    parser.add_argument(
+        "--min-delay",
+        type=float,
+        default=DEFAULT_MIN_DELAY,
+        help="Minimum delay in seconds between Scholar requests (default: %(default)s).",
+    )
+    parser.add_argument(
+        "--max-delay",
+        type=float,
+        default=DEFAULT_MAX_DELAY,
+        help="Maximum delay in seconds between Scholar requests (default: %(default)s).",
+    )
+    parser.add_argument(
+        "--max-results",
+        "-m",
+        type=int,
+        default=DEFAULT_MAX_RESULTS,
+        help="Maximum number of papers to collect in total (default: %(default)s).",
+    )
+    parser.add_argument(
+        "--reset",
+        action="store_true",
+        help="Remove existing checkpoint and output files before running.",
+    )
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="Limit the entire run to 10 papers for quick verification.",
+    )
+    return parser.parse_args()
+
+
+def clear_outputs(paths: Iterable[Path]) -> None:
+    """
+    Delete files so the next run starts fresh. Used when the user passes --reset.
+    """
+    for path in paths:
+        try:
+            if path.exists():
+                path.unlink()
+                print(f"Removed stale file: {path}")
+        except OSError as exc:
+            print(f"Warning: could not delete {path}: {exc}")
+
+
+def rotate_path(path: Path) -> None:
+    """
+    Rename an existing output file (appending a timestamp) before writing new data.
+    """
+    if not path.exists():
+        return
+    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    rotated = path.with_name(f"{path.stem}.old-{timestamp}{path.suffix}")
     try:
-        search_query = scholarly.search_pubs(query)
-    except Exception as e:
-        print(f"\nERROR: Failed to connect to Google Scholar")
-        print(f"Details: {e}")
-        print("\nPossible solutions:")
-        print("1. Check your internet connection")
-        print("2. Google Scholar might be blocking requests - try again later")
-        print("3. Try using a VPN or proxy")
+        path.rename(rotated)
+        print(f"Rotated {path.name} to {rotated.name}")
+    except OSError as exc:
+        print(f"Warning: could not rotate {path.name}: {exc}")
+
+
+def read_json_results(path: Path) -> List[Paper]:
+    """
+    Load previously saved papers from the JSON output.
+    """
+    if not path.exists():
+        return []
+    try:
+        with path.open("r", encoding="utf-8") as handle:
+            data = json.load(handle)
+            return data.get("papers", [])
+    except (json.JSONDecodeError, OSError) as exc:
+        print(f"Warning: could not read {path}: {exc}")
         return []
 
-    results = []
-    print("\nRetrieving papers...\n")
 
-    for i in range(max_results):
-        try:
-            result = next(search_query)
-            paper = {
-                "number": i + 1,
-                "title": result["bib"].get("title", "N/A"),
-                "authors": result["bib"].get("author", "N/A"),
-                "year": result["bib"].get("pub_year", "N/A"),
-                "venue": result["bib"].get("venue", "N/A"),
-                "citations": result.get("num_citations", 0),
-                "abstract": result["bib"].get("abstract", "N/A"),
-                "url": result.get("pub_url", "N/A"),
-            }
-            results.append(paper)
-
-            # Show progress every paper
-            print(
-                f"[{i+1}] {paper['title'][:70]}... ({paper['year']}) - {paper['citations']} citations"
-            )
-
-            # Add delay to avoid rate limiting (be respectful to Google Scholar)
-            time.sleep(DELAY_SECONDS)
-
-        except StopIteration:
-            print(f"\n{'='*80}")
-            print(f"Search complete: Found {len(results)} papers total")
-            print(f"{'='*80}")
-            break
-        except Exception as e:
-            print(f"Warning: Error retrieving result {i+1}: {e}")
-            # Continue trying despite errors
-            continue
-
-    return results
-
-
-def save_results(results, query, filename="scholar_results.json"):
-    """Save results to JSON file."""
-    output = {
+def save_json_results(papers: List[Paper], query: str, path: Path) -> None:
+    """
+    Serialize aggregated papers in the familiar JSON format.
+    """
+    payload = {
         "query_info": {
             "search_query": query,
             "search_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "total_papers": len(results),
+            "total_papers": len(papers),
         },
-        "papers": results,
+        "papers": papers,
     }
-
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(output, f, indent=2, ensure_ascii=False)
-
-    print(f"\nResults saved to {filename}")
+    with path.open("w", encoding="utf-8") as handle:
+        json.dump(payload, handle, indent=2, ensure_ascii=False)
+    print(f"Saved JSON data to {path}")
 
 
-def generate_report(results, query, filename="report.txt"):
-    """Generate a simple text report for the paper."""
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write("=" * 80 + "\n")
-        f.write("GOOGLE SCHOLAR SEARCH REPORT\n")
-        f.write("ITA Language Assessment Research\n")
-        f.write("=" * 80 + "\n\n")
+def append_to_csv(papers: List[Paper], path: Path) -> None:
+    """
+    Append newly fetched papers to the CSV file used for manual review.
+    """
+    if not papers:
+        return
+    should_write_header = not path.exists() or path.stat().st_size == 0
+    with path.open("a", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=CSV_FIELDS)
+        if should_write_header:
+            writer.writeheader()
+        for paper in papers:
+            writer.writerow({field: paper.get(field, "N/A") for field in CSV_FIELDS})
+    print(f"Appended {len(papers)} rows to {path}")
 
-        f.write(f"Search Date: {datetime.now().strftime('%Y-%m-%d')}\n")
-        f.write(f"Search Query: {query}\n")
-        f.write(f"Total Papers Found: {len(results)}\n\n")
 
-        f.write("-" * 80 + "\n")
-        f.write("PAPERS\n")
-        f.write("-" * 80 + "\n\n")
-
-        for paper in results:
-            f.write(f"[{paper['number']}] {paper['title']}\n")
-            f.write(f"Authors: {paper['authors']}\n")
-            f.write(f"Year: {paper['year']}\n")
-            f.write(f"Venue: {paper['venue']}\n")
-            f.write(f"Citations: {paper['citations']}\n")
+def generate_report(papers: List[Paper], query: str, path: Path) -> None:
+    """
+    Emit a lightweight text report summarizing results for quick inspection.
+    """
+    with path.open("w", encoding="utf-8") as handle:
+        handle.write("=" * 80 + "\n")
+        handle.write("GOOGLE SCHOLAR SEARCH REPORT\n")
+        handle.write("ITA Language Assessment Research\n")
+        handle.write("=" * 80 + "\n\n")
+        handle.write(f"Search Date: {datetime.now().strftime('%Y-%m-%d')}\n")
+        handle.write(f"Search Query: {query}\n")
+        handle.write(f"Total Papers Found: {len(papers)}\n\n")
+        handle.write("-" * 80 + "\n")
+        handle.write("PAPERS\n")
+        handle.write("-" * 80 + "\n\n")
+        for paper in sorted(papers, key=lambda entry: entry["number"]):
+            handle.write(f"[{paper['number']}] {paper['title']}\n")
+            handle.write(f"Authors: {paper['authors']}\n")
+            handle.write(f"Year: {paper['year']}\n")
+            handle.write(f"Venue: {paper['venue']}\n")
+            handle.write(f"Citations: {paper['citations']}\n")
             if paper["abstract"] != "N/A":
-                f.write(f"Abstract: {paper['abstract']}\n")
+                handle.write(f"Abstract: {paper['abstract']}\n")
             if paper["url"] != "N/A":
-                f.write(f"URL: {paper['url']}\n")
-            f.write("\n" + "-" * 80 + "\n\n")
+                handle.write(f"URL: {paper['url']}\n")
+            handle.write("\n" + "-" * 80 + "\n\n")
+    print(f"Report saved to {path}")
 
-    print(f"Report saved to {filename}")
+
+def load_checkpoint(path: Path) -> Optional[Dict[str, Any]]:
+    """
+    Load progress metadata from disk if it exists.
+    """
+    if not path.exists():
+        return None
+    try:
+        with path.open("r", encoding="utf-8") as handle:
+            return json.load(handle)
+    except (json.JSONDecodeError, OSError) as exc:
+        print(f"Warning: could not load checkpoint at {path}: {exc}")
+        return None
 
 
-def main():
-    """Main function to run the scraper."""
+def save_checkpoint(path: Path, checkpoint: Dict[str, Any]) -> None:
+    """
+    Persist the current checkpoint so future runs know where to resume.
+    """
+    with path.open("w", encoding="utf-8") as handle:
+        json.dump(checkpoint, handle, indent=2, ensure_ascii=False)
+    print(f"Checkpoint updated at {path}")
 
-    # Build query from configuration keywords
+
+def is_checkpoint_compatible(
+    checkpoint: Optional[Dict[str, Any]],
+    query: str,
+    chunk_size: int,
+    max_results: int,
+) -> bool:
+    """
+    Determine if the stored checkpoint matches the current configuration.
+    """
+    if checkpoint is None:
+        return False
+    if checkpoint.get("query") != query:
+        print("Keyword expression changed since the last run; will start fresh.")
+        return False
+    if checkpoint.get("ita_keywords") != ITA_KEYWORDS or checkpoint.get(
+        "assessment_keywords"
+    ) != ASSESSMENT_KEYWORDS:
+        print("Keyword lists were edited; will start a new search.")
+        return False
+    return True
+
+
+def fetch_chunk(
+    query: str,
+    start_index: int,
+    end_index: int,
+    min_delay: float,
+    max_delay: float,
+) -> Tuple[List[Paper], int, bool]:
+    """
+    Walk the Scholar iterator and return only the papers within [start_index, end_index].
+    Applies the configured delay between consecutive requests.
+    Also filters results client-side to enforce AND logic between ITA and assessment keywords.
+    """
+    if start_index > end_index:
+        return [], start_index - 1, False
+
+    try:
+        search_query = scholarly.search_pubs(query)
+    except MaxTriesExceededException as exc:
+        print(
+            "Google Scholar throttling detected before consuming the iterator. "
+            "Switch VPN/proxy and retry the same chunk."
+        )
+        raise exc
+
+    papers: List[Paper] = []
+    reached_end = False
+    last_index = start_index - 1
+
+    for idx in range(1, end_index + 1):
+        try:
+            raw = next(search_query)
+        except MaxTriesExceededException as exc:
+            print(
+                f"Google Scholar throttling detected around result {idx}. "
+                "Switch VPN/proxy before resuming."
+            )
+            raise exc
+        except StopIteration:
+            reached_end = True
+            last_index = idx - 1
+            break
+
+        if idx < start_index:
+            last_index = idx
+            continue
+
+        bib = raw.get("bib", {})
+        title = bib.get("title", "")
+        abstract = bib.get("abstract", "")
+        
+        # Client-side filtering: enforce AND logic
+        # Paper must match BOTH an ITA keyword AND an assessment keyword
+        has_ita = _matches_keywords(title + " " + abstract, ITA_KEYWORDS)
+        has_assessment = _matches_keywords(title + " " + abstract, ASSESSMENT_KEYWORDS)
+        
+        if not (has_ita and has_assessment):
+            # Skip this result as it doesn't match both keyword sets
+            continue
+        
+        paper = {
+            "number": idx,
+            "title": title,
+            "authors": bib.get("author", "N/A"),
+            "year": bib.get("pub_year", "N/A"),
+            "venue": bib.get("venue", "N/A"),
+            "citations": raw.get("num_citations", 0),
+            "abstract": abstract if abstract else "N/A",
+            "url": raw.get("pub_url", "N/A"),
+        }
+        papers.append(paper)
+        last_index = idx
+        print(
+            f"[{paper['number']}] {paper['title'][:80]}... ({paper['year']}) - {paper['citations']} citations"
+        )
+
+        if idx < end_index:
+            throttle_between_requests(min_delay, max_delay)
+
+    return papers, last_index, reached_end
+
+
+def main() -> None:
+    args = parse_args()
+
+    if args.chunk_size <= 0:
+        raise SystemExit("Chunk size must be a positive integer.")
+    if args.max_results <= 0:
+        raise SystemExit("Max results must be a positive integer.")
+    if args.min_delay < 0 or args.max_delay < 0:
+        raise SystemExit("Delays must be non-negative.")
+    if args.min_delay > args.max_delay:
+        raise SystemExit("Minimum delay cannot exceed maximum delay.")
+
+    if args.test:
+        print("*** TEST MODE: limiting to 10 total results ***")
+        args.max_results = min(args.max_results, 10)
+        args.chunk_size = min(args.chunk_size, 10)
+
     query = build_query(ITA_KEYWORDS, ASSESSMENT_KEYWORDS)
-
-    # Determine max results (test mode overrides)
-    max_results = 10 if TEST_MODE else MAX_RESULTS
-
-    if TEST_MODE:
-        print("*** TEST MODE: Only retrieving first 10 results ***\n")
-
-    # Display configuration
     print("Configuration:")
-    print(f"  ITA Keywords: {', '.join(ITA_KEYWORDS)}")
-    print(f"  Assessment Keywords: {', '.join(ASSESSMENT_KEYWORDS)}")
-    print(f"  Max Results: {max_results}")
-    print(f"  Delay: {DELAY_SECONDS} seconds\n")
+    print(f"  Chunk size: {args.chunk_size}")
+    print(f"  Max results: {args.max_results}")
+    print(f"  Delay per paper: {args.min_delay:.2f}-{args.max_delay:.2f} seconds")
+    print(f"  Keywords → ITA: {', '.join(ITA_KEYWORDS)}")
+    print(f"  Keywords → Assessment: {', '.join(ASSESSMENT_KEYWORDS)}")
+    print(f"  Query: {query}")
+    print("-" * 80)
 
-    # Search and retrieve results
-    results = search_scholar(query, max_results=max_results)
+    if args.reset:
+        clear_outputs((CHECKPOINT_PATH, CSV_PATH, JSON_PATH, REPORT_PATH))
 
-    # Save to JSON and generate report
-    if results:
-        save_results(results, query, "scholar_results.json")
-        generate_report(results, query, "scholar_report.txt")
+    checkpoint = load_checkpoint(CHECKPOINT_PATH)
+    resume = is_checkpoint_compatible(checkpoint, query, args.chunk_size, args.max_results)
 
-        print(f"\n{'='*80}")
-        print(f"FINAL SUMMARY")
-        print(f"{'='*80}")
-        print(f"Total Papers Found: {len(results)}")
-        print(f"Files Generated:")
-        print(f"  - scholar_results.json (detailed data)")
-        print(f"  - scholar_report.txt (formatted report)")
-        print(f"{'='*80}")
+    if not resume and checkpoint:
+        rotate_path(JSON_PATH)
+        rotate_path(CSV_PATH)
+        rotate_path(REPORT_PATH)
+        try:
+            checkpoint.unlink()
+            print(f"Removed stale checkpoint at {CHECKPOINT_PATH}")
+        except (OSError, AttributeError):
+            pass
+        checkpoint = None
+
+    existing_papers: List[Paper] = []
+    start_index = 1
+    if resume:
+        existing_papers = read_json_results(JSON_PATH)
+        start_index = max(1, checkpoint.get("next_index", 1))
+        print(f"Resuming from paper number {start_index}")
     else:
-        print("\nNo results found or error occurred.")
+        if JSON_PATH.exists() or CSV_PATH.exists():
+            print(
+                "NOTE: Outputs from a previous run remain on disk. Use --reset if you want to "
+                "discard them before collecting new keywords."
+            )
+
+    if start_index > args.max_results:
+        print("Maximum result limit already reached according to the checkpoint.")
+        return
+
+    remaining = args.max_results - (start_index - 1)
+    if remaining <= 0:
+        print("No remaining results to collect.")
+        return
+
+    chunk_size = min(args.chunk_size, remaining)
+    target_end_index = start_index + chunk_size - 1
+    print(f"Fetching papers {start_index} through {target_end_index}...")
+
+    new_papers, last_index, exhausted = fetch_chunk(
+        query,
+        start_index,
+        target_end_index,
+        args.min_delay,
+        args.max_delay,
+    )
+
+    combined_map: Dict[int, Paper] = {paper["number"]: paper for paper in existing_papers}
+    for paper in new_papers:
+        combined_map[paper["number"]] = paper
+    combined_papers = [combined_map[number] for number in sorted(combined_map.keys())]
+
+    save_json_results(combined_papers, query, JSON_PATH)
+    append_to_csv(new_papers, CSV_PATH)
+    generate_report(combined_papers, query, REPORT_PATH)
+
+    next_index = start_index
+    if last_index >= start_index:
+        next_index = last_index + 1
+
+    completed = exhausted or next_index > args.max_results
+
+    checkpoint_payload = {
+        "query": query,
+        "ita_keywords": ITA_KEYWORDS,
+        "assessment_keywords": ASSESSMENT_KEYWORDS,
+        "chunk_size": args.chunk_size,
+        "max_results": args.max_results,
+        "next_index": next_index,
+        "last_updated": datetime.now().isoformat(),
+        "completed": completed,
+    }
+    save_checkpoint(CHECKPOINT_PATH, checkpoint_payload)
+
+    print("\n" + "=" * 80)
+    print("SESSION SUMMARY")
+    print("=" * 80)
+    print(f"New papers fetched this run: {len(new_papers)}")
+    print(f"Total papers saved so far: {len(combined_papers)}")
+    if completed:
+        print("Search marked as complete; no further runs needed unless you reset the checkpoint.")
+    else:
+        print(f"Resume next time from paper number {next_index}")
+    print(f"  CSV output: {CSV_PATH}")
+    print(f"  JSON output: {JSON_PATH}")
+    print(f"  Report: {REPORT_PATH}")
+    print(f"  Checkpoint: {CHECKPOINT_PATH}")
+    print("=" * 80)
+    print("Re-run the script when you are ready to collect the next chunk of papers.")
+    print("=" * 80)
 
 
 if __name__ == "__main__":

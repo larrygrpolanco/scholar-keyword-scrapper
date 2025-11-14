@@ -1,0 +1,21 @@
+{
+  "query": "(\"ITA\" OR \"Foreign teaching assistant*\" OR \"International teaching assistant*\" OR \"Non-native teaching assistant*\") AND (\"speaking assessment*\" OR \"rubric*\" OR \"language proficiency\" OR \"oral proficiency\" OR \"assessment*\")",
+  "ita_keywords": [
+    "ITA",
+    "Foreign teaching assistant*",
+    "International teaching assistant*",
+    "Non-native teaching assistant*"
+  ],
+  "assessment_keywords": [
+    "speaking assessment*",
+    "rubric*",
+    "language proficiency",
+    "oral proficiency",
+    "assessment*"
+  ],
+  "chunk_size": 50,
+  "max_results": 1000,
+  "next_index": 251,
+  "last_updated": "2025-11-13T18:00:33.383339",
+  "completed": false
+}

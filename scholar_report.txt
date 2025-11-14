@@ -1,0 +1,2504 @@
+================================================================================
+GOOGLE SCHOLAR SEARCH REPORT
+ITA Language Assessment Research
+================================================================================
+
+Search Date: 2025-11-13
+Search Query: ("ITA" OR "Foreign teaching assistant*" OR "International teaching assistant*" OR "Non-native teaching assistant*") AND ("speaking assessment*" OR "rubric*" OR "language proficiency" OR "oral proficiency" OR "assessment*")
+Total Papers Found: 250
+
+--------------------------------------------------------------------------------
+PAPERS
+--------------------------------------------------------------------------------
+
+[1] Impact of rater characteristics and prosodic features of speaker accentedness on ratings of international teaching assistants' oral performance
+Authors: ['O Kang']
+Year: 2012
+Venue: Language Assessment Quarterly
+Citations: 159
+Abstract: the ultimate consumers of ITA language and the ultimate arbiters of ITA proficiency. Finally,  because prosodic fluency was the most powerful predictor of oral proficiency ratings in this
+URL: https://www.tandfonline.com/doi/abs/10.1080/15434303.2011.642631
+
+--------------------------------------------------------------------------------
+
+[2] Empirical profiles of academic oral English proficiency from an international teaching assistant screening test
+Authors: ['I Choi']
+Year: 2017
+Venue: Language Testing
+Citations: 34
+Abstract: for ITA training and screening policy makers, the ITA training  can help ITA policy makers,  the ITA training program, ESL  oral proficiency can be meaningfully produced by an ITA
+URL: https://journals.sagepub.com/doi/abs/10.1177/0265532215601881
+
+--------------------------------------------------------------------------------
+
+[3] Topic and variation in the oral proficiency of international teaching assistants
+Authors: ['JA Smith']
+Year: 1993
+Venue: NA
+Citations: 19
+Abstract: with individual ITA backgrounds revealed that better ITA  in an ITA development program,  while better ITA performance on  representative ITAs compares ITA performance across tests
+URL: https://elibrary.ru/item.asp?id=5810002
+
+--------------------------------------------------------------------------------
+
+[4] “Authenticity” in language testing: Evaluating spoken language tests for international teaching assistants
+Authors: ['B Hoekje', 'K Linnell']
+Year: 1994
+Venue: TESOL quarterly
+Citations: 116
+Abstract: of the evaluation of language proficiency itself. Despite the in to evaluate the spoken  language proficiency of NNS TAs or  Topic and variation in ITA oral proficiency: SPEAK and field
+URL: https://onlinelibrary.wiley.com/doi/abs/10.2307/3587201
+
+--------------------------------------------------------------------------------
+
+[5] An investigation into the validity of the TOEFL iBT speaking test for international teaching assistant certification
+Authors: ['TL Farnsworth']
+Year: 2013
+Venue: Language Assessment Quarterly
+Citations: 42
+Abstract: to determine ITA language proficiency, (the TOP) from a factor analytic perspective, no  research as yet has linked TOEFL Speaking scores directly to real-life criterion measures of ITA
+URL: https://www.tandfonline.com/doi/abs/10.1080/15434303.2013.769548
+
+--------------------------------------------------------------------------------
+
+[6] Communicative competence and the dilemma of international teaching assistant education
+Authors: ['B Hoekje', 'J Williams']
+Year: 1992
+Venue: Tesol Quarterly
+Citations: 176
+Abstract: understanding of the nature of ITA language use and the goals of ITA training, we turn to the   as a problem of English oral proficiency effectiveness, we maintain that, for ITAs, the aim is
+URL: https://onlinelibrary.wiley.com/doi/abs/10.2307/3587005
+
+--------------------------------------------------------------------------------
+
+[7] Multidimensional Analysis of Linguistic Features of International Teaching Assistants: Linguistic-Level Authenticity in Ita Assessment
+Authors: ['H Chang']
+Year: 2022
+Venue: NA
+Citations: 0
+Abstract: light on the specialized construct of ITA English oral proficiency as well as inform ITA pedagogy  and assessment practices. Moreover, the study will offer methodological implications for
+URL: https://search.proquest.com/openview/f1a68f36069f2862facf34f77e1390ca/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+--------------------------------------------------------------------------------
+
+[8] A Study of the Use of the TOEFL iBT® Test Speaking and Listening Scores for International Teaching Assistant Screening
+Authors: ['E Wagner']
+Year: 2016
+Venue: ETS Research Report Series
+Citations: 22
+Abstract: Yet most ITA programs that rely on large-scale  language proficiency seem to have focused  exclusively on candidates' speaking scores when judging a prospective ITA's oral proficiency
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ets2.12104
+
+--------------------------------------------------------------------------------
+
+[9] ITA Language Proficiency Testing: Recommended Replacement for the Speak® Test
+Authors: ['AM Stoughton']
+Year: 2019
+Venue: NA
+Citations: 0
+Abstract: oral language proficiency  oral proficiency assessment and which should be maintained in  future testing instruments. The findings of this paper provide a structure for ITA oral proficiency
+URL: https://search.proquest.com/openview/81cdee97529c1d953bfb6d87636dd36c/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+--------------------------------------------------------------------------------
+
+[10] Standard Setting for Next Generation TOEFL Academic Speaking Test (TAST): Reflections on the ETS Panel of International Teaching Assistant Developers.
+Authors: ['D Papajohn']
+Year: 2006
+Venue: TESL-EJ
+Citations: 10
+Abstract: No one communicates perfectly 100% of the time, so: How often will an ITA have to repeat   minimally acceptable ITA? And, how adept at interaction should a minimally acceptable ITA be
+URL: https://eric.ed.gov/?id=EJ1064991
+
+--------------------------------------------------------------------------------
+
+[11] Validating TOEFL® iBT Speaking and setting score requirements for ITA screening
+Authors: ['X Xi']
+Year: 2007
+Venue: Language Assessment Quarterly
+Citations: 49
+Abstract: for ITA screenings. However, the strengths of the relationship between the TOEFL iBT Speaking  and the local ITA  feel frustrated if the ITA program cannot supply enough ITA candidates.
+URL: https://www.tandfonline.com/doi/abs/10.1080/15434300701462796
+
+--------------------------------------------------------------------------------
+
+[12] … : Validating the Interpretation of the TOEFL iBT® Test Speaking Scores for International Teaching Assistant Screening and Certification Purposes
+Authors: ['E Cotos', 'YR Chung']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[13] Topic and variation in ITA oral proficiency: SPEAK and field-specific tests
+Authors: ['J Smith']
+Year: 1989
+Venue: English for Specific Purposes
+Citations: 60
+Abstract: between speaker topic and oral language proficiency by comparing individual subject results  on the SPEAK test and field-specific oral proficiency tests which replicate the SPEAK Test
+URL: https://www.sciencedirect.com/science/article/pii/0889490689900276
+
+--------------------------------------------------------------------------------
+
+[14] INVESTIGATING THE CRITERION‐RELATED VALIDITY OF THE TOEFL® SPEAKING SCORES FOR ITA SCREENING AND SETTING STANDARDS FOR ITAS
+Authors: ['X Xi']
+Year: 2008
+Venue: ETS Research Report Series
+Citations: 40
+Abstract: Speaking for ITA screening  ITA‐screening tests or instructor recommendations were used  as the criterion measures. Relationships between the TOEFL Speaking test and the local ITA
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2333-8504.2008.tb02088.x
+
+--------------------------------------------------------------------------------
+
+[15] Towards defining a valid assessment criterion of pronunciation proficiency in non-native English-speaking graduate students
+Authors: ['T Isaacs']
+Year: 2008
+Venue: Canadian Modern Language Review
+Citations: 202
+Abstract: ITA screening and preparatory courses are a way for institutions to ensure that ITAs do meet  oral proficiency standards. Yet screening practices at North American academic institutions
+URL: https://utppublishing.com/doi/abs/10.3138/cmlr.64.4.555
+
+--------------------------------------------------------------------------------
+
+[16] Factor analysis for fairness: Examining the impact of task type and examinee L1 background on scores of an ITA speaking test
+Authors: ['X Yan', 'L Cheng', 'A Ginther']
+Year: 2019
+Venue: Language Testing
+Citations: 29
+Abstract: Although the factor variances and factor means for oral proficiency differed across  aligned  with the ITA testing contexts. This study examines the construct validity of an ITA speaking test
+URL: https://journals.sagepub.com/doi/abs/10.1177/0265532218775764
+
+--------------------------------------------------------------------------------
+
+[17] The interactive demonstration of interactional competence in the ITA TEACH Test
+Authors: ['S Wagner']
+Year: 2014
+Venue: NA
+Citations: 3
+Abstract: In the particular context of the TEACH test, by using “It’sa good question,” the prospective  ITA is demonstrating certain skills that are valued on the assessment rubric, in which effective
+URL: https://repository.upenn.edu/handle/20.500.14332/49539
+
+--------------------------------------------------------------------------------
+
+[18] Mitigating US undergraduates' attitudes toward international teaching assistants
+Authors: ['O Kang', 'D Rubin', 'S Lindemann']
+Year: 2015
+Venue: Tesol Quarterly
+Citations: 166
+Abstract: ITA oral proficiency (Rubin, 1992, 2002; Rubin & Smith, 1990). Linguistic stereotypes affect  broad judgments and perceptions of others and help determine the groups people associate
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/tesq.192
+
+--------------------------------------------------------------------------------
+
+[19] Crossing Pedagogical Oceans: International Teaching Assistants in US Undergraduate Education. ASHE-ERIC Higher Education Report No. 8, 1992.
+Authors: ['RM Smith']
+Year: 1992
+Venue: NA
+Citations: 121
+Abstract: on ITA communication effectiveness,more research is needed in the following areas: (1)  classroom characteristics; (2)methods and materials facilitating ITA  the language proficiency of
+URL: https://eric.ed.gov/?id=ED358810
+
+--------------------------------------------------------------------------------
+
+[20] Ratings of L2 oral performance in English: Relative impact of rater characteristics and acoustic measures of accentedness
+Authors: ['O Kang']
+Year: 2008
+Venue: NA
+Citations: 84
+Abstract: comprehensibility, variance in oral proficiency scores due to rater  The ITA speech samples  were acoustically analyzed on 12  Finally, 63 raters (including 29 trained) rated the same ITA
+URL: https://openscholar.uga.edu/record/9511
+
+--------------------------------------------------------------------------------
+
+[21] Nonlanguage factors affecting undergraduates' judgments of nonnative English-speaking teaching assistants
+Authors: ['DL Rubin']
+Year: 1992
+Venue: Research in Higher education
+Citations: 1078
+Abstract: factor into negative perceptions of language proficiency and teaching ability (Brown, 1988).   A collaborative approach to ITA training: The ITAs, faculty, TAs, undergraduate interns, and
+URL: https://link.springer.com/article/10.1007/BF00973770
+
+--------------------------------------------------------------------------------
+
+[22] Cultural and linguistic miscues: A case study of international teaching assistant and academic faculty miscommunication
+Authors: ['S Jenkins']
+Year: 2000
+Venue: International Journal of Intercultural Relations
+Citations: 140
+Abstract: Most faculty interpreted this behavior as lack of motivation, isolationism and unwillingness  to cooperate in ITA instructional  Implications for ITA training programs are discussed.
+URL: https://www.sciencedirect.com/science/article/pii/S0147176700000110
+
+--------------------------------------------------------------------------------
+
+[23] International teaching assistant program evaluation
+Authors: ['Y Shi']
+Year: 2006
+Venue: NA
+Citations: 6
+Abstract: ITA programs. The response rate was 70%. It was found that the current ITA programs had  broad institutional goals and positive effects on ITAs’ improvement of language proficiency,
+URL: https://search.proquest.com/openview/764f8f5534403def6709acf2480ca1ee/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+--------------------------------------------------------------------------------
+
+[24] Implications of student evaluations of teaching for ITA development
+Authors: ['DD Hendel', 'T Dunham', 'J Smith', 'J Solberg', 'C Tzenis']
+Year: 1992
+Venue: NA
+Citations: 8
+Abstract: language proficiency. Students who are not able to verbalize their discomfort with an ITA's   ITAs as deficient in English regardless of their actual level of English language proficiency.
+URL: https://conservancy.umn.edu/bitstreams/d76e9558-364d-4e4a-9a88-7443b243b3b7/download
+
+--------------------------------------------------------------------------------
+
+[25] International teaching assistants and teacher identity
+Authors: ['V LoCastro', 'G Tapper']
+Year: 2015
+Venue: Journal of Applied Linguistics
+Citations: 35
+Abstract: language proficiency as well as departmental considerations. Thus, although participating as  an ITA  such as the extent to which the ITA was fully responsible for groups of students was
+URL: https://utppublishing.com/doi/abs/10.1558/japl.v3i2.185
+
+--------------------------------------------------------------------------------
+
+[26] The educational cultures of international teaching assistants and US universities
+Authors: ['GJ Gorsuch']
+Year: 2003
+Venue: Tesl-Ej
+Citations: 105
+Abstract: This study focuses on ITA attitudes related to educational cultures. [-1-]  the ITA questionnaire,  while the ITA questionnaire had the more central function of gathering data on ITA attitudes
+URL: https://tesl-ej.org/wordpress/issues/volume7/ej27/ej27a1/?wscr
+
+--------------------------------------------------------------------------------
+
+[27] A Multiple Case Study of International Teaching Assistants' Investment in an ITA Training Class
+Authors: ['RW Anderson']
+Year: 2020
+Venue: NA
+Citations: 0
+Abstract: program evaluation, which obscures many of subtleties of ITA’s  work focuses only on In-Service  ITA’s, the enrolled ITA’s who  assumptions could impact not only the ITA learners, but the
+URL: https://search.proquest.com/openview/ff1f738e162267ed82c44eeaaf78e71a/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+--------------------------------------------------------------------------------
+
+[28] Undergraduates' experiences with and attitudes toward international teaching assistants
+Authors: ['BS Plakans']
+Year: 1997
+Venue: TESOL quarterly
+Citations: 201
+Abstract: Oral proficiency tests for ITA screening may need to include more opportunities for the  examinees to demonstrate their listening skills and ability to respond to typically informal student
+URL: https://onlinelibrary.wiley.com/doi/abs/10.2307/3587976
+
+--------------------------------------------------------------------------------
+
+[29] How International Teaching Assistant Programs Can Prevent Lawsuits.
+Authors: ['N Oppenheim']
+Year: 1997
+Venue: NA
+Citations: 15
+Abstract: As I reviewed the ITA policies and procedures promulgated by the university, it was obvious   ' oral proficiency is tested. Second, they must provide evidence that the oral proficiency
+URL: https://eric.ed.gov/?id=ED408886
+
+--------------------------------------------------------------------------------
+
+[30] The ITA problem: A ready-to-use simulation
+Authors: ['GB Halleck']
+Year: 2008
+Venue: Simulation & Gaming
+Citations: 17
+Abstract: ITAs improve their oral proficiency (so that they can pass the SPEAK Test, required of the  Board of Regents) and one to help ITAs pass the mock teaching test (The ITA Test, required for
+URL: https://journals.sagepub.com/doi/abs/10.1177/1046878107308060
+
+--------------------------------------------------------------------------------
+
+[31] Temple University's ITA placement test in times of COVID-19
+Authors: ['E Wagner', 'A Krylova']
+Year: 2021
+Venue: Language Assessment Quarterly
+Citations: 16
+Abstract: This study examined how well different test scores predicted ITA teaching performance,  and  Finally, she examined ITA testing procedures at peer institutions, especially those in
+URL: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1862849
+
+--------------------------------------------------------------------------------
+
+[32] ITA Oral Assessment: The examinee's perspective
+Authors: ['JC Gallego', 'J Goodwin']
+Year: 1991
+Venue: … the professoriate of …
+Citations: 7
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[33] Statistical profiling of academic oral English proficiency based on an ITA screening test
+Authors: ['IK Choi']
+Year: 2013
+Venue: NA
+Citations: 2
+Abstract: an internally developed oral proficiency test, is administered to international teaching assistant  (ITA)  that inadequate English oral proficiency lies at the heart of the ITA problem. English
+URL: https://search.proquest.com/openview/2077d673a6f908519aaeb411420110ae/1?pq-origsite=gscholar&cbl=18750
+
+--------------------------------------------------------------------------------
+
+[34] Broadening perspectives on clinical performance assessment: rethinking the nature of in-training assessment
+Authors: ['MJB Govaerts', 'CPM Van der Vleuten']
+Year: 2007
+Venue: Advances in health …
+Citations: 348
+Abstract: ITA focusing on standardisation and objectivity of measurement thus far result in limited  improvement of ITA Based on insights from other disciplines, we propose an approach to ITA that
+URL: https://link.springer.com/article/10.1007/s10459-006-9043-1
+
+--------------------------------------------------------------------------------
+
+[35] 'ITA problem'or opportunity? Online global communication training at a US university to increase undergraduate students' use of collaborative strategies
+Authors: ['S Lindemann', 'K Ashley', 'S Pinard', 'H Jeong']
+Year: 2025
+Venue: Applied Linguistics
+Citations: 0
+Abstract: ‘ITA problem’ or opportunity? Online global communication training at a US university to  increase undergraduate students’ use of collaborative strategies | Applied Linguistics | Oxford
+URL: https://academic.oup.com/applij/article-abstract/46/3/522/7762919
+
+--------------------------------------------------------------------------------
+
+[36] Sources of Conflict in International Teaching Assistant (ITA) Training Programs.
+Authors: ['G De Berly']
+Year: 1997
+Venue: NA
+Citations: 3
+Abstract: ITA trainers and their constituencies as perceived by ITA  settings: between an ITA and the  ITA trainer/administrator;  and the ITA; and between a department head and the ITA trainer/
+URL: https://eric.ed.gov/?id=ED423777
+
+--------------------------------------------------------------------------------
+
+[37] Rater Effects in ITA Testing: ESL Teachers' versus American Undergraduates' Judgments of Accentedness, Comprehensibility, and Oral Proficiency.
+Authors: ['CN Hsieh']
+Year: 2011
+Venue: NA
+Citations: 71
+Abstract: severity with respect to their ratings of oral proficiency. However, the comparisons of ratings   important bearings on raters' judgments of ITA speech. [The dissertation citations contained
+URL: https://eric.ed.gov/?id=ED529548
+
+--------------------------------------------------------------------------------
+
+[38] The approved Italian version of the comprehensive assessment of at‐risk mental states (CAARMS‐ITA): Field test and psychometric features
+Authors: ['L Pelizza', 'F Paterlini', 'S Azzali']
+Year: 2019
+Venue: Early intervention in …
+Citations: 74
+Abstract: In this study, we tested the reliability and validity of the CAARMS-ITA in a sample of young  Italian help seekers. To allow comparison between different versions of the CAARMS, we
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/eip.12669
+
+--------------------------------------------------------------------------------
+
+[39] Life cycle assessment of bagasse fiber reinforced biocomposites
+Authors: ['D Ita-Nagy', 'I Vázquez-Rowe', 'R Kahhat', 'I Quispe']
+Year: 2020
+Venue: Science of the Total …
+Citations: 78
+Abstract: This study aims to evaluate the life cycle environmental implications of producing fiber-reinforced  biocomposite pellets, compared with sugarcane- and petroleum-based polyethylene (
+URL: https://www.sciencedirect.com/science/article/pii/S0048969720310974
+
+--------------------------------------------------------------------------------
+
+[40] Educational impact of in‐training assessment (ITA) in postgraduate medical education: a qualitative study of an ITA programme in actual practice
+Authors: ['C Ringsted', 'AH Henriksen', 'AM Skaarup']
+Year: 2004
+Venue: Medical …
+Citations: 62
+Abstract: ITA programme. Firstly, we wanted to explore how the programme worked in actual practice:  how the administration of the ITA  impact the introduction of ITA had on the educational
+URL: https://asmepublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2929.2004.01841.x
+
+--------------------------------------------------------------------------------
+
+[41] Biomarkers in surface sediments from the Cross River and estuary system, SE Nigeria: assessment of organic matter sources of natural and anthropogenic origins
+Authors: ['O Pisani', 'DR Oros', 'OE Oyo-Ita', 'BO Ekpo', 'R Jaffé']
+Year: 2013
+Venue: Applied …
+Citations: 66
+Abstract: Herein, lipid biomarker analysis is applied to surface sediments from the southeastern Niger  Delta region for the quantitative determination of aliphatic lipids, steroids and triterpenoids
+URL: https://www.sciencedirect.com/science/article/pii/S0883292713000188
+
+--------------------------------------------------------------------------------
+
+[42] Assessment of seasonal and annual rainfall trend in Calabria (southern Italy) with the ITA method
+Authors: ['T Caloiero', 'R Coscarelli', 'E Ferrari']
+Year: 2020
+Venue: Journal of Hydroinformatics
+Citations: 49
+Abstract: Trend Analysis (ITA) technique, which allows the identification of a trend in the low,  medium and high values of a series. Moreover, the results obtained with the ITA have been
+URL: https://iwaponline.com/jh/article-abstract/22/4/738/71336
+
+--------------------------------------------------------------------------------
+
+[43] Drought investigation and trend assessment in Macta watershed (Algeria) by SPI and ITA methodology
+Authors: ['A Elouissi', 'B Benzater', 'I Dabanli', 'M Habi']
+Year: 2021
+Venue: Arabian Journal of …
+Citations: 36
+Abstract: In this study, the ITA method is modified by adding two lines (red and blue) to distinguish  two regions. The dry (wet) region represents SPI values less than or equal (greater than or
+URL: https://link.springer.com/article/10.1007/s12517-021-07670-7
+
+--------------------------------------------------------------------------------
+
+[44] Interrater reliability of the authorized Italian version of the Comprehensive Assessment of At-Risk Mental States (CAARMS-ITA).
+Authors: ['F Paterlini', 'L Pelizza', 'G Galli', 'S Azzali']
+Year: 2019
+Venue: Journal of …
+Citations: 35
+Abstract: Conclusions: The CAARMS-ITA is a reliable instrument for detecting and assessing at-risk  mental states in Italian clinical setting.(PsycINFO Database Record (c) 2019 APA, all rights
+URL: https://psycnet.apa.org/record/2019-20701-004
+
+--------------------------------------------------------------------------------
+
+[45] Trypanocidal and toxicological assessment in vitro and in silico of three sesquiterpene lactones from Asteraceae plant species
+Authors: ['', 'SL Guzmán-Gutiérrez', 'M De Ita']
+Year: 2019
+Venue: Food and Chemical …
+Citations: 33
+Abstract: We report the effect of the Sesquiterpene Lactones Ambrosin, Incomptine B and Glaucolide  E against seven strains of Trypanosoma cruzi, the etiological agent of Chagas Disease.
+URL: https://www.sciencedirect.com/science/article/pii/S0278691518308962
+
+--------------------------------------------------------------------------------
+
+[46] Evaluating ITA Preparation Programs: Intensive versus Concurrent.
+Authors: ['J Williams']
+Year: 1990
+Venue: NA
+Citations: 6
+Abstract: I should qualify this latter statement by saying that not all of the students showed similar  language proficiency but a similar range of abilitywas found in the two groups. All were recent
+URL: https://eric.ed.gov/?id=ED332502
+
+--------------------------------------------------------------------------------
+
+[47] Microbial and physicochemical assessment of Foma River, Ita-Nmo, Ilorin, Nigeria: an important source of domestic water in Ilorin Metropolis
+Authors: ['TO Agbabiaka', 'GP Oyeyiola']
+Year: 2012
+Venue: International Journal of Plant …
+Citations: 45
+Abstract: The importance of Foma River, ItaNmo, Ilorin to the populace of some communities near the   Forty-eight water samples from four sampling points along the course of Foma River, Ita-Nmo
+URL: https://www.researchgate.net/profile/Toyin-Agbabiaka/publication/267782197_MICROBIAL_AND_PHYSICOCHEMICAL_ASSESSMENT_OF_FOMA_RIVER_ITA-_NMO_ILORIN_NIGERIA_AN_IMPORTANT_SOURCE_OF_DOMESTIC_WATER_IN_ILORIN_METROPOLIS/links/0046351641ec097fa8000000/MICROBIAL-AND-PHYSICOCHEMICAL-ASSESSMENT-OF-FOMA-RIVER-ITA-NMO-ILORIN-NIGERIA-AN-IMPORTANT-SOURCE-OF-DOMESTIC-WATER-IN-ILORIN-METROPOLIS.pdf
+
+--------------------------------------------------------------------------------
+
+[48] Interactive technology assessment in the real world: Dual dynamics in an iTA exercise on genetically modified vines
+Authors: ['C Marris', 'PB Joly', 'A Rip']
+Year: 2008
+Venue: Science, technology, & human …
+Citations: 55
+Abstract: on the way in which the output of the iTA exercise would be used by INRA managers in their   GM vines would be uprooted and no new trials would be conducted until the iTA was over.
+URL: https://journals.sagepub.com/doi/abs/10.1177/0162243907306195
+
+--------------------------------------------------------------------------------
+
+[49] Ultrasonic assessment of internal thoracic artery graft flow in the revascularized heart
+Authors: ['CC Canver', 'NA Dame']
+Year: 1994
+Venue: The Annals of thoracic surgery
+Citations: 123
+Abstract: of the ITA and a  of the ITA and free flow from the distal cut end of the ITA validated reliability.  After coronary grafting, separate perivascular flow probes over the saphenous vein and ITA
+URL: https://www.sciencedirect.com/science/article/pii/0003497594910871
+
+--------------------------------------------------------------------------------
+
+[50] Risk assessment of human exposure to polycyclic aromatic hydrocarbons via shrimp (Macrobrachium felicinum) consumption along the Imo River catchments, SE …
+Authors: ['MI Dosunmu', 'IO Oyo-Ita', 'OE Oyo-Ita']
+Year: 2016
+Venue: Environmental geochemistry and …
+Citations: 21
+Abstract: Shrimp species (Macrobrachium felicinum) collected from estuarine mangrove area of the  Imo River is an important route of exposure to polycyclic aromatic hydrocarbons (PAHs). The
+URL: https://link.springer.com/article/10.1007/s10653-016-9799-z
+
+--------------------------------------------------------------------------------
+
+[51] Modeling of hydrogeological parameters and aquifer vulnerability assessment for groundwater resource potentiality prediction at Ita Ogbolu, Southwestern Nigeria
+Authors: ['OO Falowo']
+Year: 2023
+Venue: Modeling Earth Systems and Environment
+Citations: 12
+Abstract: and vulnerability mapping to vertical contamination, utilizing multi-criteria evaluation  techniques and analytical hierarchy process were carried out within five geologic units in Ita-Ogbolu
+URL: https://link.springer.com/article/10.1007/s40808-022-01490-8
+
+--------------------------------------------------------------------------------
+
+[52] Fifteen-to twenty-one-year angiographic assessment of internal thoracic artery as a bypass conduit
+Authors: ['HB Barner', 'MG Barnett']
+Year: 1994
+Venue: The Annals of thoracic surgery
+Citations: 162
+Abstract: and ITA coronary bypass procedures at intervals of 0 days to 12 years after operation revealed  the ITA to be histologically normal or nearly normal. The autopsy studies of the native ITA
+URL: https://www.sciencedirect.com/science/article/pii/0003497594901147
+
+--------------------------------------------------------------------------------
+
+[53] Assessment of glycemic control after islet transplantation using the continuous glucose monitor in insulin-independent versus insulin-requiring type 1 diabetes …
+Authors: ['BW Paty', 'PA Senior', 'JRT Lakey']
+Year: 2006
+Venue: Diabetes technology …
+Citations: 75
+Abstract: was not significantly different between ITA-II and ITA-IR subjects (ITA-II, 1.2  ITA). Mean  high glucose values were significantly lower in ITA subjects compared with NT subjects (ITA
+URL: https://www.liebertpub.com/doi/abs/10.1089/dia.2006.8.165
+
+--------------------------------------------------------------------------------
+
+[54] Development of a direct assessment for measuring students' ability to make connections
+Authors: ['M West', 'ME Ita', 'L Rumreich', 'RL Kajfez']
+Year: 2021
+Venue: 2021 ASEE Virtual …
+Citations: 12
+Abstract: The integration of entrepreneurial minded learning (EML) into engineering courses to develop  students’ entrepreneurial mindset (EM) is growing in popularity through efforts such as the
+URL: https://peer.asee.org/development-of-a-direct-assessment-for-measuring-students-ability-to-make-connections
+
+--------------------------------------------------------------------------------
+
+[55] Local language testing: Design, implementation, and development
+Authors: ['S Dimova', 'X Yan', 'A Ginther']
+Year: 2020
+Venue: NA
+Citations: 80
+Abstract: Because the SPEAK was a general language proficiency test, it was not linked in any way  to the ITA context, and the development of a new test created an opportunity to represent the
+URL: https://www.taylorfrancis.com/books/mono/10.4324/9780429492242/local-language-testing-slobodanka-dimova-april-ginther-xun-yan
+
+--------------------------------------------------------------------------------
+
+[56] Geochemical assessment of heavy metal contamination in rural and urban wetlands in Akwa Ibom State, Nigeria
+Authors: ['RE Ita', 'ED Anwana']
+Year: 2017
+Venue: New York Science Journal
+Citations: 15
+Abstract: Nutrient and waste inputs into wetlands have dire consequences on both soil and water  quality and by extension dependent aquatic flora and fauna. Within this purview, heavy metal
+URL: https://www.researchgate.net/profile/Re-Ita/post/How_to_Calculate_the_Enrichment_factor_EF_of_a_contaminated_soil/attachment/5aa749f6b53d2f0bba57a7b7/AS%3A603566544797696%401520912886679/download/06_32114nys101117_43_51.pdf
+
+--------------------------------------------------------------------------------
+
+[57] Teacher factors and perceived assessment practices needs of social studies teachers in Cross River State, Nigeria
+Authors: ['EE Ekuri', 'JM Egbai', 'CI Ita']
+Year: 2011
+Venue: Educational Assessment, Evaluation and …
+Citations: 12
+Abstract: This study evaluated perceived assessment practices needs among social studies teachers  in Cross River State, Nigeria, in relation to some teacher factors (attitude towards social
+URL: https://link.springer.com/article/10.1007/s11092-011-9129-z
+
+--------------------------------------------------------------------------------
+
+[58] Exploring ESL teachers' alternative assessment strategies and practices in the classroom
+Authors: ['CKS Singh', 'MM Muhammad', 'NA Mostafa']
+Year: 2021
+Venue: Journal of Language …
+Citations: 39
+Abstract: alternative assessments to assess student language proficiency and skill development.   used by Teacher Ita to monitor the students’ development in learning. Teacher Ita believed that
+URL: http://www.jlls.org/index.php/jlls/article/view/2867
+
+--------------------------------------------------------------------------------
+
+[59] Further Evidence Relevant to the Assessment of ita
+Authors: ['D Cartwright', 'B Jones']
+Year: 1967
+Venue: Educational Research
+Citations: 5
+Abstract: Accuracy score) in conjunction with the use of ita, than with to There are reasons for thinking   taught with ita The results of this study favour the former group. The structure of ita obviously
+URL: https://www.tandfonline.com/doi/pdf/10.1080/0013188670100106
+
+--------------------------------------------------------------------------------
+
+[60] Using Concept Maps for Assessment in an Aerospace Structures Course: A Comparison of Scoring Techniques
+Authors: ['KM Kecskemety', 'M Ita', 'L Rumreich']
+Year: 2022
+Venue: AIAA Scitech 2022 …
+Citations: 6
+Abstract: AIAA SCITECH 2022 Forum: Using Concept Maps for Assessment in an Aerospace  Structures Course: A Comparison of Scoring Techniques Page 1 Using Concept Maps for
+URL: https://arc.aiaa.org/doi/abs/10.2514/6.2022-0576
+
+--------------------------------------------------------------------------------
+
+[61] Source and toxicological assessment of polycyclic aromatic hydrocarbons in sediments from Imo river, Southeastern Nigeria
+Authors: ['IO Oyo-Ita', 'OE Oyo-Ita', 'SU Ugim']
+Year: 2019
+Venue: Polycyclic Aromatic …
+Citations: 10
+Abstract: Polycyclic aromatic hydrocarbons (PAHs) in sediments from the Imo River were analyzed to  characterize their sources and assess their toxicity potential. The total PAH concentrations
+URL: https://www.tandfonline.com/doi/abs/10.1080/10406638.2017.1300177
+
+--------------------------------------------------------------------------------
+
+[62] Reviewing environmental life cycle impacts of biobased polymers: current trends and methodological challenges
+Authors: ['D Ita-Nagy', 'I Vázquez-Rowe', 'R Kahhat']
+Year: 2020
+Venue: … International Journal of …
+Citations: 54
+Abstract: Purpose The aim of this review is to evaluate previous life cycle assessment (LCA) studies  of first- and second-generation bioplastics, to understand the state of the art and the main
+URL: https://link.springer.com/article/10.1007/s11367-020-01829-2
+
+--------------------------------------------------------------------------------
+
+[63] Assessment of shallow interflow velocities in alpine catchments for the improvement of hydrological modelling
+Authors: ['', 'H Pirkl', 'K Klebinder', 'C Hörfarter', 'A Ita']
+Year: 2014
+Venue: Engineering Geology for …
+Citations: 12
+Abstract: Advective long-duration rain events play an important role in the development of floods. A  realistic depiction of interflow processes is not possible with the most customary precipitation/
+URL: https://link.springer.com/chapter/10.1007/978-3-319-09054-2_122
+
+--------------------------------------------------------------------------------
+
+[64] Multiple layers of meaning in an oral proficiency test: The complementary roles of nonverbal, paralinguistic, and verbal behaviors in assessment decisions
+Authors: ['S Jenkins', 'I Parra']
+Year: 2003
+Venue: The Modern Language Journal
+Citations: 135
+Abstract: This study investigated the influence of nonverbal behavior in the context of interactive talk  during the assessment of an oral proficiency interview test. The participants were 4 Spanish–
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/1540-4781.00180
+
+--------------------------------------------------------------------------------
+
+[65] Assessment of cell-free DNA (cfDNA) concentrations in the perioperative period can predict risk of recurrence in patients with non-metastatic breast cancer
+Authors: ['F Hassan', 'JH Wang', 'C Cullinane', 'M Ita', 'M Corrigan']
+Year: 2022
+Venue: Surgical oncology
+Citations: 7
+Abstract: Background Circulating cell-free DNA (cfDNA) is a potential non-invasive biomarker of  disease status in patients with cancer, and provides important diagnostic and prognostic
+URL: https://www.sciencedirect.com/science/article/pii/S0960740422000469
+
+--------------------------------------------------------------------------------
+
+[66] Assessment of the nutrient status of soil under Chromolaena odorata L.(Siam weed) fallow in Moniya, Oyo State Southwestern Nigeria
+Authors: ['', 'AI Iwara', 'OE Ndakara', 'TN Deekor', 'AE Ita']
+Year: 2012
+Venue: Ethiopian Journal of …
+Citations: 12
+Abstract: In Nigeria, soil fertility restoration for improved agricultural production is a recurrent issue of  immense importance mostly with her ever increasing population currently above 150 million.
+URL: https://www.ajol.info/index.php/ejesm/article/view/77957
+
+--------------------------------------------------------------------------------
+
+[67] A functional assessment of anatomical variants of the recurrent laryngeal nerve during thyroidectomies using neuromonitoring
+Authors: ['B Wojtczak', 'K Kaliszewski', 'K Sutkowski', 'M Bolanowski']
+Year: 2018
+Venue: Endocrine
+Citations: 53
+Abstract: The right RLN was below the ITA in 76.67% of the patients, and the left RNL  ITA on the two  sides; and gender did not significantly influence the relationship between the RLN and ITA on
+URL: https://link.springer.com/article/10.1007/s12020-017-1466-3
+
+--------------------------------------------------------------------------------
+
+[68] The information technology agreement: An assessment of world trade in information technology products
+Authors: ['M Anderson', 'J Mohs']
+Year: 2011
+Venue: J. Int'l Com. & Econ.
+Citations: 38
+Abstract: of complex global supply chains for IT products, rapid deployment of new technologies,  and technology convergence since the ITs inception, shine new light on the role of the ITA in
+URL: https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/jice3&section=8
+
+--------------------------------------------------------------------------------
+
+[69] Sea level rise and flood risk assessment in Ita-Uusimaa
+Authors: ['H Virkki', 'H Kallio', 'O Orenius']
+Year: 2006
+Venue: SPECIAL PAPER-GEOLOGICAL …
+Citations: 10
+Abstract: Spatial planning plays an important role in mitigating the impacts of sea level rise and flooding.  This has also been recognised on a national level in the report prepared by the Ministry
+URL: https://www.researchgate.net/profile/Philipp-Schmidt-Thome/publication/290770202_Sea_level_change_assessment_in_the_Baltic_Sea_Region_and_spatial_planning_responses/links/5b18d04aa6fdcca67b62ae88/Sea-level-change-assessment-in-the-Baltic-Sea-Region-and-spatial-planning-responses.pdf#page=96
+
+--------------------------------------------------------------------------------
+
+[70] In‐training assessment developments in postgraduate education in E urope
+Authors: ['C van der Vleuten', 'B Verhoeven']
+Year: 2013
+Venue: ANZ Journal of Surgery
+Citations: 66
+Abstract: We will elaborate on the ITA in more detail later on.  This is the organizational counterpart  of ITA: in-training evaluation of  Before returning to ITA and its crucial role, we will first discuss
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ans.12190
+
+--------------------------------------------------------------------------------
+
+[71] Interpreting testing and assessment: A state-of-the-art review
+Authors: ['C Han']
+Year: 2022
+Venue: Language Testing
+Citations: 59
+Abstract: , covering three major areas where ITA plays a critical role: interpreter  ITA as an emergent  endeavor and a worthwhile research area. Ultimately, we hope to increase the visibility of ITA
+URL: https://journals.sagepub.com/doi/abs/10.1177/02655322211036100
+
+--------------------------------------------------------------------------------
+
+[72] Interactive technology assessment and wide reflective equilibrium
+Authors: ['RPB Reuzel', 'GJ Van der Wilt']
+Year: 2001
+Venue: The Journal of …
+Citations: 60
+Abstract: In this article we examine the issue of justification in interactive technology assessment (iTA),   Then, we explain the concept of iTA. In iTA, normative choices, as well as the perspectives
+URL: https://academic.oup.com/jmp/article-abstract/26/3/245/899918
+
+--------------------------------------------------------------------------------
+
+[73] Patency of coronary bypass grafts: assessment with breath-hold contrast-enhanced MR angiography--value of a non-electrocardiographically triggered technique.
+Authors: ['BJ Wintersperger', 'MG Engelmann', 'A Von Smekal']
+Year: 1998
+Venue: Radiology
+Citations: 113
+Abstract: thoracic artery (ITA) grafts after coronary bypass surgery. MATERIALS AND METHODS:  Twenty-seven patients with 76 coronary bypass grafts (48 venous, 28 ITA) were examined 26.5
+URL: https://pubs.rsna.org/doi/abs/10.1148/radiology.208.2.9680557
+
+--------------------------------------------------------------------------------
+
+[74] Toward a comparative framework for learning from experiences with interactive technology assessment
+Authors: ['J Grin', 'R Hoppe']
+Year: 1995
+Venue: Industrial & Environmental Crisis Quarterly
+Citations: 29
+Abstract: pretive forms of ITA, but only if the analysts consistently apply a  ITA, a set of institutional  and methodological criteria to compare and assess practical approaches to ITA is developed.
+URL: https://journals.sagepub.com/doi/abs/10.1177/108602669500900105
+
+--------------------------------------------------------------------------------
+
+[75] Arcopilus aureus MaC7A as a New Source of Resveratrol: Assessment of Amino Acid Precursors, Volatiles, and Fungal Enzymes for Boosting Resveratrol Production …
+Authors: ['', 'JL Varela-Caselis', 'A Rivera', 'MÁ Valencia de Ita']
+Year: 2021
+Venue: Applied Sciences
+Citations: 5
+Abstract: Featured Application The synthesis of the nutraceutical resveratrol by filamentous fungi  represents a new and exciting area for bioprocess research. Considering that resveratrol was
+URL: https://www.mdpi.com/2076-3417/11/10/4583
+
+--------------------------------------------------------------------------------
+
+[76] A comparative assessment of electoral management bodies and administration of elections in Nigeria and Ghana
+Authors: ['VE Ita', 'AJ Atai']
+Year: 2018
+Venue: IOSR Journal of Humanities and Social Science
+Citations: 5
+Abstract: Ghana and Nigeria are two countries in the West African sub-region that share significant  historical similarities like British colonialism, nationalism, economic crisis, prolonged military
+URL: https://www.researchgate.net/profile/Victor-Ita-2/publication/361107901_A_Comparative_Assessment_of_Electoral_Management_Bodies_and_Administration_of_Elections_in_Nigeria_and_Ghana/links/629d9f9855273755ebd681b0/A-Comparative-Assessment-of-Electoral-Management-Bodies-and-Administration-of-Elections-in-Nigeria-and-Ghana.pdf
+
+--------------------------------------------------------------------------------
+
+[77] Psychometric assessment of the Italian version of the melanoma module (SCNS-M12-Ita) of the Supportive Care Needs Survey (SCNS-SF34)
+Authors: ['M Miniotti', 'A Zeneli', 'S Bassino', 'S Pavan']
+Year: 2020
+Venue: Tumori …
+Citations: 6
+Abstract: Introduction: This study examines the validity and the reliability of the translated-into-Italian  version of the SCNS-SF34 melanoma module (SCNS-M12-Ita) for a sample of patients with
+URL: https://journals.sagepub.com/doi/abs/10.1177/0300891619868284
+
+--------------------------------------------------------------------------------
+
+[78] Environmental footprint of critical agro-export products in the Peruvian hyper-arid coast: A case study for green asparagus and avocado
+Authors: ['X Esteve-Llorens', 'D Ita-Nagy', 'E Parodi']
+Year: 2022
+Venue: Science of the Total …
+Citations: 48
+Abstract: Peru has become one of the world's main agricultural hubs for a wide range of fruits and  vegetables. Two of these products, avocado and green asparagus, have raised attention in
+URL: https://www.sciencedirect.com/science/article/pii/S0048969721067620
+
+--------------------------------------------------------------------------------
+
+[79] Air quality assessment along a landfill site in Uyo
+Authors: ['FO Ogbemudia', 'ED Anwana', 'RE Ita']
+Year: 2020
+Venue: Nigerian Journal of Botany
+Citations: 6
+Abstract: Air quality assessment along a landfill site was carried out in Uyo using stratified sampling  method. Spatially, the landfill site had the highest concentrations of SO2 (0.26±0.15 ppm),
+URL: https://www.ajol.info/index.php/njbot/article/view/235808
+
+--------------------------------------------------------------------------------
+
+[80] Assessment of hardness in as-cast and homogenized Zn-Al-Cu alloys
+Authors: ['', 'VM Lopez-Hirata', 'A De Ita-De la Torre']
+Year: 2011
+Venue: Materials …
+Citations: 8
+Abstract: The Al-Zn-Cu ternary system is one of the most important alloy systems. It is important for  the 7xxx series Al-based alloys1) and Zn-Al based alloys, ZAMAK. 2) For instance, Zn-Al-Cu
+URL: https://www.jstage.jst.go.jp/article/matertrans/52/8/52_M2011084/_article/-char/ja/
+
+--------------------------------------------------------------------------------
+
+[81] Policy advice in technology assessment: Shifting roles, principles and boundaries
+Authors: ['A Bauer', 'K Kastenhofer']
+Year: 2019
+Venue: Technological Forecasting and Social Change
+Citations: 43
+Abstract: Over past decades, the notion of policy advice in technology assessment (TA) has widened,  going beyond traditional advice in the form of expert opinions by adding a broad range of
+URL: https://www.sciencedirect.com/science/article/pii/S0040162518300325
+
+--------------------------------------------------------------------------------
+
+[82] Alternative Assessment and Technology Enhanced Assessment practices: Research to inform Faculty Development processes
+Authors: ['B Doria', 'F Picasso']
+Year: 2024
+Venue: QWERTY
+Citations: 4
+Abstract: Assessment practices in the Italian universities keep following a traditional approach, based  on teaching methodologies connected to knowledge transmission and summative
+URL: https://iris.unitn.it/handle/11572/414150
+
+--------------------------------------------------------------------------------
+
+[83] Parliamentary Technology Assessment Institutions and Practices. A Systematic Comparison of 15 Members of the EPTA Network (ITA manu: script 16-02)
+Authors: ['M Nentwich']
+Year: 2016
+Venue: NA
+Citations: 4
+Abstract: work done by ITA and are interested to engage in intensive exchange with ITA staff on issues  related to the political and legislative activities of the Austrian Parliament. [] The ITA has
+URL: https://epub.oeaw.ac.at/?arp=0x00345db6
+
+--------------------------------------------------------------------------------
+
+[84] Quantitative assessment of the germicidal efficacy of ultrasonic energy
+Authors: ['G Scherba', 'RM Weigel']
+Year: 1991
+Venue: Applied and environmental …
+Citations: 424
+Abstract: p and the temporal-average intensity (ITA) is determined from PRMS* Three ultrasonic  ITA  at the spatial location in the sound field which yields the greatest value. The ISATA is the ITA
+URL: https://journals.asm.org/doi/abs/10.1128/aem.57.7.2079-2084.1991
+
+--------------------------------------------------------------------------------
+
+[85] Integration of technology assessment in R&D management practices
+Authors: ['R Berloznik', 'L Van Langenhove']
+Year: 1998
+Venue: Technological forecasting and social …
+Citations: 60
+Abstract: In our view, ITA should be considered as a specific form of CTA because the main distinction  between the EWTA and CTA approach (namely, guiding instead of steering) remains a full
+URL: https://www.sciencedirect.com/science/article/pii/S004016259700084X
+
+--------------------------------------------------------------------------------
+
+[86] ASSESSMENT OF UNIVERSITY LECTURERS'PERSONAL VARIABLES AND ATTITUDE TOWARDS LARGE LANGUAGE MODELS AS TOOLS FOR PROFESSIONAL …
+Authors: ['C Ita', 'BD Otu', 'JM Egbai']
+Year: 2024
+Venue: African Journal of Theory and Practice of …
+Citations: 1
+Abstract: This study evaluated the attitudes of university lecturers at the University of Calabar, Calabar  (UNICAL), and the University of Cross River State (UNICROSS) regarding large language
+URL: https://earnia.org/e4e356ef6f4f9e939e06f04e06f60ef3ef0560f0de6/10.%20RD24-8.pdf
+
+--------------------------------------------------------------------------------
+
+[87] Graft flow assessment using a transit time flow meter in fractional flow reserve–guided coronary artery bypass surgery
+Authors: ['K Honda', 'Y Okamura', 'Y Nishimura', 'S Uchita']
+Year: 2015
+Venue: The Journal of thoracic …
+Citations: 82
+Abstract: An in situ ITA (both right and left ITA) was used as a bypass graft to the LAD artery area. No   For LAD artery revascularization, left ITA was used in 58 patients and right ITA in 14 patients.
+URL: https://www.sciencedirect.com/science/article/pii/S0022522315002937
+
+--------------------------------------------------------------------------------
+
+[88] Evaluating the effect of management on patients with oral hypofunction: A longitudinal study
+Authors: ['W Onuki', 'J Magara', 'K Ito', 'R Ita', 'S Kawada']
+Year: 2023
+Venue: …
+Citations: 5
+Abstract: Introduction Declining oral function may affect subsequent physical frailty in the older  population. The aim of this longitudinal study was to summarise data on patients who underwent
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ger.12655
+
+--------------------------------------------------------------------------------
+
+[89] Assessment of sternal vascularity with single photon emission computed tomography after harvesting of the internal thoracic artery
+Authors: ['AJ Cohen', 'J Lockman', 'M Lorberboym', 'O Bder']
+Year: 1999
+Venue: The Journal of thoracic …
+Citations: 159
+Abstract: (ITA) as a graft to the left anterior descending artery during coronary artery bypass grafting  (CABG) is clearly established.1, 2 Whether the left ITA  of the type of ITA harvest on sternal
+URL: https://www.sciencedirect.com/science/article/pii/S0022522399701881
+
+--------------------------------------------------------------------------------
+
+[90] An assessment of intra-urban mass transit operators in Ibadan metropolis, Nigeria
+Authors: ['OK Awoyemi', 'AE Ita', 'MO Lawal', 'CE Dienne']
+Year: 2013
+Venue: International Journal of …
+Citations: 4
+Abstract: The study carried out an assessment of intra-urban mass transit operators in Ibadan  Metropolis. The study area covered the eleven Local Government Areas that make up Ibadan
+URL: https://www.academia.edu/download/33583180/URBAN_MASS_TRANSIT_PAPER(1).pdf
+
+--------------------------------------------------------------------------------
+
+[91] Biomasfor: an open-source holistic model for the assessment of sustainable forest bioenergy
+Authors: ['S Sacchelli', 'P Zambelli', 'P Zatelli', 'M Ciolli']
+Year: 2013
+Venue: IForest
+Citations: 29
+Abstract: This paper presents an open-source spatial analysis model (Biomasfor) that can quantify  the availability of forest wood-energy biomass in the light of ecological and economic
+URL: https://iris.unitn.it/handle/11572/33076
+
+--------------------------------------------------------------------------------
+
+[92] Depletion Effects on a Currently Active Fault and Existing Subsidence Bowl: Geomechanics Assessment—Giant Field Northern Oman
+Authors: ['L Qobi', 'J Ita', 'C Von Winterfeld', 'J Shukaili']
+Year: 2009
+Venue: IPTC 2009 …
+Citations: 6
+Abstract: This paper discusses the Geomechanical interaction between vertically stacked reservoirs,  two of which are currently producing and deeper reservoirs that are being considered for
+URL: https://www.earthdoc.org/content/papers/10.3997/2214-4609-pdb.151.iptc13339
+
+--------------------------------------------------------------------------------
+
+[93] The impact of health technology assessment reports on decision making in Austria
+Authors: ['I Zechmeister', 'I Schumacher']
+Year: 2012
+Venue: … journal of technology assessment in …
+Citations: 67
+Abstract: address the question of whether HTA research at the ITA and at the LBI-HTA has had an   identified all HTA reports produced for that purpose at the ITA and LBI-HTA until April 2010. In
+URL: https://www.cambridge.org/core/journals/international-journal-of-technology-assessment-in-health-care/article/impact-of-health-technology-assessment-reports-on-decision-making-in-austria/6A6999040BE67966A432CBF94795D271
+
+--------------------------------------------------------------------------------
+
+[94] Quality assessment of room acoustic simulation tools by comparing binaural measurements and simulations in an optimized test scenario
+Authors: ['S Pelzer', 'M Aretz', 'M Vorländer']
+Year: 2011
+Venue: Proc. Forum Acusticum …
+Citations: 45
+Abstract: All simulations are conducted using state-of-the-art FE and GA simulation tools developed  at ITA of RWTH Aachen University. The binaural measurements were done using the ITA
+URL: http://www2.users.ak.tu-berlin.de/akgroup/ak_pub/seacen/2011/Pelzer_2011_P2_Quality_assessment_of_room_acoustic_simulation.pdf
+
+--------------------------------------------------------------------------------
+
+[95] Distributions and sources of polycyclic aromatic hydrocarbons in surface sediments from the Cross River estuary, SE Niger Delta, Nigeria
+Authors: ['BO Ekpo', 'OE Oyo-Ita', 'DR Oros']
+Year: 2012
+Venue: … monitoring and assessment
+Citations: 73
+Abstract: Polycyclic aromatic hydrocarbon (PAH) analyses of surface sediments from the Cross River  estuary by gas chromatography–mass spectrometry indicated natural diagenetically derived
+URL: https://link.springer.com/article/10.1007/s10661-011-2019-5
+
+--------------------------------------------------------------------------------
+
+[96] Spatial-temporal rainfall trend and variability assessment in the Upper Wabe Shebelle River Basin, Ethiopia: Application of innovative trend analysis method
+Authors: ['AE Harka', 'NB Jilo', 'F Behulu']
+Year: 2021
+Venue: Journal of Hydrology: Regional Studies
+Citations: 119
+Abstract: Spatial-temporal rainfall trend and variability assessment in the Upper Wabe Shebelle River  Basin, Ethiopia: Application of innovative trend analysis method - ScienceDirect
+URL: https://www.sciencedirect.com/science/article/pii/S2214581821001440
+
+--------------------------------------------------------------------------------
+
+[97] The italian version of the teacher self efficacy scale (TSES-Ita): dimensionality, internal consistency and validity
+Authors: ['R Pisanti', 'P Soraci']
+Year: 2023
+Venue: Journal of …
+Citations: 11
+Abstract: scale (TSES-Ita). We aimed to examine the factor structure of the TSES-Ita and to evaluate  the reliability of the scale. We also examined the validity of the TSES-Ita by assessing its
+URL: https://journals.sagepub.com/doi/abs/10.1177/07342829221133621
+
+--------------------------------------------------------------------------------
+
+[98] Hydrodynamic Performance Assessment of Selected Hydrokinetic Turbine Blade Sections in River Oyun, North-Central Nigeria
+Authors: ['LL Ladokun', 'MM Saba', 'DE Ita']
+Year: 2025
+Venue: Journal of Renewable Energy and …
+Citations: 1
+Abstract: The hydrodynamic performance of lift-based hydrokinetic turbine rotors is typically dependent  on the rotor blade sections, or the profile of the hydrofoil used. Different hydrofoil sections,
+URL: https://www.jree.ir/article_218405.html
+
+--------------------------------------------------------------------------------
+
+[99] The case for ethical technology assessment (eTA)
+Authors: ['E Palm', 'SO Hansson']
+Year: 2006
+Venue: Technological forecasting and social change
+Citations: 345
+Abstract: New technologies often give rise to previously unknown ethical problems, and it often takes  many years to fully integrate them in society. We propose a new form of technology
+URL: https://www.sciencedirect.com/science/article/pii/S004016250500082X
+
+--------------------------------------------------------------------------------
+
+[100] Italian adaptation of the Assessment of Internet and Computer game Addiction scale (AICAs-Ita)
+Authors: ['G Curcio', 'S Peracchia', 'F Presaghi']
+Year: 2018
+Venue: Rassegna di psicologia
+Citations: 2
+Abstract: whether AICAs-Ita scores can  -Ita, in addition to the GAMS and BIS-11 scales for study  2, and CESD and STAY for study 3. The results underlined the psychometric quality of AICAs-Ita
+URL: https://rosa.uniroma1.it/rosa01/rassegna_di_psicologia/article/view/2583
+
+--------------------------------------------------------------------------------
+
+[101] Assessing English‐medium instruction lecturer language proficiency across disciplines
+Authors: ['S Dimova', 'J Kling']
+Year: 2018
+Venue: tesol QUARTERLY
+Citations: 121
+Abstract: Despite these differences, the development and use of EMI lecturer certification can be  supported by the discussions in the ITA literature, especially those related to the selection of the
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/tesq.454
+
+--------------------------------------------------------------------------------
+
+[102] Fostering deep and active learning through assessment
+Authors: ['L Hand', 'P Sanderson', "M O'Neil"]
+Year: 1996
+Venue: Accounting Education
+Citations: 60
+Abstract: The 'introduction to accounting' (ITA) module under review in this paper was one of a batch  of six common-core semesterized modules delivered for the first time during semester 11993-
+URL: https://www.tandfonline.com/doi/abs/10.1080/09639289600000013
+
+--------------------------------------------------------------------------------
+
+[103] In-training assessment (ITA): designing the whole to be greater than the sum of the parts.
+Authors: ['JK Savage']
+Year: 2006
+Venue: Medical Education
+Citations: 3
+Abstract: In-training assessment (ITA) has been recently interpreted as  of each individual tool, ITA is  seen as strategically incorporating  , and its contribution to the broader ITA and whole school
+URL: https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=03080110&asa=N&AN=19203459&h=dpJOLneJCQTDKS9fxnjE%2FqU9HrvL7jc65UtjCgyO6PyBDwmRN6DWh9GLWZV1xKTHtA2bmITBlAnR4vkPUYG3WQ%3D%3D&crl=c
+
+--------------------------------------------------------------------------------
+
+[104] Assessment of toxicity potential of sedimentary PAHS from refome Lake, South-East Nigeria over the last century
+Authors: ['IO Oyo-Ita', 'EE Oyo-Ita', 'EO Ikip']
+Year: 2020
+Venue: Journal of …
+Citations: 2
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[105] Transient response analysis for fault detection and pipeline wall condition assessment in field water transmission and distribution pipelines and networks
+Authors: ['ML Stephens']
+Year: 2008
+Venue: NA
+Citations: 56
+Abstract: (ITA) involve modelling the transient response of a pipeline with a discrete or extended  blockage. The advantage in performing transient response analysis and/or ITA is that  ITA is then
+URL: https://www.researchgate.net/profile/Mark-Stephens-8/publication/267818587_Transient_Response_Analysis_for_Fault_Detection_and_Pipeline_Wall_Condition_Assessment_in_Field_Water_Transmission_and_Distribution_Pipelines_and_Networks/links/54ae7c1f0cf24aca1c70b3c1/Transient-Response-Analysis-for-Fault-Detection-and-Pipeline-Wall-Condition-Assessment-in-Field-Water-Transmission-and-Distribution-Pipelines-and-Networks.pdf
+
+--------------------------------------------------------------------------------
+
+[106] Incident tree model and incident tree analysis method for quantified risk assessment: an in-depth accident study in traffic operation
+Authors: ['W Wang', 'X Jiang', 'S Xia', 'Q Cao']
+Year: 2010
+Venue: Safety Science
+Citations: 99
+Abstract: an incident tree model and incident tree analysis (ITA) method for identification of uncertain,   The case study of vehicle-leaving-roadway accident with ITA illustrates that the proposed
+URL: https://www.sciencedirect.com/science/article/pii/S0925753510001013
+
+--------------------------------------------------------------------------------
+
+[107] Changes to the ANZCA In-Training Assessment (ITA) process in 2010
+Authors: ['L Roberts', 'G Pain', 'M Lawson']
+Year: 2009
+Venue: ANZCA Bulletin
+Citations: 0
+Abstract: In the interim, a review of the ITA process has been conducted. The goal of this ITA review is   The ITA review was initiated in response to feedback from SOTs and trainees. The planned
+URL: https://search.informit.org/doi/abs/10.3316/informit.884382419178872
+
+--------------------------------------------------------------------------------
+
+[108] Developing a methodology to quantify mismanaged plastic waste entering the ocean in coastal countries
+Authors: ['D Ita‐Nagy', 'I Vázquez‐Rowe']
+Year: 2022
+Venue: Journal of Industrial …
+Citations: 20
+Abstract: Marine plastic accumulation has gained international attention in recent years. Sources,  pathways, and environmental impacts are being currently studied to understand the complex
+URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.13349
+
+--------------------------------------------------------------------------------
+
+[109] Early postoperative angiographic assessment of radial artery grafts used for coronary artery bypass grafting
+Authors: ['AH Chen', 'T Nakao', 'RF Brodman', 'M Greenberg']
+Year: 1996
+Venue: The Journal of thoracic …
+Citations: 161
+Abstract: The ITA is still the preferred graft for CABG. We used the radial artery graft to supplement  the ITA as another arterial bypass graft. Early angiographic results with the radial artery
+URL: https://www.sciencedirect.com/science/article/pii/S0022522396702234
+
+--------------------------------------------------------------------------------
+
+[110] Assessment of Gender-Based Differences in Cloud Resource Utilization among Secondary School Teachers in Cross River State, Nigeria
+Authors: ['M UDAM', 'PM Ita', 'OO Oka']
+Year: 2024
+Venue: Journal of Science and Technology
+Citations: 0
+Abstract: This paper assessed gender differences in the use of cloud resources by science teachers  in Cross River State secondary schools, in Nigeria. A descriptive survey design was used for
+URL: https://journals.ust.edu/index.php/JST/article/view/2452
+
+--------------------------------------------------------------------------------
+
+[111] Risk assessment of human exposure to heterocyclic aromatic compounds in sediment dwelling biota from Ibeno River Catchment, Southeast, Nigeria
+Authors: ['PO Obieshi', 'OE Oyo-ita']
+Year: 2023
+Venue: World News of …
+Citations: 0
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[112] Assessment of Infections in Soft Tissue Injuries Following Penetrating Trauma; A Clinicolaboratory Dilemma
+Authors: ['OI Ita', 'KI Onyedibe', 'DZ Egah']
+Year: 2012
+Venue: Jos Journal of Medicine
+Citations: 2
+Abstract: Infection associated with penetrating trauma is 1 generally a sequelea of accidents or  violence. In the event of infection, a wound fails to heal, the patient suffers increased trauma,
+URL: https://www.ajol.info/index.php/jjm/article/view/81861/72007
+
+--------------------------------------------------------------------------------
+
+[113] Assessment of Lifestyle and Financial Experience on Student Financial Management Behavior
+Authors: ['I Rosita', 'OR Fitri', 'S Sobiyah']
+Year: 2024
+Venue: Journal of Management …
+Citations: 1
+Abstract: A country's high level of finance will encourage the development of its economy. Internal  and external factors cause high and low financial management behavior. This study aims to
+URL: http://exsys.iocspublisher.org/index.php/JMAS/article/view/431
+
+--------------------------------------------------------------------------------
+
+[114] Frobenius in West African History
+Authors: ['JM Ita']
+Year: 1972
+Venue: The Journal of African History
+Citations: 46
+Abstract: The article as a whole argues that the observations of Leo Frobenius in West Africa between  1907 and 1912, though they are commonly ignored by Anglo-American archaeologists and
+URL: https://www.cambridge.org/core/journals/journal-of-african-history/article/frobenius-in-west-african-history/7D7ED8F42F4467130048A5CEDEE0F5A5
+
+--------------------------------------------------------------------------------
+
+[115] Assessment of housing affordability problem in Calabar Metropolis, Cross River State, Nigeria
+Authors: ['EE Ewa', 'VE Offiong', 'GN Njar', 'AE Ita']
+Year: 2013
+Venue: Journal of Natural Science …
+Citations: 2
+Abstract: In this paper, housing affordability problems on residents in Calabar Metropolis, Cross River  State, Nigeria is assessed. Systematic random method was used to administer one hundred
+URL: https://www.academia.edu/download/33910354/C01642329.pdf
+
+--------------------------------------------------------------------------------
+
+[116] “Interactive technology assessment” and beyond: The field trial of genetically modified grapevines at INRA-Colmar
+Authors: ['Local Monitoring Committee', 'O Lemaire']
+Year: 2010
+Venue: PLoS …
+Citations: 38
+Abstract: (INRA) used the Interactive Technology Assessment (ITA, Box 1) method in an initial  consultation phase to integrate public input and then went beyond ITA to carry out the field trial. The
+URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000551
+
+--------------------------------------------------------------------------------
+
+[117] Restaging patients with hepatocellular carcinoma before additional treatment decisions: a multicenter cohort study
+Authors: ['', 'U Cillo']
+Year: 2018
+Venue: …
+Citations: 43
+Abstract: The performance of the Italian Liver Cancer (ITA.LI.CA)  The ITA.LI.CA scoring system at  restaging demonstrated the  variables improved the prognostic ability of the ITA.LI.CA score at
+URL: https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.30185
+
+--------------------------------------------------------------------------------
+
+[118] Use of learning analytics between formative and summative assessment
+Authors: ['P Carlo', 'L Cecconi']
+Year: 2019
+Venue: JE-LKS. JOURNAL OF E-LEARNING AND …
+Citations: 5
+Abstract: The field of study within which this work is placed is that of data produced within digital  learning environments, a field of research now known as Learning Analytics (LA). In particular,
+URL: https://iris.unimore.it/handle/11380/1186423
+
+--------------------------------------------------------------------------------
+
+[119] Marine litter on the beaches of the Adriatic and Ionian Seas: An assessment of their abundance, composition and sources
+Authors: ['T Vlachogianni', 'T Fortibuoni', 'F Ronchi', 'C Zeri']
+Year: 2018
+Venue: Marine pollution …
+Citations: 250
+Abstract: The abundance, composition and sources of marine litter were determined on beaches  located in the seven countries of the Adriatic-Ionian macroregion, namely Albania, Bosnia and
+URL: https://www.sciencedirect.com/science/article/pii/S0025326X18303138
+
+--------------------------------------------------------------------------------
+
+[120] Technology Assessment in Central and Eastern Europe-Status quo in 2022 and future prospects (ITA-manu: script 22-01)
+Authors: ['', 'ITA Titus Udrea', 'ITA Michael Nentwich']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: This paper presents an overview of activities and organisations carrying out Technology  Assessment and related disciplinary fields, in Central and Eastern European countries. The
+URL: https://epub.oeaw.ac.at/?arp=0x003e11dd
+
+--------------------------------------------------------------------------------
+
+[121] Risk Assessment of Human Exposure to 2-Methylnaphthalene, Phenanthrene and Didodecylphthalate via Consumption of Shrimps (Macrobrachium …
+Authors: ['', 'EE Oyo-Ita', 'OE Oyo-Ita']
+Year: 2023
+Venue: Journal of …
+Citations: 0
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[122] Post Tropical Cyclone Ita assessment of intertidal seagrass status in dugong and green turtle feeding grounds-Jeannie River to Cape Bedford (Cape York)
+Authors: ['LJ McKenzie', 'R Coles', 'L Johns']
+Year: 2014
+Venue: JCU Publication, Centre …
+Citations: 4
+Abstract: • it is most likely the dugong grazing scars were recent (within last 2-3 weeks), as  recolonisation within the scars was minor, and wave action and associated sediment movement
+URL: https://www.seagrasswatch.org/wp-content/uploads/Resources/Publications/2014/PDF/14_25-TC-Ita-seagrass-EWIR-May14.pdf
+
+--------------------------------------------------------------------------------
+
+[123] A Performance Assessment of the Nigerian Legislature in the Fourth Republic (1999-2015)
+Authors: ['VE Ita', 'LI Edet', 'BC Onuoha']
+Year: 2016
+Venue: International Journal of Social Sciences
+Citations: 1
+Abstract: The role of the legislature as an institutional actor in Nigeria’s democratic process was  examined, with focus on the Fourth Republic (1999-2015). The study assumed that a docile or
+URL: https://www.ijss.com.ng/index.php/home/article/view/24
+
+--------------------------------------------------------------------------------
+
+[124] American Society of Clinical Oncology technology assessment on the use of aromatase inhibitors as adjuvant therapy for postmenopausal women with hormone …
+Authors: ['EP Winer', 'C Hudis', 'HJ Burstein', 'AC Wolff']
+Year: 2005
+Venue: Journal of clinical …
+Citations: 1156
+Abstract: to receive an aromatase inhibitor (anastrozole in the ITA trial and exemestane in the IES trial).   The ITA trial was substantially smaller than the other three studies, and a full report of the
+URL: https://ascopubs.org/doi/abs/10.1200/JCO.2005.09.121
+
+--------------------------------------------------------------------------------
+
+[125] Italian Version of the mHealth App Usability Questionnaire (Ita-MAUQ): Translation and Validation Study in People With Multiple Sclerosis
+Authors: ['J Podda', 'E Grange', 'A Susini', 'A Tacchino']
+Year: 2024
+Venue: JMIR Human …
+Citations: 2
+Abstract: and validate the English version of the ita-MAUQ in a sample of people with MS. Overall,  findings demonstrated that the novel translated questionnaire ita-MAUQ is a reliable and valid
+URL: https://humanfactors.jmir.org/2024/1/e58079/
+
+--------------------------------------------------------------------------------
+
+[126] … in progressing underground works-International Society for Trenchless Technology (ISTT) and International Tunnelling Association (ITA) Joint Working Group Report
+Authors: ['G Arends', 'R Bielecki', 'J Castle', 'S Drabek']
+Year: 2004
+Venue: Tunnelling and …
+Citations: 17
+Abstract: (ISTT) and the International Tunnelling Association (ITA) publish this report to, in accordance   However, the ISTT and the ITA accept no responsibility or liability whatsoever with regard to
+URL: https://www.academia.edu/download/106692947/j.tust.2003.08.00420231017-1-qv4bh2.pdf
+
+--------------------------------------------------------------------------------
+
+[127] Application of digital skills on the assessment of post graduate research skills acquisition in Cross River State Universities
+Authors: ['BD Otu', 'HO Uchegbue', 'JTOA Ari-Tano', 'CI Ita']
+Year: 2025
+Venue: LWATI: A Journal of …
+Citations: 0
+Abstract: This study set out to verify the make application of digital skills on the assessment of post  graduate research skills acquisition in Universities in Cross River State, Nigeria. To achieve the
+URL: https://www.ajol.info/index.php/lwati/article/view/293520
+
+--------------------------------------------------------------------------------
+
+[128] Assessment of Dietary Pattern and Nutritional Status of People Living with HIV/AIDS Attending Some Voluntary and Counselling Test (VCT) Units in Cross River State
+Authors: ['BE Nyong', 'MEB Eka', 'OO Ita', 'V Idim']
+Year: 2021
+Venue: Contemporary Journal of …
+Citations: 1
+Abstract: This study assessed the dietary pattern and nutritional status of People Living with HIV/AIDS  (PLWHA) attending some voluntary and counseling test units in Cross River State. The
+URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3902580
+
+--------------------------------------------------------------------------------
+
+[129] Feeling guilty or not guilty. Identifying burnout profiles among Italian teachers
+Authors: ['G Guidetti', 'S Viotti', 'PR Gil-Monte', 'D Converso']
+Year: 2018
+Venue: Current Psychology
+Citations: 64
+Abstract: the Italian version of the Spanish Burnout Inventory (SBI-Ita) in a sample of Italian teachers  and the  Results highlights the reliability of the SBI-Ita in the assessment of teachers’ burnout.
+URL: https://link.springer.com/article/10.1007/s12144-016-9556-6
+
+--------------------------------------------------------------------------------
+
+[130] Life cycle assessment and life cycle costing for demolition waste management
+Authors: ['M Hu', 'B Miranda-Xicotencat', 'D Ita-Nagy', 'V Prado']
+Year: 2017
+Venue: NA
+Citations: 2
+Abstract: Ninety five percent of the construction and demolition waste is recycled in the Netherlands.  Most of it is used for low value applications such as road base materials; the use of
+URL: https://repository.tudelft.nl/record/uuid:eb4f4f13-0750-4157-b6bf-c19e4486fa46
+
+--------------------------------------------------------------------------------
+
+[131] The role of the cable car in sustainable mobility: management choices and an assessment of environmental sustainability. The Trento-Monte Bondone project
+Authors: ['M Franch', 'P Masotti', 'F Buffa', 'F Meo']
+Year: 2021
+Venue: SINERGIE
+Citations: 5
+Abstract: PURPOSE OF THE PAPER: The aim is twofold: a) to analyse the contexts best suited to, and  to identify the best practices for, designing sustainable cable car mobility; b) to evaluate and
+URL: https://iris.unitn.it/handle/11572/304343
+
+--------------------------------------------------------------------------------
+
+[132] AI-CiciBot as Conversational Partners in EFL Education, focusing on Intelligent Technology Adoption (ITA) to Mollify Speaking Anxiety
+Authors: ['M Muthmainnah']
+Year: 2024
+Venue: Journal of English language teaching and …
+Citations: 10
+Abstract: The aim is to explore the integration of intelligent technology adoption (ITA) into classrooms   anxiety and improve oral proficiency. It also highlights the importance of ITA in encouraging
+URL: https://www.researchgate.net/profile/Muthmainnah-2/publication/384877064_AI-CiciBot_as_Conversational_Partners_in_EFL_Education_focusing_on_Intelligent_Technology_Adoption_ITA_to_Mollify_Speaking_Anxiety/links/670f24027797480e894beef8/AI-CiciBot-as-Conversational-Partners-in-EFL-Education-focusing-on-Intelligent-Technology-Adoption-ITA-to-Mollify-Speaking-Anxiety.pdf
+
+--------------------------------------------------------------------------------
+
+[133] Assessment of Air Quality and Meteorological Variables in Lower Stubbs Creek, Qua Iboe River Estuary, Nigeria
+Authors: ['FO Ogbemudia', 'RE Ita']
+Year: 2020
+Venue: World News of Natural Sciences
+Citations: 1
+Abstract: The assessment of air quality and meteorological variables in Lower Stubbs Creek, Qua  Iboe River Estuary, Nigeria was carried out using portable hand held gas monitors for
+URL: https://bibliotekanauki.pl/articles/1031692.pdf
+
+--------------------------------------------------------------------------------
+
+[134] Assessing the impact of health technology assessment on the Austrian healthcare system
+Authors: ['I Schumacher', 'I Zechmeister']
+Year: 2013
+Venue: … Journal of Technology Assessment in …
+Citations: 37
+Abstract: Objectives: In Austria, research in health technology assessment (HTA) has been conducted  since the 1990s. The aim of this study is to analyze whether the HTA research program of
+URL: https://www.cambridge.org/core/journals/international-journal-of-technology-assessment-in-health-care/article/assessing-the-impact-of-health-technology-assessment-on-the-austrian-healthcare-system/1B3FAD7E49F68FA1B4076E553484BBCC
+
+--------------------------------------------------------------------------------
+
+[135] 4D Model Learning Device Development Method of the Physical Geography Field Work Guidance Book
+Authors: ['B Hariyanto', 'MZ Ita', 'SU Wiwik']
+Year: 2022
+Venue: MATEC Web of …
+Citations: 42
+Abstract: This research is a development research that goals to provide knowledge and understanding  about how to make 4D model learning media to implementing in Geography Field Work.
+URL: https://www.matec-conferences.org/articles/matecconf/abs/2022/19/matecconf_icst2022_05008/matecconf_icst2022_05008.html
+
+--------------------------------------------------------------------------------
+
+[136] Comparison of the SPI and SPEI as drought assessment tools in a semi-arid region: case of the Wadi Mekerra basin (northwest of Algeria)
+Authors: ['S Berhail', 'OM Katipoğlu']
+Year: 2023
+Venue: Theoretical and Applied Climatology
+Citations: 34
+Abstract: In the current study, the ITA method has been altered by adding two lines, blue and red, to  differentiate the red regions. This was done to identify the possible trend for severely dry and
+URL: https://search.proquest.com/openview/8966a8bf574076f309539b82f62dcea0/1?pq-origsite=gscholar&cbl=48318
+
+--------------------------------------------------------------------------------
+
+[137] Chipped Stone and Adobe: A Cultural Resources Assessment of the Proposed Applewhite Reservoir, Bexar County, Texas
+Authors: ['AJ McGraw', 'K Hindes']
+Year: 1987
+Venue: … Gray Literature from the Lone Star …
+Citations: 36
+Abstract: Cultural resources investigations conducted during 1981 and 1984 for the proposed Applewhite  Reservoir of southwest Bexar County, Texas, identified a total of 78 archaeological sites
+URL: https://scholarworks.sfasu.edu/ita/vol1987/iss1/2/
+
+--------------------------------------------------------------------------------
+
+[138] ITA INVESTIGATIONS: CAN STANDARDIZED ASSESSMENT INSTRUMENTS ASSIST IN DECISION MAKING?
+Authors: ['P Policy']
+Year: 2011
+Venue: NA
+Citations: 0
+Abstract: While protocols have been adopted for ITA investigations, at  potentially could be utilized in  an ITA investigation. None of the risk  While we could not identify suitable instruments for ITA
+URL: https://www.wsipp.wa.gov/rptfiles/11-01-3402.pdf
+
+--------------------------------------------------------------------------------
+
+[139] Student comprehension of and growth in creating value with an entrepreneurial mindset
+Authors: ['S Youssef', 'ME Ita', 'RL Kajfez']
+Year: 2023
+Venue: 2023 ASEE Annual Conference & …
+Citations: 4
+Abstract: (Full Research Paper) Over the past several years, the first-year engineering program at our  university has undergone a re-design to consider opportunity and impact in the context of
+URL: https://peer.asee.org/student-comprehension-of-and-growth-in-creating-value-with-an-entrepreneurial-mindset
+
+--------------------------------------------------------------------------------
+
+[140] In-training assessment (ITA)
+Authors: ['RW Jones']
+Year: 2005
+Venue: ANZCA Bulletin
+Citations: 0
+Abstract: In-Training Assessment (ITA) is an invaluable assessment tool that facilitates the ongoing  education of Trainees and complements other assessment procedures such as the College's
+URL: https://search.informit.org/doi/abs/10.3316/informit.991130711517099
+
+--------------------------------------------------------------------------------
+
+[141] ASSESSMENT OF EFFECTIVE COMMUNICATION IN STRATEGIC LEADERSHIP AND SECURITY MANAGEMENT OF THE NIGERIA POLICE FORCE, FCT, ABUJA
+Authors: ['UOTU ITA', 'M IKUPOLATI']
+Year: 2025
+Venue: … Journal of Law …
+Citations: 0
+Abstract: Effective Police command entails making strategic or communication choices that ordinarily  require deep reflection and thoughtfulness of multiple socio-political and environmental
+URL: https://cambridgeresearchpub.com/ijlphr/article/view/744
+
+--------------------------------------------------------------------------------
+
+[142] Development and validation of a new prognostic system for patients with hepatocellular carcinoma
+Authors: ['', 'F Trevisani', 'U Cillo', 'ITA. LI. CA study group']
+Year: 2016
+Venue: PLoS …
+Citations: 150
+Abstract: used to calculate the relative prognostic value of ITA.LI.CA tumor stage,  Based on the model  results, an ITA.LI.CA integrated  The ITA.LI.CA integrated prognostic score showed optimal
+URL: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002006
+
+--------------------------------------------------------------------------------
+
+[143] Ride comfort assessment of high-speed rail vehicles: Influence of yaw dampers installation angle
+Authors: ['G Isacchi', 'M Corsi', 'F Ripamonti']
+Year: 2023
+Venue: 64th International Conference …
+Citations: 2
+Abstract: High-speed rail vehicles are equipped with yaw dampers to avoid the arising of hunting  motion when running at high-speed. Although these suspension components provide a
+URL: https://re.public.polimi.it/bitstream/11311/1251239/1/vp-50-23531.pdf
+
+--------------------------------------------------------------------------------
+
+[144] UNDER ANY CIRCUMISTANCES BE RETURNED. PUBLIC HEALTH DEPARTMENT.-We shall be much obliged to Medical Officers of Health if they will, on …
+Authors: ['ITA ASSESSMENT']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: *** We are niot acqualnted with any book devoted to the description of" easy metliods" of gas  testing. The Appendix to Air Analysis, by WI anklyn and Cooper, a book recently reviewed
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC2273791/
+
+--------------------------------------------------------------------------------
+
+[145] Electronic democracy in Europe
+Authors: ['R Lindner', 'G Aichholzer', 'L Hennen']
+Year: 2016
+Venue: Prospects and
+Citations: 74
+Abstract: This book had its origin in a research project commissioned and funded by the Science and  Technology Options Assessment Unit (STOA) of the European Parliament. We would like to,
+URL: https://link.springer.com/content/pdf/10.1007/978-3-319-27419-5.pdf
+
+--------------------------------------------------------------------------------
+
+[146] A new algorithm to the automated assessment of the Chinese subjective answer
+Authors: ['R Li', 'Y Zhu', 'Z Wu']
+Year: 2013
+Venue: 2013 International Conference on …
+Citations: 6
+Abstract: This paper proposes an algorithm for computer aided assessment of the Chinese subjective  answers. By analyzing the considered factors of teachers in the hand-operation procedure
+URL: https://ieeexplore.ieee.org/abstract/document/6709976/
+
+--------------------------------------------------------------------------------
+
+[147] Frugal innovation in scholarly and social discourse: An assessment of trends and potential societal implications
+Authors: ['R Tiwari', 'L Fischer', 'K Kalogerakis']
+Year: 2016
+Venue: Working paper//Technologie-und …
+Citations: 103
+Abstract: The study is being carried out under the aegis of the ITA programme of the German Federal  Ministry of Education and Research (BMBF). In this paper we primarily follow three objectives
+URL: https://tore.tuhh.de/bitstream/11420/1291/1/Tiwari_et_al_2016_Frugal_Innovation_BMBF_ITA.pdf
+
+--------------------------------------------------------------------------------
+
+[148] Assessment of tunnelling on existing pile foundations in Bangkok MRT orange line
+Authors: ['P Yensri', 'P Kitiyodom', 'A Asanprakit']
+Year: 2022
+Venue: ITA-AITES World …
+Citations: 5
+Abstract: In recent years, the Mass Rapid Transit Authority (MRTA), Ministry of Transport, Thailand is  implementing the MRT Orange Line Project East Section which runs along one of the most
+URL: https://www.researchgate.net/profile/Phatharaphong-Yensri/publication/364254938_Assessment_of_Tunnelling_on_Existing_Pile_Foundations_in_Bangkok_MRT_Orange_Line/links/63414af99cb4fe44f3119745/Assessment-of-Tunnelling-on-Existing-Pile-Foundations-in-Bangkok-MRT-Orange-Line.pdf
+
+--------------------------------------------------------------------------------
+
+[149] Discrimination of MSA-P and MSA-C by RT-QuIC analysis of olfactory mucosa: the first assessment of assay reproducibility between two specialized laboratories
+Authors: ['C Bargar', 'CMG De Luca', 'G Devigili', 'AE Elia']
+Year: 2021
+Venue: Molecular …
+Citations: 67
+Abstract: All OM samples were collected at ITA-lab, processed, and divided into two aliquots: one for  ITA-lab and the other for USA-lab analyses. Samples were blindly tested by both laboratories
+URL: https://link.springer.com/article/10.1186/s13024-021-00491-y
+
+--------------------------------------------------------------------------------
+
+[150] Assessment of nutritional status in school-age children, Ita
+Authors: ['D Paleksic', 'D Fulurija', "R D'Onofrio", 'R Pržulj']
+Year: NA
+Venue: J. Sports Reh. Po. 2023; 10 …
+Citations: 0
+Abstract: Excess body weight in the period of younger school age is a predictor of obesity in later life,  and therefore it is necessary to act as early as possible in order to neutralize this negative
+URL: https://www.researchgate.net/profile/Rosario-Donofrio-2/publication/355369770_Assessment_of_nutritional_status_in_school-age_children/links/616d40a7951b3574c65e8f9a/Assessment-of-nutritional-status-in-school-age-children.pdf
+
+--------------------------------------------------------------------------------
+
+[151] Assessment service state of tunnel structure
+Authors: ['Y Yuan', 'Y Bai', 'J Liu']
+Year: 2012
+Venue: Tunnelling and Underground Space Technology
+Citations: 141
+Abstract: Structural assessment is one of the key activities in maintaining the performance of a tunnel  during its service life. The lining structure of tunnel is subjected to both external loads and
+URL: https://www.sciencedirect.com/science/article/pii/S0886779811001076
+
+--------------------------------------------------------------------------------
+
+[152] Understanding the adoption factors influence on the use of intelligent travel assistant (ITA) for eco-tourists: an extension of the UTAUT
+Authors: ['N Phaosathianphan']
+Year: 2019
+Venue: International Journal of …
+Citations: 50
+Abstract: could be applied for implementation and assessment of ITA in the future.  of ITA acceptance  in order to analyze the factors of technology acceptance for designing and developing an ITA
+URL: https://www.worldscientific.com/doi/abs/10.1142/S0219877019500603
+
+--------------------------------------------------------------------------------
+
+[153] VALIDITY AND PRACTICALITY OF WASAKA-BASED ETHNO-EDU MODULE IN BIOLOGY LEARNING
+Authors: ['I Ita']
+Year: 2024
+Venue: Journal of Banua Science Education
+Citations: 1
+Abstract: Learning in the General Biology course requires relevant and contextual teaching materials  to make it easier for lecturers and students to carry out the knowledge sharing process
+URL: https://jbse.ulm.ac.id/index.php/JBSE/article/view/277
+
+--------------------------------------------------------------------------------
+
+[154] Institute of Technology Assessment (ITA) Austrian Academy of Sciences Strohgasse 45, A-1030 Vienna, Austria
+Authors: ['G Aichholzer']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: This contribution distinguishes e-government from e-governance and focuses on the external  component of e-government, ie the relationship government to citizens, businesses and
+URL: https://www.academia.edu/download/3451469/aichholzer_n.pdf
+
+--------------------------------------------------------------------------------
+
+[155] Pest risk assessment in the European Community: inventory of data sources. SCIENTIFIC REPORT submitted to EFSA
+Authors: ['V Rossi', 'S Giosue', 'R Bernazzani']
+Year: 2009
+Venue: NA
+Citations: 4
+Abstract: The purpose of the Prassis project (acronym of Pest risk assessment in the European Community:  inventory of data sources) is to review and to produce an inventory of international and
+URL: https://publicatt.unicatt.it/handle/10807/8425
+
+--------------------------------------------------------------------------------
+
+[156] Space Shuttle Orbiter Reaction Jet Driver (RJD): Independent Technical Assessment/Inspection (ITA/I) Report, Version 1.0
+Authors: ['RJ Gilbrech', 'RA Kichak', 'M Davis', 'G Williams']
+Year: 2005
+Venue: NA
+Citations: 0
+Abstract: The scope of the ITA/I was a combination of review and independent analyses that included  risk, was evaluated as a part of the NESC ITA/I. The HR notes that the RJD transistors are
+URL: https://ntrs.nasa.gov/citations/20050185209
+
+--------------------------------------------------------------------------------
+
+[157] Towards a western european" social movement society"? An assessment: 1981-2009
+Authors: ['M Quaranta']
+Year: 2016
+Venue: Partecipazione e Conflitto
+Citations: 7
+Abstract: Some social movements scholars argue that contemporary democracies are becoming “social  movements societies”: citizens are often mobilized to make claims; protest actions are
+URL: https://iris.unitn.it/handle/11572/232339
+
+--------------------------------------------------------------------------------
+
+[158] Intelligent Therapy Assistant (ITA) for cognitive rehabilitation in patients with acquired brain injury
+Authors: ['J Solana', 'C Cáceres', 'A García-Molina']
+Year: 2014
+Venue: BMC medical informatics …
+Citations: 62
+Abstract: The ITA has been evaluated during 18 months by 582 patients. In order to evaluate the  effectiveness of the ITA, a comparison between the traditional manual planning procedure and
+URL: https://link.springer.com/article/10.1186/1472-6947-14-58
+
+--------------------------------------------------------------------------------
+
+[159] Effects of Communication and Participative Decision Making On Employees Commitment in Nigeria's Public Sector: A Pragmatic Assessment of Akwa Ibom State Civil …
+Authors: ['VE Ita']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: This study investigated the effects of communication and participation in decision making on  employees commitment in Nigeria’s public sector with specific focus on Akwa Ibom State
+URL: https://www.researchgate.net/profile/Victor-Ita-2/publication/361109187_Effects_of_Communication_and_Participative_Decision_Making_On_Employees_Commitment_in_Nigeria's_Public_Sector_A_Pragmatic_Assessment_of_Akwa_Ibom_State_Civil_Service/links/629dd8cc6886635d5cc43bbb/Effects-of-Communication-and-Participative-Decision-Making-On-Employees-Commitment-in-Nigerias-Public-Sector-A-Pragmatic-Assessment-of-Akwa-Ibom-State-Civil-Service.pdf
+
+--------------------------------------------------------------------------------
+
+[160] Geological uncertainties in tunnelling-risk assessment and quality assurance
+Authors: ['H Stille']
+Year: 2017
+Venue: ITA-AITES World Tunnel Congress 9.-15. June 2017
+Citations: 24
+Abstract: Risk is always present in rock tunnelling. The uncertainties connected to design and execution,  especially geological uncertainties, are larger and to some degree different from those in
+URL: https://www.diva-portal.org/smash/record.jsf?pid=diva2:1128743
+
+--------------------------------------------------------------------------------
+
+[161] Technology Assessment in Central And Eastern Europe: Status quo in 2022 and future prospects
+Authors: ['T Sinozic-Martinez', 'T Udrea', 'M Nentwich']
+Year: 2022
+Venue: NA
+Citations: 0
+Abstract: ITA manu:scripts appear at irregular intervals and publish working papers and talks from staff  members as well as guests. ITA  Institute of Technology Assessment (ITA), began research
+URL: https://real.mtak.hu/161307/1/ITA_22_01_final.pdf
+
+--------------------------------------------------------------------------------
+
+[162] AN ASSESSMENT OF RESEARCH USAGE IN PUBLIC RELATIONS PRACTICE BY UYO-BASED PUBLIC RELATIONS PRACTITIONERS
+Authors: ['OJON ITA', 'DRI NDA', 'AN NJOKU']
+Year: NA
+Venue: NA
+Citations: 1
+Abstract: Research is a creative and systematic work undertaken to increase the stock of knowledge,  including knowledge of humans, culture and society, and the use of this stock of knowledge
+URL: https://www.academia.edu/download/102558085/ijcmsjun20214.pdf
+
+--------------------------------------------------------------------------------
+
+[163] Exploring recent groundwater level changes using Innovative Trend Analysis (ITA) technique over three districts of Jharkhand, India
+Authors: ['S Swain', 'S Sahoo', 'AK Taloor', 'SK Mishra']
+Year: 2022
+Venue: Groundwater for …
+Citations: 70
+Abstract: (ITA) technique does not have these restrictive assumptions and therefore, can be effectively  used to detect trends in a time series of shorter length. Moreover, ITA is a  Therefore, ITA is
+URL: https://www.sciencedirect.com/science/article/pii/S2352801X22000601
+
+--------------------------------------------------------------------------------
+
+[164] Risk assessment of human exposure to polycyclic aromatic hydrocarbons via shrimp (Macrobrachium felicinum) consumption along the Imo River catchments, SE …
+Authors: ['MIDIO Oyo', 'IOE Oyo-Ita']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: Shrimp species (Macrobrachium felicinum) collected from estuarine mangrove area of the  Imo River is an important route of exposure to polycyclic aromatic hydrocarbons (PAHs). The
+URL: https://www.academia.edu/download/102413022/s10653-016-9799-z20230519-1-4ot8xj.pdf
+
+--------------------------------------------------------------------------------
+
+[165] Development of survey instruments to measure undergraduate engineering students' entrepreneurial mindset: Connections and creating value
+Authors: ['ME Ita', 'ME West', 'RL Kajfez']
+Year: 2023
+Venue: Int. J. Eng. Educ
+Citations: 7
+Abstract: The inclusion of entrepreneurial concepts into undergraduate engineering curriculum has  proliferated over recent years. Entrepreneurially Minded Learning (EML) is a common
+URL: https://www.ijee.ie/1atestissues/Vol39-4/04_ijee4350.pdf
+
+--------------------------------------------------------------------------------
+
+[166] PREDICTIVE VALIDITY OF THE NGASR-‐ita FOR THE ASSESSMENT OF SUICIDAL RISK IN ACUTE PSYCHIATRIC INPATIENTS
+Authors: ['V Oliverio', 'P Ferrara', 'S Terzoni', 'A Destrebecq']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: Results We recruited 121 subjects, 60 males and 61 females; the mean age was 35±5 years.  45 patients were diagnosed with psychotic disorders, 23 had Borderline Personality
+URL: https://www.prevenireilsuicidio.it/images/Gmps2019/Poster2019/Ferrara.pdf
+
+--------------------------------------------------------------------------------
+
+[167] One Course, Two Approaches:: ITA Educators' Diverging Ideologies
+Authors: ['R Anderson']
+Year: 2024
+Venue: Journal of International Students
+Citations: 0
+Abstract: examined (exclusively) ITA Educators’ ideologies they brought into an ITA training class.  Two  of three ITA Educators teaching an ITA training course at one research university, one
+URL: https://ojed.org/index.php/jis/article/view/5143
+
+--------------------------------------------------------------------------------
+
+[168] An archaeological and historical assessment of the Vista Verde South project, San Antonio, Texas
+Authors: ['JH Labadie']
+Year: 1987
+Venue: Index of Texas Archaeology: Open Access …
+Citations: 12
+Abstract: The Vista Verde South project area has borne witness to much of the economic development  that has occurred in downtown San Antonio since the early years of Texas' statehood. As
+URL: https://scholarworks.sfasu.edu/ita/vol1987/iss1/10/
+
+--------------------------------------------------------------------------------
+
+[169] Interrater reliability of the authorized Italian version of the Comprehensive Assessment of At-Risk Mental States (CAARMS-ITA)
+Authors: ['A Raballo']
+Year: NA
+Venue: Cited in: EMBASE-Excerpta Medica Database• Index …
+Citations: 0
+Abstract: of the CAARMSITA, we used two different statistic tools: the Intra-Class Correlation (ICC)  coefficients and the Cohen’s kappa. To assess the interrater reliability of the CAARMS-ITA sub
+URL: https://www.academia.edu/download/85066410/05_Raballo-1.pdf
+
+--------------------------------------------------------------------------------
+
+[170] Indicators for Engagement–Thoughts on ICT Assessment in a World of Social Media (ITA-manu: script 09-04)
+Authors: ['LA Lievrouw']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: ITA manu:scripts appear at irregular intervals and publish working papers and talks from  staff members as well as guests. ITA manu:scripts are exclusively made available to the public
+URL: https://epub.oeaw.ac.at/0xc1aa5576_0x0022daa9.pdf
+
+--------------------------------------------------------------------------------
+
+[171] Dynamic Problem Solving for Assessment of Strategic Engineering Capabilities
+Authors: ['AG Bruzzone', 'M Massei', 'AF Sciomachen']
+Year: 2021
+Venue: Proceedings of the …
+Citations: 1
+Abstract: This paper addresses the opportunities provided by Strategic Engineering as well as an  innovative model devoted to support assessment of young scientists applying for this
+URL: https://unige.iris.cineca.it/handle/11567/1057277
+
+--------------------------------------------------------------------------------
+
+[172] Overview of prognostic systems for hepatocellular carcinoma and ITA. LI. CA external validation of MESH and CNLC classifications
+Authors: ['']
+Year: 2021
+Venue: Cancers
+Citations: 28
+Abstract: Simple Summary This review proposes a comprehensive overview of the main prognostic  systems for HCC classified as prognostic scores, staging systems, or combined systems.
+URL: https://www.mdpi.com/2072-6694/13/7/1673
+
+--------------------------------------------------------------------------------
+
+[173] … MUMBAI BENCH “E” MUMBAI BEFORE SHRI MAHAVIR SINGH (JUDICIAL MEMBER) AND SHRI NK PRADHAN (ACCOUNTANT MEMBER) ITA No. 2519/MUM …
+Authors: ['P AM PRADHAN']
+Year: 2004
+Venue: Assessment
+Citations: 0
+Abstract: Tax (Appeals)-XXX, Mumbai [in short ‘CIT (A)’] and arise out of the assessment completed u/s  143 (3) of the Income Tax Act 1961 (the ‘Act’). As common issues are involved, we are
+URL: https://taxguru.in/wp-content/uploads/2019/04/ACIT-23-Vs-Ms-Tata-Sons-Ltd.-Bombay-House-ITAT-Mumbai.pdf
+
+--------------------------------------------------------------------------------
+
+[174] Fuzzy risk matrix as a risk assessment method-a case study
+Authors: ['E Roguska', 'J Lejk']
+Year: 2015
+Venue: World Tunnel Congress ITA-AITES
+Citations: 2
+Abstract: First planning works concerning the development of underground means of transport in  Warsaw date back to 1925. The developed plan assumed constructing two metro lines–one in
+URL: https://repo.pw.edu.pl/docstore/download.seam?entityType=article&entityId=WUTc20c41cf56c64d428fb01f2729ad719d&fileId=WUT490ef3bc4910428a934d47fa70b69608
+
+--------------------------------------------------------------------------------
+
+[175] Understanding maturity of collaborative network organizations by using B-ITa processes
+Authors: ['FA Bukhsh', 'M Daneva', 'H Weigand']
+Year: 2012
+Venue: International Conference on …
+Citations: 5
+Abstract: -ITa [20]. In our literature review we explicitly included e-government and e-business models  in which B-ITa is  mostly relate to B-ITa in a single enterprise and few with B-ITa in CNOs. In
+URL: https://link.springer.com/chapter/10.1007/978-3-642-31069-0_48
+
+--------------------------------------------------------------------------------
+
+[176] A Multi-Method Analysis of Engineering Student Curiosity
+Authors: ['ME Ita', 'AM Singer', 'RL Kajfez']
+Year: 2023
+Venue: 2023 ASEE Annual Conference & …
+Citations: 1
+Abstract: Curiosity, an ability vital to the process of invention and innovation, has also been correlated  with a variety of desirable outcomes in education and is recognized as a desirable
+URL: https://peer.asee.org/a-multi-method-analysis-of-engineering-student-curiosity
+
+--------------------------------------------------------------------------------
+
+[177] Evaluation rubrics: a tool for laboratory activities assessment in chemistry and physics
+Authors: ['A Andracchio', 'S Zappoli', 'G Passarelli']
+Year: 2009
+Venue: Atti del XXIII Congresso …
+Citations: 0
+Abstract: Rubrics are a powerful tool for the evaluation of complex activities or authentic tasks. In these  situations the final score is best represented when the task is subdivided in well defined
+URL: https://cris.unibo.it/handle/11585/88082
+
+--------------------------------------------------------------------------------
+
+[178] Comparative Assessment of the Bioremediation Potential of Polychaetes (Lug worm-Arenicola marina sp and Syllidae Worm-Syllis prolifera sp) in Aquaculture Pond …
+Authors: ['IO Oyo-Ita', 'UA Ugbaja', 'EE Oyo-Ita', 'C Oge']
+Year: 2021
+Venue: NA
+Citations: 0
+Abstract: Polychaetes play an important role in nutrient cycling and remediation of coastal ecosystems.  Large quantities of organic matter that could lead to pollution of pond and coastal waters
+URL: https://www.researchgate.net/profile/Orok-Oyo-Ita-2/publication/356054111_Comparative_Assessment_of_the_Bioremediation_Potential_of_Polychaetes_Lug_worm-Arenicola_marina_sp_and_Syllidae_Worm-Syllis_prolifera_sp_in_Aquaculture_Pond_Sediment/links/61ed3cfa5779d35951cbcedd/Comparative-Assessment-of-the-Bioremediation-Potential-of-Polychaetes-Lug-worm-Arenicola-marina-sp-and-Syllidae-Worm-Syllis-prolifera-sp-in-Aquaculture-Pond-Sediment.pdf
+
+--------------------------------------------------------------------------------
+
+[179] Three decades of institutionalised TA in Austria (ITA-manu: script 21-01)
+Authors: ['ITA Michael Nentwich', 'ITA Daniela Fuchs']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: This article describes in detail the three-decades-long development of institutionalised  technology assessment (TA) in Austria. The storyline starts in the early 1980s, leading to the
+URL: https://epub.oeaw.ac.at/0xc1aa5576_0x003c9042.pdf
+
+--------------------------------------------------------------------------------
+
+[180] Assessment of Sex and Age in Copying as Academic Dishonest Behaviour among Postgraduate Students of Federal Universities in South-South Zone of Nigeria …
+Authors: ['CI Ita']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: The study investigated influence of sex and age in copying as academic dishonest behaviour  among post graduate students of federal universities of South-South, Nigeria. The study
+URL: https://openaccessglobal.com/wp-content/uploads/2021/07/Sex_and_age_in_copying.pdf
+
+--------------------------------------------------------------------------------
+
+[181] Five imperatives for ITA programs and practitioners
+Authors: ['SD Looney']
+Year: NA
+Venue: NA
+Citations: 1
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[182] Development of biophy magazine containing local wisdom to improve problem solving ability and promote environmental awareness campaign
+Authors: ['L Fitriah', 'I Ita']
+Year: 2022
+Venue: Jurnal Penelitian Pendidikan IPA
+Citations: 9
+Abstract: The purpose of this study was to describe the validity and effectiveness of BioPhy Magazine  based on local wisdom, which was developed to improve problem-solving skills and
+URL: https://jppipa.unram.ac.id/index.php/jppipa/article/view/1275
+
+--------------------------------------------------------------------------------
+
+[183] Characterization of lung tumor subtypes through gene expression cluster validity assessment
+Authors: ['G Valentini', 'F Ruffino']
+Year: 2006
+Venue: RAIRO-Theoretical Informatics and …
+Citations: 8
+Abstract: The problem of assessing the reliability of clusters patients identified by clustering  algorithms is crucial to estimate the significance of subclasses of diseases detectable at bio-molecular
+URL: https://www.cambridge.org/core/journals/rairo-theoretical-informatics-and-applications/article/characterization-of-lung-tumor-subtypes-through-gene-expression-cluster-validity-assessment/201DE41A19F135121ADCB3DF1A85AD98
+
+--------------------------------------------------------------------------------
+
+[184] The presence and role of assessment in UNIMORE MOOCs
+Authors: ['L Cecconi', 'B Fazlagic']
+Year: 2019
+Venue: JE-LKS. JOURNAL OF E-LEARNING AND …
+Citations: 0
+Abstract: The contribution presents a reflection on the relationship between the use of assessment  tools and the two-sided phenomenon of the completion rate and dropout rate in MOOCs. In
+URL: https://iris.unimore.it/handle/11380/1186419
+
+--------------------------------------------------------------------------------
+
+[185] Comparative Assessment of Air Quality Studies in Ikot-Essien and Anantigha Communities in Cross River State, Nigeria
+Authors: ['AN Etim', 'IE Uwah', 'EE Oyo-Ita', 'AE Egbe', 'SO Otiwa']
+Year: NA
+Venue: NA
+Citations: 1
+Abstract: Background: One of the major challenging environmental problems facing both the developed  and developing countries of the world today is atmospheric pollution. This has been
+URL: https://www.researchgate.net/profile/Alexander-Egbe-3/publication/358890512_Comparative_Assessment_of_Air_Quality_Studies_in_Ikot-Essien_and_Anantigha_Communities_in_Cross_River_State_Nigeria/links/621b28f62542ea3cacb4b426/Comparative-Assessment-of-Air-Quality-Studies-in-Ikot-Essien-and-Anantigha-Communities-in-Cross-River-State-Nigeria.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
+
+--------------------------------------------------------------------------------
+
+[186] Distribution of polycyclic aromatic hydrocarbons (PAHs) and sterols in termite nest, soil, and sediment from Great Kwa River, SE Nigeria
+Authors: ['OE Oyo-Ita', 'IO Oyo-Ita', 'SU Ugim']
+Year: 2013
+Venue: Environmental monitoring and …
+Citations: 5
+Abstract: Costal sediment samples from Great Kwa River as well as adjoining termite nest and soil  samples were analyzed for quantitative determination of polycyclic aromatic hydrocarbons (
+URL: https://link.springer.com/article/10.1007/s10661-012-2641-x
+
+--------------------------------------------------------------------------------
+
+[187] A new approach to curriculum development: The relevance of the higher education curriculum to industry needs
+Authors: ['JM ARDHANA', 'N BERNADETHA', 'MH ITA']
+Year: 2023
+Venue: INTERNATIONAL …
+Citations: 18
+Abstract: The relevance of higher education curricula to the evolving needs of industry is key to  providing students with the skills and knowledge they need. A new approach to curriculum
+URL: https://elibrary.ru/item.asp?id=74128427
+
+--------------------------------------------------------------------------------
+
+[188] Multiple ingestion exposure routes for alkylphenols: an integrated human health risk assessment including drinking water and crops' food
+Authors: ['L Penserini', 'B Cantoni', 'E Sezenna']
+Year: 2024
+Venue: Proc. of RETURN …
+Citations: 0
+Abstract: The widespread occurrence of contaminants of emerging concern (CECs) in freshwater and  soil raises significant public health concerns, particularly in urbanized areas where drinking
+URL: https://re.public.polimi.it/handle/11311/1287812
+
+--------------------------------------------------------------------------------
+
+[189] Sedation and analgesia practices at Italian neonatal intensive care units: results from the EUROPAIN study
+Authors: ['P Lago', 'AC Frigo', 'E Baraldi', 'R Pozzato']
+Year: 2017
+Venue: Italian journal of …
+Citations: 59
+Abstract: Background We aimed to examine current bedside analgesia/sedation (A/S) and pain  assessment (PA) practices in Italian neonatal intensive care units (NICUs) in relation to the
+URL: https://link.springer.com/article/10.1186/s13052-017-0343-2
+
+--------------------------------------------------------------------------------
+
+[190] The sum of the parts detracts from the intended whole: competencies and in‐training assessments
+Authors: ['EM Zibrowski', 'SI Singh', 'MA Goldszmidt']
+Year: 2009
+Venue: Medical …
+Citations: 54
+Abstract: in-training assessments (ITA). Using data collected during the study of ITA, we explored   , and surgery were interviewed about their ITA experiences. Data collection and analysis
+URL: https://asmepublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2923.2009.03404.x
+
+--------------------------------------------------------------------------------
+
+[191] Assessment of the causes of infant mortality in uyo local government area, akwa ibom state
+Authors: ['', 'UM Usanga', 'J Etetor Harry', 'F Ita Gladys']
+Year: 2022
+Venue: Global Journal of Social …
+Citations: 0
+Abstract: This study assessed infant mortality in Uyo Local Government Area, Akwa Ibom State with  the aim of investigating the causes of infant mortality and examining the contribution of the
+URL: https://www.ajol.info/index.php/gjss/article/view/230979
+
+--------------------------------------------------------------------------------
+
+[192] Minimally invasive coronary surgery: surgical considerations and assessment of cardiac troponin I
+Authors: ['G Babatasi', 'M Massetti', 'P Nataf', 'S Fradin']
+Year: 1998
+Venue: European journal of …
+Citations: 18
+Abstract: whom the ITA was harvested through the anterior mediastinotomy, we found that the  thoracoscopic approach allowed an easily and safe dissection of the ITA from the subclavian artery
+URL: https://academic.oup.com/ejcts/article-abstract/14/Supplement_1/S82/409225
+
+--------------------------------------------------------------------------------
+
+[193] The role of Life Cycle Assessment (LCA) and energy efficiency optimization during the early stage of building design
+Authors: ['S Zhao', 'M Lavagna', 'E de Angelis']
+Year: 2017
+Venue: … Goals: il ruolo del Life Cycle …
+Citations: 3
+Abstract: The environmental impact of buildings could not be minimized only by optimizing the operational  energy since the reduction of operational energy frequently consumes more embodied
+URL: https://re.public.polimi.it/handle/11311/1034997
+
+--------------------------------------------------------------------------------
+
+[194] Surgical versus non‐surgical management of abdominal injury
+Authors: ['A Oyo‐Ita', 'P Chinnock']
+Year: 2015
+Venue: Cochrane Database of …
+Citations: 71
+Abstract: Background Injury to the abdomen can be blunt or penetrating. Abdominal injury can  damage internal organs such as the liver, spleen, kidneys, intestine, and large blood vessels.
+URL: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007383.pub3/abstract
+
+--------------------------------------------------------------------------------
+
+[195] Environmental assessment of biomass power plants systems at regional scale: the case of Emilia-Romagna region (ITA)
+Authors: ['L Vignoli']
+Year: 2018
+Venue: NA
+Citations: 0
+Abstract: How assess and quantify the environmental impact of the biomass power plants systems (biogas  and wood combustion) at territorial/provincial/regional planning level? We have wood
+URL: https://tesidottorato.depositolegale.it/handle/20.500.14242/144496
+
+--------------------------------------------------------------------------------
+
+[196] ESTABLISHMENT OF REFERENCE STANDARDS FOR VECTOR COPY NUMBER ASSAY & CAR EXPRESSION
+Authors: ['AM Kifer', 'HP Rupp', 'J Kandell', 'S Ita', 'CC MacArthur']
+Year: 2025
+Venue: Cytotherapy
+Citations: 0
+Abstract: Background & Aim Engineered cell therapies represent a groundbreaking approach to  treating diseases such as cancer, where traditional methods have been ineffective. These
+URL: https://www.sciencedirect.com/science/article/pii/S1465324925004591
+
+--------------------------------------------------------------------------------
+
+[197] Plasma circulating cell free messenger RNA as a potential biomarker of melanoma
+Authors: ['MI Ita', 'JH Wang', 'N Fanning', 'G Kaar', 'C Lim']
+Year: 2021
+Venue: Acta …
+Citations: 6
+Abstract: Background Blood borne cell free nucleic acids are increasingly emerging as significant non-invasive  adjuncts to current methods of disease status evaluation in cancer patients. In this
+URL: https://www.tandfonline.com/doi/abs/10.1080/0284186X.2021.1928749
+
+--------------------------------------------------------------------------------
+
+[198] LCA (Life Cycle Assessment) applied to the construction of tunnel
+Authors: ['LD Schwartzentruber']
+Year: 2015
+Venue: ITA WTC 2015 Congress and 41st General …
+Citations: 4
+Abstract: Tunnels represent a significant part of the environmental impacts of transport infrastructures.  Several studies conducted during the past few years enabled to collect data relating to the
+URL: https://www.researchgate.net/profile/Romain-Bonnet-2/publication/304524650_Life_Cycle_Assessment_applied_to_the_construction_of_tunnel/links/57722db608ae10de639dfbb4/Life-Cycle-Assessment-applied-to-the-construction-of-tunnel.pdf
+
+--------------------------------------------------------------------------------
+
+[199] Capstone Design Project in the Professional Master's in Aeronautical Engineering–a Collaboration Between ITA and Embraer
+Authors: ['PT Lourencao', 'FL Bussamra', 'LF Ventura']
+Year: 2025
+Venue: AIAA SCITECH 2025 …
+Citations: 1
+Abstract: over 1600 engineers for Embraer and over 1000 master's theses authorized by ITA.  The  selection of students is done by ITA and Embraer in partnership. Since the objective of the
+URL: https://arc.aiaa.org/doi/abs/10.2514/6.2025-1652
+
+--------------------------------------------------------------------------------
+
+[200] How to deal with PFAS in urban water systems? A combination of removal strategies, fate modelling and risk assessment
+Authors: ['J Ianes', 'M Stefanoni', 'B Cantoni']
+Year: 2024
+Venue: Proc. of XII International …
+Citations: 0
+Abstract: Per-and polyfluoroalkyl substances (PFAS) are persistent emerging contaminants of  increasing environmental and human health concern. Urban water systems face significant
+URL: https://re.public.polimi.it/handle/11311/1287411
+
+--------------------------------------------------------------------------------
+
+[201] Assessment of rainfall trend and variability of semi-arid regions of Upper and Middle Godavari basin, India
+Authors: ['MC Aher', 'SM Yadav']
+Year: 2021
+Venue: Journal of Water and Climate Change
+Citations: 34
+Abstract: The ITA plot for August shows an increasing trend in low, medium and high regimes. The  ITA also specifies that in the low regime the nature of trend is increasing for March, May, July,
+URL: https://iwaponline.com/jwcc/article-abstract/12/8/3992/84971
+
+--------------------------------------------------------------------------------
+
+[202] Using a Phonetic Alphabet, the initial teaching alphabet (ita), to Remediate Reading Disabilities in First-Year College Students
+Authors: ['S Moore']
+Year: 2017
+Venue: EDULEARN17 Proceedings
+Citations: 1
+Abstract: using the Initial Teaching Alphabet (ita) chart to find the correct  2 depicts the phonetic alphabet  (ita) used in this investigation “I love the ITA symbols because the sounds are always the
+URL: https://library.iated.org/view/MOORE2017USI
+
+--------------------------------------------------------------------------------
+
+[203] Spatio-ecological Assessment of Urban Plants in the Government Reserved Areas (GRAs) in Some Selected Capital Cities in South-south Region of Nigeria
+Authors: ['EP Ita-Nya', 'AA Obafemi', 'BC Ndukwu']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: *Ita-Nya EP1; Obafemi AA1, 2 and Ndukwu, BC1, 3
+URL: https://www.academia.edu/download/65634148/I0812026580.pdf
+
+--------------------------------------------------------------------------------
+
+[204] An integrated quantitative approach for the assessment of human health risk in the Pace valley of Messina with the Ehhra-gis tool
+Authors: ['P Morra', 'R Lisi', 'G Spadoni', 'G Maschio']
+Year: 2006
+Venue: VENICE 2006 Simposio …
+Citations: 1
+Abstract: Due to industrial and civil activities, large quantities of toxic and carcinogenic substances  are released into environment and represent potential hazards for human health of exposed
+URL: https://cris.unibo.it/handle/11585/42752
+
+--------------------------------------------------------------------------------
+
+[205] From Literature Gaps to Integrated Risk Assessment: Unveiling the Complexity of Wastewater Reuse Impact Models
+Authors: ['L Penserini', 'B Cantoni', 'M Antonelli']
+Year: 2024
+Venue: Proc. of International …
+Citations: 0
+Abstract: The complexity and inherent interconnection of the reclaimed wastewater (RWW) reuse  system requires a thorough assessment of both its positive and negative impacts. In fact, either
+URL: https://re.public.polimi.it/handle/11311/1287388
+
+--------------------------------------------------------------------------------
+
+[206] An Archaeological Assessment of The Dolores Aldrete House Property San Antonio, Texas
+Authors: ['DE Fox', 'F Valdez Jr', 'LO Bobbitt']
+Year: 1978
+Venue: Index of Texas …
+Citations: 2
+Abstract: During March and April 1978, a preliminary archaeological investigation was conducted at  the historic" Dolores Aldrete House," lots 7, 8 and 9 of block 155, fronting on East Nueva
+URL: https://scholarworks.sfasu.edu/ita/vol1978/iss1/12/
+
+--------------------------------------------------------------------------------
+
+[207] Problems of implementing Online learning for Teachers, Parents, and Students during the Covid 19 Pandemic
+Authors: ['E Ita']
+Year: 2023
+Venue: JMSP (Jurnal Manajemen dan Supervisi Pendidikan)
+Citations: 1
+Abstract: Article received: November 2022; Revision: Desember 2022; Approval: Maret 2023 dOi:  10.17977/um025v7i22023p72 abstract: This study aims to describe online learning and the
+URL: https://journal-fip.um.ac.id/index.php/jmsp/article/download/1762/581
+
+--------------------------------------------------------------------------------
+
+[208] Skeletonized internal thoracic artery harvest reduces pain and dysesthesia and improves sternal perfusion after coronary artery bypass surgery: a randomized, double …
+Authors: ['M Boodhwani', 'BK Lam', 'HJ Nathan', 'TG Mesana']
+Year: 2006
+Venue: Circulation
+Citations: 208
+Abstract: result in significant differences in ITA injury and intraoperative ITA flow but demonstrated a  trend  that skeletonization of the ITA can reduce morbidity associated with ITA use for CABG.
+URL: https://www.ahajournals.org/doi/abs/10.1161/circulationaha.106.615427
+
+--------------------------------------------------------------------------------
+
+[209] 1 Technology Assessment Research at the ITA
+Authors: ['P TA']
+Year: NA
+Venue: NA
+Citations: 0
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[210] Internal medicine residents' perceptions of the Mini-Clinical Evaluation Exercise
+Authors: ['S Malhotra', 'R Hatala', 'CA Courneya']
+Year: 2008
+Venue: Medical teacher
+Citations: 115
+Abstract: the educational value of formal ITA. In one description of an ITA program in an anesthesia  residency, residents reported a positive educational value for formal ITA, 1.5 years after the
+URL: https://www.tandfonline.com/doi/abs/10.1080/01421590801946962
+
+--------------------------------------------------------------------------------
+
+[211] Treatments report: a tool for sustainable agriculture. An assessment for the nitrogen footprint of peaches and nectarines in the north of Italy
+Authors: ['M Drizaku', 'A Paiano', 'C Ingrao', 'T Crovella']
+Year: 2024
+Venue: … Nazionale di Scienze …
+Citations: 0
+Abstract: At European level, agriculture is responsible of 11% of all GHGs, and represents a  significant fac-tor for the atmosphere emissions, due to fertilizers and in particular Ammonia (NH3).
+URL: https://ricerca.uniba.it/handle/11586/547081
+
+--------------------------------------------------------------------------------
+
+[212] Technology assessment in practice and theory
+Authors: ['A Grunwald']
+Year: 2018
+Venue: NA
+Citations: 304
+Abstract: Technological advance affects almost all areas of human life. Rapid digitization, increased  mobility, new biotechnologies, and nanotechnology deeply influence, amongst others,
+URL: https://www.taylorfrancis.com/books/mono/10.4324/9780429442643/technology-assessment-practice-theory-armin-grunwald
+
+--------------------------------------------------------------------------------
+
+[213] Evaluation of the global development in age-school children through the Intelligence and Development Scales (IDS): presentation of a European instrument
+Authors: ['M REA', 'R FERRI', 'M CASAGRANDE']
+Year: 2015
+Venue: … JOURNAL OF CLINICAL …
+Citations: 0
+Abstract: A psychological assessment should lead to highlight and identify child’s strengths and  weaknesses and it should allow suggesting a suitable intervention. By detecting problems, an
+URL: https://iris.uniroma1.it/handle/11573/802546
+
+--------------------------------------------------------------------------------
+
+[214] Comparison of two fast methods for seismic vulnerability assessment of historic centres
+Authors: ['G Cardani', 'E Garavaglia']
+Year: 2024
+Venue: WORLD CONFERENCE ON …
+Citations: 0
+Abstract: Italian anti-seismic legislation is often criticized, claiming that it authorizes easy demolition  of damaged built heritage following an earthquake in the name of safety and profitable
+URL: https://re.public.polimi.it/handle/11311/1268842
+
+--------------------------------------------------------------------------------
+
+[215] Assessment of arsenic in Australian grown and imported rice varieties on sale in Australia and potential links with irrigation practises and soil geochemistry
+Authors: ['Y Fransisca', 'DM Small', 'PD Morrison', 'MJS Spencer']
+Year: 2015
+Venue: Chemosphere
+Citations: 47
+Abstract: Chronic dietary exposure to arsenic, particularly the inorganic forms (defined as elemental  arsenic, predominantly As 3+ and As 5+ , and all its inorganic compounds except arsine), is a
+URL: https://www.sciencedirect.com/science/article/pii/S0045653514014763
+
+--------------------------------------------------------------------------------
+
+[216] Evaluation of robotic cardiac surgery simulation training: a randomized controlled trial
+Authors: ['M Valdis', 'MWA Chu', 'C Schlachta', 'B Kiaii']
+Year: 2016
+Venue: The Journal of thoracic and …
+Citations: 87
+Abstract: Each trainee was shown 5-minute videos of a robotically harvested internal thoracic artery  (ITA)  The trainee was then required to harvest a 10-cm-long segment of the ITA pedicle off a
+URL: https://www.sciencedirect.com/science/article/pii/S0022522316002348
+
+--------------------------------------------------------------------------------
+
+[217] A knowledge-based system for tactical situation assessment
+Authors: ['K Funk']
+Year: 1988
+Venue: Annals of Operations Research
+Citations: 7
+Abstract: To implement this approach, we have designed ITA to be a workstation in which the human   ITA combines the decision making and problem solving skills of the human, the qualitative,
+URL: https://link.springer.com/article/10.1007/BF02186371
+
+--------------------------------------------------------------------------------
+
+[218] Assessment of changes in movement complexity and movement automaticity with maturation
+Authors: ['MC Bisi', 'R Stagni']
+Year: 2017
+Venue: NA
+Citations: 1
+Abstract: The present work aims at testing multiscale entropy (MSE) on trunk acceleration data to  assess movement complexity and its changes with maturation. If MSE can measure movement
+URL: https://www.esb-ita.it/wp-content/uploads/2017/09/G5_Bisi_ESBITA2017.pdf
+
+--------------------------------------------------------------------------------
+
+[219] Image quality assessment using author topic model
+Authors: ['T Zhang', 'W Luo']
+Year: 2013
+Venue: 2013 International Conference on Information …
+Citations: 2
+Abstract: In this paper, we propose a novel no reference image quality assessment method. This  method performs image quality assessment by incorporating a graphical model. To obtain the
+URL: https://ieeexplore.ieee.org/abstract/document/6709937/
+
+--------------------------------------------------------------------------------
+
+[220] 27-First episode psychosis among migrants in Italy (PEP-Ita Study): Preliminary results from Modena
+Authors: ['S Ferrari']
+Year: 2014
+Venue: Abstracts/Journal of Psychosomatic Research
+Citations: 0
+Abstract: Purpose: Many researchers report a higher incidence of psychotic disorders among migrants,  but clear evidence on risk factors is still missing. The aim of the present study was to
+URL: https://www.researchgate.net/profile/Ovidiu-Fratila/publication/262454024_Functional_dyspepsia_assessment_in_patients_from_a_single_medical_center_from_Oradea_Romania/links/5dbcf25192851c81802129d2/Functional-dyspepsia-assessment-in-patients-from-a-single-medical-center-from-Oradea-Romania.pdf
+
+--------------------------------------------------------------------------------
+
+[221] Archaeological Assessment of Two Sites in the Vicinity of Floodwater Retarding Structure No. 11, Salado Creek Watershed, Bexar County, Texas
+Authors: ['D Brown', 'P Lukowski', 'TR Hester']
+Year: 1977
+Venue: Index of Texas …
+Citations: 2
+Abstract: In March of 1977, the Center for Archaeological Research at The University of Texas at San  Antonio was contacted by Mr. George C. Marks of the United States Department of
+URL: https://scholarworks.sfasu.edu/ita/vol1977/iss1/13/
+
+--------------------------------------------------------------------------------
+
+[222] Biochemical assessment of myocardial injury after cardiac surgery: effects of a platelet activating factor antagonist, bilateral internal thoracic artery grafts, and coronary …
+Authors: ['DP Taggart']
+Year: 2000
+Venue: The Journal of Thoracic and Cardiovascular Surgery
+Citations: 66
+Abstract: bilateral ITA grafts and 1.4% in patients receiving a single ITA graft. In  ITA and single ITA  as defined by cTnT levels. Of particular note, however, CK-MB was higher in the bilateral ITA
+URL: https://www.sciencedirect.com/science/article/pii/S0022522300807618
+
+--------------------------------------------------------------------------------
+
+[223] Tax knowledge and tax compliance determinants in self assessment system in Malaysia
+Authors: ['MR Palil']
+Year: 2010
+Venue: NA
+Citations: 557
+Abstract: Knowledge about tax laws is limited in this study to Section 4 of Income Tax Act 1967 (ITA)  (individual income tax) while tax compliance determinants are limited to nine variables
+URL: https://etheses.bham.ac.uk/id/eprint/1040/
+
+--------------------------------------------------------------------------------
+
+[224] Therapeutic Response Evaluation in Advanced Melanoma Patients Incorporating Plasma cfDNA, LDH, VEGF, PD-L1, and IFN-γ Measurements
+Authors: ['MI Ita', 'JH Wang', 'CC Heffron', 'DG Power']
+Year: 2022
+Venue: Anticancer …
+Citations: 2
+Abstract: Background/Aim: Current treatment strategies for advanced melanoma require serial  assessment of disease status in affected patients. In this study, we sought to examine the
+URL: https://ar.iiarjournals.org/content/42/2/801.abstract
+
+--------------------------------------------------------------------------------
+
+[225] Reliability assessment, repair, and replacement of historic water tunnels and their contribution to California's sustainability
+Authors: ['J Kaneshiro', 'F Kintzer', 'ML Piek', 'R Yoshimura']
+Year: 2007
+Venue: ITA 2007
+Citations: 2
+Abstract: From the largest private and public water and power supply utility companies in the world to  the smaller municipal water and power agencies and irrigation districts to the oldest water
+URL: https://www.researchgate.net/profile/Luis-Piek/publication/290052671_Reliability_assessment_repair_and_replacement_of_historic_water_tunnels_and_their_contribution_to_California's_sustainability/links/64c7e43576f5097d6a5804e9/Reliability-assessment-repair-and-replacement-of-historic-water-tunnels-and-their-contribution-to-Californias-sustainability.pdf
+
+--------------------------------------------------------------------------------
+
+[226] A collaborative approach to ITA training: The ITAs, faculty, TAs, undergraduate interns, and undergraduate students
+Authors: ['J Civikly', 'D Muchisky']
+Year: 1991
+Venue: Preparing the professoriate of …
+Citations: 36
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[227] Improving transferability strategies for debris flow susceptibility assessment: Application to the Saponara and Itala catchments (Messina, Italy)
+Authors: ['M Cama', 'L Lombardo', 'C Conoscenti', 'E Rotigliano']
+Year: 2017
+Venue: Geomorphology
+Citations: 111
+Abstract: Debris flows can be described as rapid gravity-induced mass movements controlled by  topography that are usually triggered as a consequence of storm rainfalls. One of the problems
+URL: https://www.sciencedirect.com/science/article/pii/S0169555X16307176
+
+--------------------------------------------------------------------------------
+
+[228] Design and assessment of adjustable telescopic props with innovative shape
+Authors: ['G Fantoni', 'A Salvadori', 'E Marchina']
+Year: 2018
+Venue: … REPORT DEPARTMENT OF …
+Citations: 0
+Abstract: The design of optimal props (in terms of weight) that conform to the European standard EN  1065 is not a straightforward task. For some classes of props, when the collapse mechanism
+URL: https://iris.unibs.it/handle/11379/508475
+
+--------------------------------------------------------------------------------
+
+[229] Ecosystem services within the appropriate assessment of land-use plans: exploring a potential integration
+Authors: ['S Lai']
+Year: 2016
+Venue: Input 2016 9th International Conference on Innovation …
+Citations: 0
+Abstract: Land-use changes are regarded in the literature (DeFries et al., 2004; Geneletti, 2013) as the  main driver of alteration of ecosystem structures, functions and services (ES), that is those
+URL: https://iris.unica.it/handle/11584/180845
+
+--------------------------------------------------------------------------------
+
+[230] An assessment of the Korea-China free trade agreement
+Authors: ['JJ Schott', 'E Jung', 'C Cimino-Isaacs']
+Year: 2015
+Venue: Policy Brief
+Citations: 58
+Abstract: As a number of electronic products under the ITA are already duty free, China and Korea  focused on products not covered by ITA. Not surprisingly, these products are generally the most
+URL: https://www.piie.com/sites/default/files/publications/pb/pb15-24.pdf
+
+--------------------------------------------------------------------------------
+
+[231] Methodological framework to develop life cycle thinking assessment on 4CE-MED systems
+Authors: ['L Brenes-Peralta', 'E Desiderio', 'C Dessienne', 'S Marsac']
+Year: 2020
+Venue: NA
+Citations: 0
+Abstract: Cereal crops are relevant in many Mediterranean farming systems; however, there is a lack  of alternatives. Conservation agriculture (CA) entails principles and benefits that could
+URL: https://cris.unibo.it/handle/11585/846366
+
+--------------------------------------------------------------------------------
+
+[232] Selecting model of group leader based on a trust-rating-assessment mechanism in VANET
+Authors: ['J Zhang', 'Z Chen']
+Year: 2013
+Venue: 2013 International Conference on …
+Citations: 1
+Abstract: In VANET, the vehicles can be separated into different groups. There is a group leader (GL)  who manages the group members and group key in each group. In previous studies,
+URL: https://ieeexplore.ieee.org/abstract/document/6709970/
+
+--------------------------------------------------------------------------------
+
+[233] Considering interlocutors in university discourse communities: Impacting US undergraduates' perceptions of ITAs through a structured contact program
+Authors: ['S Staples', 'O Kang', 'E Wittner']
+Year: 2014
+Venue: English for Specific Purposes
+Citations: 51
+Abstract: Native speakers are often the primary members of these discourse communities, especially  in inner circle countries such as the US ITA (international teaching assistant) researchers
+URL: https://www.sciencedirect.com/science/article/pii/S088949061400012X
+
+--------------------------------------------------------------------------------
+
+[234] Lessons in technology assessment: Methodology and management at OTA
+Authors: ['FB Wood']
+Year: 1997
+Venue: Technological Forecasting and Social Change
+Citations: 56
+Abstract: WOOD currently serves on the steering committee of the Institute for Technology Assessment  (ITA), a not-for-profit private sector organization established to conduct assessment studies
+URL: https://www.sciencedirect.com/science/article/pii/S0040162597814928
+
+--------------------------------------------------------------------------------
+
+[235] Nanomaterials in cosmetics–regulation and safety assessment in the EU (NanoTrust-Dossier No61en-Aug. 2023)
+Authors: ['S Gressler', 'ITA Anna Pavlicek', 'ITA André Gazsó']
+Year: 2023
+Venue: NA
+Citations: 0
+Abstract: The cosmetics industry uses a range of nanomaterials to improve the properties of products.  Whilst there are no or only minor health concerns with soluble and biodegradable
+URL: https://epub.oeaw.ac.at/ita/nanotrust-dossiers/dossier061en.pdf
+
+--------------------------------------------------------------------------------
+
+[236] Fatigue assessment of smooth metallic specimens using a simplified multiaxial criterion based on a critical plane approach
+Authors: ['A Carpinteri', 'R Brighenti', 'A Spagnoli']
+Year: 2010
+Venue: Proceedings of the 9th …
+Citations: 0
+Abstract: In the present paper, a high-cycle critical plane-based multiaxial fatigue criterion is employed  to evaluate the multiaxial fatigue strength of smooth metallic specimens subjected to
+URL: https://www.academia.edu/download/75196278/11802-44883-1-PB.pdf
+
+--------------------------------------------------------------------------------
+
+[237] Reassessment of the apparent equilibrium constant of Creatine Kinase Reaction for accurate in vivo assessment of [ADP] by 31P MRS in the human brain and skeletal …
+Authors: ['S Iotti', 'A Sabatini', 'A Vacca', 'C Frassineti', 'B Barbiroli']
+Year: 2001
+Venue: IBST
+Citations: 0
+Abstract: In vivo assessment of [ADP] in the human brain and skeletal muscle by 31P-MRS is essential  to the knowledge of the functionality of mitochondrial respiration, hence of the degree of"
+URL: https://cds.ismrm.org/ismrm-2001/PDF6/1654.pdf
+
+--------------------------------------------------------------------------------
+
+[238] On the use of low-cost sensors to monitor urban air quality and assessment of their performance
+Authors: ['F Di Nicola', 'F Barbano', 'E Brattich']
+Year: 2018
+Venue: 1° Congresso …
+Citations: 0
+Abstract: The demand for high-resolution air quality data is growing in various fields, such as in climate  change studies, health protection analyses, traffic management, etc. The use of modern
+URL: https://cris.unibo.it/handle/11585/728121
+
+--------------------------------------------------------------------------------
+
+[239] แนวทาง การ พัฒนา ตัว ชี้ วัด และ กระบวนการ ประเมิน ITA
+Authors: ['S Paripontueasakul']
+Year: 2024
+Venue: King Prajadhipok's Institute Journal
+Citations: 0
+Abstract: ITA is an important mechanism to prevent public sector corruption and is  studied ITA’s  principles, indexing process, and implications of ITA and gave recommendations for improving ITA
+URL: https://so06.tci-thaijo.org/index.php/kpi_journal/article/view/266774
+
+--------------------------------------------------------------------------------
+
+[240] The “Pusher “syndrome, assessment and treatment. Part 2
+Authors: ['J van de Rakt', 'S McCarthy-Grunwald']
+Year: 2022
+Venue: Ita. J. Sports Reh. Po
+Citations: 1
+Abstract: Part 1 gives us insight in the Pat. Davies Approach and the surprising reaction of so many  person with an severe pusher syndrome after an stroke. That there must be an deficit in the
+URL: https://www.vanderakt.nl/wp-content/uploads/2021/04/pusher-2-def.pdf
+
+--------------------------------------------------------------------------------
+
+[241] The One-health approach applied to micropollutants in the water environment: assessing the risk from sources to humans to plan monitoring and mitigation strategies
+Authors: ['J Ianes', 'L Penserini', 'E Sezenna']
+Year: 2024
+Venue: … from assessment to …
+Citations: 0
+Abstract: Micropollutants, including pharmaceuticals, pesticides, PFAS, bisphenols, and polycyclic  aromatic hydrocarbons, are increasingly detected in water systems, raising concerns for
+URL: https://re.public.polimi.it/handle/11311/1287811
+
+--------------------------------------------------------------------------------
+
+[242] From make-use to symmetric IO tables: an assessment of alternative technology assumptions
+Authors: ['J Guo', 'AM Lawson', 'MA Planting']
+Year: 2002
+Venue: NA
+Citations: 65
+Abstract: discussions have tended to focus on two alternative technology assumptions: the ITA and the   The ITA proposes that all commodities made by an industry share the same input structure.
+URL: http://www.bea.gov/sites/default/files/papers/WP2002-3.pdf
+
+--------------------------------------------------------------------------------
+
+[243] Evaluation of Caprock Integrity in a Carbonate Field Undergoing Steamflood
+Authors: ['J Ita', 'C Schoofs', 'A Bauer', 'S Oates']
+Year: 2012
+Venue: 3rd EAGE International …
+Citations: 1
+Abstract: Injection projects usually include two significant field development uncertainties as goals of  the operation: flood front conformance and maintenance of cap rock integrity. These become
+URL: https://www.earthdoc.org/content/papers/10.3997/2214-4609.20142998
+
+--------------------------------------------------------------------------------
+
+[244] ASSESSMENT OF FENRETINIDE IN MESENCHYMAL STEM CELLS-DERIVED EXTRACELLULAR VESICLES
+Authors: ['G Zuccari', 'C Villa', 'S Alfei', 'A Zorzoli']
+Year: 2022
+Venue: … of SIMPOSIO AFI …
+Citations: 0
+Abstract: Fenretinide (N-(4-hydroxyphenyl)-retinamide, 4-HPR) is a synthetic retinoid with fewer  adverse effects than natural retinoids, whose efficacy against ovarian, prostate, small cell lung,
+URL: https://unige.iris.cineca.it/handle/11567/1090147
+
+--------------------------------------------------------------------------------
+
+[245] Life cycle assessment of passenger cars fed with a blend of LPG, bio-LGP, and renewable DME, and comparison with conventional and electric passenger cars
+Authors: ['S Puricelli', 'M Eid', 'S Casadei', 'M Grosso']
+Year: 2024
+Venue: SIDISA 2024 …
+Citations: 0
+Abstract: Life Cycle Assessment (LCA) methodology was applied to comparatively assess the environmental  impacts of B and C segments passenger cars with spark-ignition (SI) engine and with
+URL: https://re.public.polimi.it/handle/11311/1277117
+
+--------------------------------------------------------------------------------
+
+[246] Bacteriological assessment of selected borehole water samples in Ilorin metropolis
+Authors: ['TO Agbabiaka', 'IO Sule']
+Year: 2010
+Venue: NA
+Citations: 54
+Abstract: 
+
+--------------------------------------------------------------------------------
+
+[247] The Fort Sam Houston Project: An Archaeological and Historical Assessment
+Authors: ['A Gerstle', 'TC Kelly', 'C Assad']
+Year: 1978
+Venue: Index of Texas Archaeology …
+Citations: 5
+Abstract: In March 1977, a contract was effected between the Center for Archaeological Research, The  University of Texas at San Antonio (CAR-UTSA), and the Fort Worth District Army Corps of
+URL: https://scholarworks.sfasu.edu/ita/vol1978/iss1/7/
+
+--------------------------------------------------------------------------------
+
+[248] EEMCO guidance for the assessment of skin colour
+Authors: ['GE Piérard']
+Year: 1998
+Venue: Journal of the European Academy of Dermatology and …
+Citations: 370
+Abstract: General description Colour assessment of skin by visual inspection alone may be precise  for a given individual although comparison between colours is only possible when they are
+URL: https://www.sciencedirect.com/science/article/pii/S0926995997001839
+
+--------------------------------------------------------------------------------
+
+[249] Comparative life cycle assessment of conventional and organic chickpea cultivation in southern Italy
+Authors: ['N Minafra', 'A Paiano', 'C Ingrao', 'T Crovella']
+Year: 2024
+Venue: … Nazionale di Scienze …
+Citations: 0
+Abstract: Legumes combine a high protein intake with reduced environmental impact and are suitable  for application in rotational cropping systems, with the twofold function of producing grains
+URL: https://ricerca.uniba.it/handle/11586/547082
+
+--------------------------------------------------------------------------------
+
+[250] Assessment of the performance of the inter-arrival time algorithm to identify ice shattering artifacts in cloud particle probe measurements
+Authors: ['A Korolev', 'PR Field']
+Year: 2015
+Venue: Atmospheric Measurement Techniques
+Citations: 81
+Abstract: of the limitations of the ITA will provide statements of  ITA will aid in the design process of  future cloud probes. The objective of this paper is to evaluate the efficiency and limitations of ITA
+URL: https://amt.copernicus.org/articles/8/761/2015/
+
+--------------------------------------------------------------------------------
+
