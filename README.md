@@ -1,103 +1,85 @@
-# Google Scholar Keyword Scraper
+# Scholar Scraper - Selenium
 
-Simple Python script to scrape Google Scholar for papers on International Teaching Assistants (ITA) and language proficiency assessment.
+Scrapes Google Scholar with manual CAPTCHA solving. Fetches 50 papers per run, saves progress, resumes automatically.
 
-## Installation
+## Install
 
 ```bash
-pip install -r requirements.txt
+pip install selenium webdriver-manager beautifulsoup4 lxml
 ```
 
-## Quick Start
+## Usage
 
-1. **Edit keywords** in `scrape_scholar.py` (lines 15-29):
-   - Add/remove ITA-related terms
-   - Add/remove assessment-related terms
+```bash
+# Basic - fetch 50 papers
+python scholar_scraper_selenium.py
 
-2. **Run the script**:
-   ```bash
-   python scrape_scholar.py
-   ```
+# Resume (automatic)
+python scholar_scraper_selenium.py
 
-3. **Get results**:
-   - View progress in terminal
-   - Final count of papers found
-   - Two output files with detailed information
+# Custom chunk size
+python scholar_scraper_selenium.py -c 100
 
-## Configuration (Edit at Top of Script)
+# Custom delays (if getting blocked)
+python scholar_scraper_selenium.py --min-delay 5 --max-delay 10
 
-All settings are in the configuration section at the top of `scrape_scholar.py`:
+# Start fresh
+python scholar_scraper_selenium.py --reset
 
-```python
-# ITA-related keywords
-ITA_KEYWORDS = [
-    "ITA",
-    "Foreign teaching assistant",
-    "International teaching assistant",
-    "Non-native teaching assistant",
-]
-
-# Assessment-related keywords
-ASSESSMENT_KEYWORDS = [
-    "speaking assessment",
-    "rubric",
-    "language proficiency",
-    "oral proficiency",
-    "assessment",
-]
-
-# Search settings
-MAX_RESULTS = 2000      # Maximum papers to retrieve
-DELAY_SECONDS = 2       # Delay between requests
-TEST_MODE = False       # Set True for quick 10-result test
+# Test with 10 papers
+python scholar_scraper_selenium.py --test
 ```
 
-## Test Mode
+## When CAPTCHA Appears
 
-Before running a full search, you can test with just 10 results:
-
-1. Set `TEST_MODE = True` in the script
-2. Run: `python scrape_scholar.py`
-3. Check if results are what you expect
-4. Set `TEST_MODE = False` for full search
+1. Browser window opens
+2. Console shows: "⚠️ CAPTCHA DETECTED!"
+3. Solve it in the browser
+4. Script automatically continues
 
 ## Output Files
 
-- **scholar_results.json**: Complete data in JSON format with search query and metadata
-- **scholar_report.txt**: Human-readable report with all paper details
+- `scholar_results.csv` - Spreadsheet
+- `scholar_results.json` - Structured data
+- `scholar_report.txt` - Text report
+- `checkpoint.json` - Progress tracker
 
-Each paper includes:
-- Title
-- Authors
-- Year
-- Venue/Publication
-- Citation count
-- Abstract
-- URL (when available)
+## Keywords
 
-## Important Notes
+Edit these in the script if needed:
 
-- **Rate Limiting**: Script includes 2-second delay between requests to avoid blocking
-- **Search Syntax**: Uses simplified query format optimized for scholarly library
-- **Error Handling**: Will show helpful messages if Google Scholar blocks requests
-- **Progress**: Shows each paper as it's retrieved with running count
-
-## Customization Examples
-
-### Change keywords:
 ```python
-ITA_KEYWORDS = ["International TA", "Foreign TA"]
-ASSESSMENT_KEYWORDS = ["language test", "proficiency exam"]
+ITA_KEYWORDS = [
+    "ITA",
+    "Foreign teaching assistant*",
+    "International teaching assistant*",
+    "Non-native teaching assistant*",
+]
+
+ASSESSMENT_KEYWORDS = [
+    "speaking assessment*",
+    "rubric*",
+    "language proficiency",
+    "oral proficiency",
+    "assessment*",
+]
 ```
 
-### Adjust speed/safety:
-```python
-DELAY_SECONDS = 3  # Slower, safer
-# or
-DELAY_SECONDS = 1  # Faster, riskier
+## Options
+
+```
+-c, --chunk-size     Papers per run (default: 50)
+-m, --max-results    Total papers to collect (default: 1000)
+--min-delay          Min seconds between pages (default: 3.0)
+--max-delay          Max seconds between pages (default: 7.0)
+--reset              Delete checkpoint and start fresh
+--test               Test mode (10 papers only)
+--headless           Run invisible browser (won't work with CAPTCHAs)
 ```
 
-### Limit results:
-```python
-MAX_RESULTS = 50  # Only get first 50 papers
-```
+## Tips
+
+- Run 50 papers at a time
+- Solve CAPTCHAs quickly when they appear
+- If blocked too much, increase delays or wait hours before resuming
+- Switch networks/VPN if needed
