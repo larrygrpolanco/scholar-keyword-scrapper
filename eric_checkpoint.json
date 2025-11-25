@@ -1,0 +1,22 @@
+{
+  "query": "(\"Foreign teaching assistant\" OR \"International teaching assistant\" OR \"Non-native teaching assistant\") AND (\"speaking assessment\" OR \"rubric\" OR \"language proficiency\" OR \"oral proficiency\" OR \"language assessment\" OR \"accent assessment\" OR \"intelligibility assessment\")",
+  "ita_keywords": [
+    "Foreign teaching assistant",
+    "International teaching assistant",
+    "Non-native teaching assistant"
+  ],
+  "assessment_keywords": [
+    "speaking assessment",
+    "rubric",
+    "language proficiency",
+    "oral proficiency",
+    "language assessment",
+    "accent assessment",
+    "intelligibility assessment"
+  ],
+  "chunk_size": 500,
+  "max_results": 1000,
+  "next_page": 7,
+  "last_updated": "2025-11-18T20:49:10.126931",
+  "completed": true
+}

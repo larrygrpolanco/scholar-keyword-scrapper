@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Google Scholar Scraper with Manual CAPTCHA Solving.
+ERIC Scraper with Manual CAPTCHA Solving.
 
-This version opens a browser window where YOU can solve CAPTCHAs manually.
+This version scrapes the ERIC (Education Resources Information Center) database
+at https://eric.ed.gov/. Opens a browser window where YOU can solve CAPTCHAs manually.
 The script waits for you to solve them, then continues scraping automatically.
 
 Requirements:
@@ -17,6 +18,7 @@ import argparse
 import csv
 import json
 import random
+import re
 import time
 from datetime import datetime
 from pathlib import Path
@@ -41,14 +43,14 @@ Paper = Dict[str, Any]
 
 # ==================== CONFIGURATION =====================
 ITA_KEYWORDS = [
-    "Foreign teaching assistant*",
-    "International teaching assistant*",
-    "Non-native teaching assistant*",
+    "Foreign teaching assistant",
+    "International teaching assistant",
+    "Non-native teaching assistant",
 ]
 
 ASSESSMENT_KEYWORDS = [
-    "speaking assessment*",
-    "rubric*",
+    "speaking assessment",
+    "rubric",
     "language proficiency",
     "oral proficiency",
     "language assessment",
@@ -57,32 +59,37 @@ ASSESSMENT_KEYWORDS = [
 ]
 
 DEFAULT_MAX_RESULTS = 1000
-DEFAULT_CHUNK_SIZE = 500
-DEFAULT_MIN_DELAY = 3.0
-DEFAULT_MAX_DELAY = 7.0
+DEFAULT_CHUNK_SIZE = 500  # ERIC shows more results per page
+DEFAULT_MIN_DELAY = 2.0
+DEFAULT_MAX_DELAY = 5.0
 
-CHECKPOINT_PATH = Path("checkpoint.json")
-CSV_PATH = Path("scholar_results.csv")
-JSON_PATH = Path("scholar_results.json")
-REPORT_PATH = Path("scholar_report.txt")
+# Different naming scheme to avoid interference with scholar results
+CHECKPOINT_PATH = Path("eric_checkpoint.json")
+CSV_PATH = Path("eric_results.csv")
+JSON_PATH = Path("eric_results.json")
+REPORT_PATH = Path("eric_report.txt")
 
 CSV_FIELDS = [
     "number",
+    "eric_id",
     "title",
     "authors",
     "year",
-    "venue",
-    "citations",
+    "source",
+    "publication_type",
+    "peer_reviewed",
     "abstract",
+    "descriptors",
     "url",
 ]
 
 
 def build_query(ita_keywords: List[str], assessment_keywords: List[str]) -> str:
-    """Build the search query."""
+    """Build the search query for ERIC."""
+    # ERIC uses simpler query syntax
     ita_terms = " OR ".join([f'"{kw}"' for kw in ita_keywords])
     assessment_terms = " OR ".join([f'"{kw}"' for kw in assessment_keywords])
-    return f"({ita_terms}) AND ({assessment_terms}) -Italian -lingua"
+    return f"({ita_terms}) AND ({assessment_terms})"
 
 
 def setup_driver(headless: bool = False) -> webdriver.Chrome:
@@ -123,7 +130,7 @@ def setup_driver(headless: bool = False) -> webdriver.Chrome:
 
 
 def check_for_captcha(driver: webdriver.Chrome) -> bool:
-    """Check if current page has a CAPTCHA."""
+    """Check if current page has a CAPTCHA or error."""
     try:
         # Check for actual CAPTCHA elements
         page_source = driver.page_source.lower()
@@ -177,13 +184,17 @@ def wait_for_captcha_solve(driver: webdriver.Chrome, max_wait: int = 300) -> boo
 
 
 def fetch_page_with_selenium(
-    driver: webdriver.Chrome, query: str, start: int
+    driver: webdriver.Chrome, query: str, page: int
 ) -> Optional[BeautifulSoup]:
     """
-    Fetch a Google Scholar page using Selenium.
+    Fetch an ERIC page using Selenium.
     Handles CAPTCHAs by waiting for user to solve them manually.
     """
-    url = f"https://scholar.google.com/scholar?q={query}&hl=en&start={start}"
+    # ERIC uses page numbers starting from 1
+    if page == 1:
+        url = f"https://eric.ed.gov/?q={query}"
+    else:
+        url = f"https://eric.ed.gov/?q={query}&pg={page}"
 
     try:
         driver.get(url)
@@ -203,78 +214,90 @@ def fetch_page_with_selenium(
         return None
 
 
-def parse_scholar_result(
-    result_div: BeautifulSoup, result_number: int
-) -> Optional[Paper]:
-    """Parse a single Google Scholar result."""
+def parse_eric_result(result_elem, result_number: int) -> Optional[Paper]:
+    """Parse a single ERIC result."""
     try:
+        # Extract ERIC ID from link
+        eric_id = "N/A"
+        title_link = result_elem.select_one("a[href*='id=']")
+        if title_link and title_link.has_attr("href"):
+            href = title_link["href"]
+            id_match = re.search(r"id=(EJ\d+|ED\d+)", href)
+            if id_match:
+                eric_id = id_match.group(1)
+
         # Extract title
-        title_elem = result_div.select_one(".gs_rt")
-        if not title_elem:
-            return None
+        title = "N/A"
+        if title_link:
+            title = title_link.get_text(strip=True)
 
-        title = title_elem.get_text(strip=True)
-        title = (
-            title.replace("[PDF]", "")
-            .replace("[HTML]", "")
-            .replace("[BOOK]", "")
-            .strip()
-        )
+        # Build full URL
+        url = f"https://eric.ed.gov/?id={eric_id}" if eric_id != "N/A" else "N/A"
 
-        # Extract URL
-        link_elem = title_elem.select_one("a")
-        url = link_elem["href"] if link_elem and link_elem.has_attr("href") else "N/A"
+        # Extract all text content for parsing
+        text_content = result_elem.get_text(separator="\n", strip=True)
+        lines = [line.strip() for line in text_content.split("\n") if line.strip()]
 
-        # Extract authors, year, venue
-        authors_elem = result_div.select_one(".gs_a")
+        # Parse metadata - authors typically follow the title
         authors = "N/A"
         year = "N/A"
-        venue = "N/A"
+        source = "N/A"
+        publication_type = "N/A"
+        peer_reviewed = False
+        abstract = "N/A"
+        descriptors = []
 
-        if authors_elem:
-            authors_text = authors_elem.get_text(strip=True)
-            parts = authors_text.split(" - ")
+        # Check for peer reviewed status
+        peer_reviewed_img = result_elem.select_one("img[src*='reviewed']")
+        if peer_reviewed_img:
+            peer_reviewed = True
 
-            if len(parts) >= 1:
-                authors = parts[0].strip()
-
-            if len(parts) >= 2:
-                venue_year = parts[1].strip()
-                import re
-
-                year_match = re.search(r"\b(19|20)\d{2}\b", venue_year)
+        # Try to parse the structured text
+        for i, line in enumerate(lines):
+            # Look for year (4 digits)
+            if re.search(r"\b(19|20)\d{2}\b", line) and year == "N/A":
+                year_match = re.search(r"\b(19|20)\d{2}\b", line)
                 if year_match:
                     year = year_match.group(0)
-                    venue = venue_year.replace(year, "").strip().rstrip(",").strip()
-                else:
-                    venue = venue_year
 
-        # Extract abstract
-        snippet_elem = result_div.select_one(".gs_rs")
-        abstract = snippet_elem.get_text(strip=True) if snippet_elem else "N/A"
+            # Source is typically a line with journal/publication name
+            if "journal" in line.lower() or "eric" in line.lower():
+                source = line
 
-        # Extract citations
-        citations = 0
-        cite_elem = result_div.select_one(".gs_fl a")
-        if cite_elem:
-            cite_text = cite_elem.get_text(strip=True)
-            if "Cited by" in cite_text:
-                import re
+            # Descriptors typically start with "Descriptors:"
+            if line.lower().startswith("descriptor"):
+                # Collect remaining lines as descriptors
+                desc_text = " ".join(lines[i + 1 :])
+                descriptors = [d.strip() for d in desc_text.split(",") if d.strip()]
+                break
 
-                cite_match = re.search(r"Cited by (\d+)", cite_text)
-                if cite_match:
-                    citations = int(cite_match.group(1))
+        # Try to find abstract (usually longer text block)
+        text_blocks = [line for line in lines if len(line) > 100]
+        if text_blocks:
+            abstract = text_blocks[0]
+
+        # Authors are typically after title and before year
+        if len(lines) > 2:
+            for line in lines[1:5]:  # Check first few lines after title
+                # Authors typically contain names (has commas or 'and')
+                if ("," in line or " and " in line.lower()) and year not in line:
+                    authors = line
+                    break
 
         return {
             "number": result_number,
+            "eric_id": eric_id,
             "title": title,
             "authors": authors,
             "year": year,
-            "venue": venue,
-            "citations": citations,
+            "source": source,
+            "publication_type": publication_type,
+            "peer_reviewed": "Yes" if peer_reviewed else "No",
             "abstract": abstract,
+            "descriptors": "; ".join(descriptors) if descriptors else "N/A",
             "url": url,
         }
+
     except Exception as e:
         print(f"  Warning: Failed to parse result {result_number}: {e}")
         return None
@@ -283,7 +306,7 @@ def parse_scholar_result(
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Google Scholar scraper with manual CAPTCHA solving"
+        description="ERIC scraper with manual CAPTCHA solving"
     )
     parser.add_argument(
         "--chunk-size",
@@ -375,6 +398,7 @@ def save_json_results(papers: List[Paper], query: str, path: Path) -> None:
             "search_query": query,
             "search_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "total_papers": len(papers),
+            "source": "ERIC (eric.ed.gov)",
         },
         "papers": papers,
     }
@@ -401,81 +425,100 @@ def generate_report(papers: List[Paper], query: str, path: Path) -> None:
     """Generate text report."""
     with path.open("w") as f:
         f.write("=" * 80 + "\n")
-        f.write("GOOGLE SCHOLAR SEARCH REPORT\n")
+        f.write("ERIC SEARCH REPORT\n")
         f.write("=" * 80 + "\n\n")
         f.write(f"Search Date: {datetime.now().strftime('%Y-%m-%d')}\n")
         f.write(f"Search Query: {query}\n")
-        f.write(f"Total Papers: {len(papers)}\n\n")
+        f.write(f"Total Papers: {len(papers)}\n")
+        f.write(f"Source: ERIC (eric.ed.gov)\n\n")
         f.write("-" * 80 + "\n")
         for paper in sorted(papers, key=lambda p: p["number"]):
             f.write(f"[{paper['number']}] {paper['title']}\n")
+            f.write(f"ERIC ID: {paper['eric_id']}\n")
             f.write(f"Authors: {paper['authors']}\n")
             f.write(f"Year: {paper['year']}\n")
-            f.write(f"Citations: {paper['citations']}\n\n")
+            f.write(f"Peer Reviewed: {paper['peer_reviewed']}\n\n")
     print(f"Report saved: {path}")
 
 
 def fetch_chunk(
     driver: webdriver.Chrome,
     query: str,
-    start_index: int,
+    start_page: int,
     chunk_size: int,
     min_delay: float,
     max_delay: float,
 ) -> tuple:
     """Fetch a chunk of papers using Selenium."""
     papers = []
-    results_per_page = 10
-
-    start_offset = ((start_index - 1) // results_per_page) * results_per_page
-    current_number = start_index
+    results_per_page = 20  # ERIC typically shows ~20 results per page
+    current_number = (start_page - 1) * results_per_page + 1
     reached_end = False
 
-    print(f"\n🚀 Fetching {chunk_size} papers starting from #{start_index}...")
+    print(f"\n🚀 Fetching up to {chunk_size} papers starting from page {start_page}...")
 
     # Calculate pages needed
     pages_needed = (chunk_size // results_per_page) + 1
+    current_page = start_page
 
-    for page_num in range(pages_needed):
+    for page_offset in range(pages_needed):
         if len(papers) >= chunk_size:
             break
 
-        offset = start_offset + (page_num * results_per_page)
         print(
-            f"\n📄 Page {page_num + 1} (offset={offset}) - {len(papers)}/{chunk_size} papers collected..."
+            f"\n📄 Page {current_page} - {len(papers)}/{chunk_size} papers collected..."
         )
 
-        soup = fetch_page_with_selenium(driver, query, offset)
+        soup = fetch_page_with_selenium(driver, query, current_page)
 
         if soup is None:
             print("  ❌ Failed to fetch page")
             reached_end = True
             break
 
-        # Parse results
-        results = soup.select(".gs_r.gs_or.gs_scl") or soup.select(".gs_ri")
+        # Parse results - ERIC uses different HTML structure
+        # Results are typically in a list or div structure
+        results = soup.select("div.r") or soup.select("div[class*='result']")
+
+        # If above doesn't work, try finding links with ERIC IDs
+        if not results:
+            # Look for all links with ERIC IDs and get their parent containers
+            eric_links = soup.select("a[href*='id=EJ'], a[href*='id=ED']")
+            if eric_links:
+                # Get unique parent containers
+                result_containers = []
+                seen = set()
+                for link in eric_links:
+                    # Go up to find the result container
+                    parent = link.find_parent("div") or link.find_parent("li")
+                    if parent and id(parent) not in seen:
+                        result_containers.append(parent)
+                        seen.add(id(parent))
+                results = result_containers
 
         if not results:
-            print("  ℹ️  No results found. Reached end.")
+            print("  ℹ️  No results found. Reached end or need to adjust parser.")
             reached_end = True
             break
 
         print(f"  Found {len(results)} results")
 
-        for result_div in results:
+        for result_elem in results:
             if len(papers) >= chunk_size:
                 break
 
-            paper = parse_scholar_result(result_div, current_number)
+            paper = parse_eric_result(result_elem, current_number)
 
             if paper is None:
                 continue
 
             papers.append(paper)
             print(
-                f"  ✓ [{paper['number']}] {paper['title'][:60]}... ({paper['year']}) - {paper['citations']} cites"
+                f"  ✓ [{paper['number']}] {paper['title'][:60]}... ({paper['year']}) - {paper['eric_id']}"
             )
             current_number += 1
+
+        current_page += 1
 
         # Delay between pages
         if len(papers) < chunk_size and not reached_end:
@@ -483,7 +526,7 @@ def fetch_chunk(
             print(f"  Waiting {wait_time:.1f}s...")
             time.sleep(wait_time)
 
-    return papers, reached_end
+    return papers, reached_end, current_page
 
 
 def main():
@@ -502,12 +545,13 @@ def main():
     query = build_query(ITA_KEYWORDS, ASSESSMENT_KEYWORDS)
 
     print("=" * 80)
-    print("GOOGLE SCHOLAR SCRAPER - SELENIUM WITH MANUAL CAPTCHA")
+    print("ERIC SCRAPER - SELENIUM WITH MANUAL CAPTCHA")
     print("=" * 80)
     print(f"Chunk size: {args.chunk_size}")
     print(f"Max results: {args.max_results}")
     print(f"Delay: {args.min_delay}-{args.max_delay}s")
     print(f"Query: {query}")
+    print(f"Source: https://eric.ed.gov/")
     print("=" * 80)
 
     if args.reset:
@@ -516,15 +560,11 @@ def main():
     # Load checkpoint
     checkpoint = load_checkpoint(CHECKPOINT_PATH)
     existing_papers = read_json_results(JSON_PATH)
-    start_index = 1
+    start_page = 1
 
     if checkpoint and checkpoint.get("query") == query:
-        start_index = checkpoint.get("next_index", 1)
-        print(f"✓ Resuming from paper #{start_index}")
-
-    if start_index > args.max_results:
-        print("Already reached max results!")
-        return
+        start_page = checkpoint.get("next_page", 1)
+        print(f"✓ Resuming from page {start_page}")
 
     # Set up Selenium
     print("\n🌐 Starting Chrome browser...")
@@ -532,9 +572,8 @@ def main():
 
     try:
         # Fetch chunk
-        chunk_size = min(args.chunk_size, args.max_results - start_index + 1)
-        new_papers, exhausted = fetch_chunk(
-            driver, query, start_index, chunk_size, args.min_delay, args.max_delay
+        new_papers, exhausted, next_page = fetch_chunk(
+            driver, query, start_page, args.chunk_size, args.min_delay, args.max_delay
         )
 
         if not new_papers:
@@ -552,16 +591,15 @@ def main():
         generate_report(combined_papers, query, REPORT_PATH)
 
         # Update checkpoint
-        next_index = start_index + len(new_papers)
         checkpoint_data = {
             "query": query,
             "ita_keywords": ITA_KEYWORDS,
             "assessment_keywords": ASSESSMENT_KEYWORDS,
             "chunk_size": args.chunk_size,
             "max_results": args.max_results,
-            "next_index": next_index,
+            "next_page": next_page,
             "last_updated": datetime.now().isoformat(),
-            "completed": exhausted or next_index > args.max_results,
+            "completed": exhausted or len(combined_papers) >= args.max_results,
         }
         save_checkpoint(CHECKPOINT_PATH, checkpoint_data)
 
@@ -571,7 +609,7 @@ def main():
         print("=" * 80)
         print(f"New papers: {len(new_papers)}")
         print(f"Total papers: {len(combined_papers)}")
-        print(f"Next index: {next_index}")
+        print(f"Next page: {next_page}")
         print(f"Files: {CSV_PATH}, {JSON_PATH}, {REPORT_PATH}")
         print("=" * 80)
 

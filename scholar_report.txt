@@ -2,23 +2,23 @@
 GOOGLE SCHOLAR SEARCH REPORT
 ================================================================================
 
-Search Date: 2025-11-13
-Search Query: ("ITA" OR "Foreign teaching assistant*" OR "International teaching assistant*" OR "Non-native teaching assistant*") AND ("speaking assessment*" OR "rubric*" OR "language proficiency" OR "oral proficiency" OR "language assessment" OR "accent assessment" OR "intelligibility assessment") -Italian -lingua
-Total Papers: 200
+Search Date: 2025-11-18
+Search Query: ("Foreign teaching assistant*" OR "International teaching assistant*" OR "Non-native teaching assistant*") AND ("speaking assessment*" OR "rubric*" OR "language proficiency" OR "oral proficiency" OR "language assessment" OR "accent assessment" OR "intelligibility assessment") -Italian -lingua
+Total Papers: 500
 
 --------------------------------------------------------------------------------
-[1] Topic and variation in theoral proficiencyof international teaching assistants
-Authors: JA Smith
-Year: 1993
-Citations: 0
-
-[2] [B]Measures of spoken assessment in ESL: A comparison of three measures of assessing theoral proficiencyof international teaching assistants at the State …
-Authors: ZM Noor- 1996
+[1] Improving Speaking Fluency for International Teaching Assistants by Increasing Input.
+Authors: GJ Gorsuch- Tesl-Ej, 2011
 Year: N/A
 Citations: 0
 
-[3] Improving Speaking Fluency for International Teaching Assistants by Increasing Input.
-Authors: GJ Gorsuch- Tesl-Ej, 2011
+[2] “Authenticity” in language testing: Evaluating spoken language tests for international teaching assistants
+Authors: B Hoekje, K Linnell - TESOL quarterly, 1994
+Year: N/A
+Citations: 0
+
+[3] [B]Measures of spoken assessment in ESL: A comparison of three measures of assessing theoral proficiencyof international teaching assistants at the State …
+Authors: ZM Noor- 1996
 Year: N/A
 Citations: 0
 
@@ -32,13 +32,13 @@ Authors: D Gokcora
 Year: 1992
 Citations: 0
 
-[6] Communicative competence and the dilemma ofinternational teaching assistant education
-Authors: B Hoekje, J Williams - Tesol Quarterly, 1992
-Year: N/A
+[6] [B]Assessing oral english proficiency of foreign teaching assistants
+Authors: JM Jarecki-Liu
+Year: 1993
 Citations: 0
 
-[7] “Authenticity” in language testing: Evaluating spoken language tests for international teaching assistants
-Authors: B Hoekje, K Linnell - TESOL quarterly, 1994
+[7] Forecasting SPEAK test score from TOEFL score: a Bayesian model for screening international teaching assistants
+Authors: M Gurlitz - 2015 Systems and Information Engineering Design …, 2015
 Year: N/A
 Citations: 0
 
@@ -52,64 +52,64 @@ Authors: H Chang-Language AssessmentQuarterly, 2022
 Year: N/A
 Citations: 0
 
-[10] Multidimensional Analysis of Linguistic Features of International Teaching Assistants: Linguistic-Level Authenticity inItaAssessment
-Authors: H Chang- 2022
+[10] A university‐wide assessment and training program for international teaching assistants
+Authors: D vom Saal, RJ Miles… - Journal of Agronomic …, 1988
 Year: N/A
 Citations: 0
 
-[11] International teaching assistants at universities: A research agenda
-Authors: G Gorsuch- Language Teaching, 2016
+[11] Communicative competence and the dilemma ofinternational teaching assistant education
+Authors: B Hoekje, J Williams - Tesol Quarterly, 1992
 Year: N/A
 Citations: 0
 
-[12] [B]ITA Language ProficiencyTesting: Recommended Replacement for the Speak® Test
-Authors: AM Stoughton
-Year: 2019
-Citations: 0
-
-[13] [CITATION][C]TOEFL® Academic speaking test: Setting a cut score for international teaching assistants
+[12] [CITATION][C]TOEFL® Academic speaking test: Setting a cut score for international teaching assistants
 Authors: EC Wylie,RJ Tannenbaum- Research Memorandum, 2006
 Year: N/A
 Citations: 0
 
-[14] A needs-based approach to the evaluation of the spoken language ability of international teaching assistants
-Authors: S Saif - Canadian Journal of Applied Linguistics, 2002
+[13] International teaching assistants at universities: A research agenda
+Authors: G Gorsuch- Language Teaching, 2016
 Year: N/A
 Citations: 0
 
-[15] Forecasting SPEAK test score from TOEFL score: a Bayesian model for screening international teaching assistants
-Authors: M Gurlitz - 2015 Systems and Information Engineering Design …, 2015
-Year: N/A
-Citations: 0
-
-[16] What the analytic versus holistic scoring of international teaching assistants can reveal: Lexical grammar matters
+[14] What the analytic versus holistic scoring of international teaching assistants can reveal: Lexical grammar matters
 Authors: W Ma- Language Testing, 2022
 Year: N/A
 Citations: 0
 
-[17] Domain Description: Validating the Interpretation of theTOEFL iBT® Speaking Scores forInternational Teaching Assistant Screeningand Certification Purposes
-Authors: E Cotos, YR Chung - ETS Research Report Series, 2018
+[15] An Investigation of Interactional Authenticity inInternational Teaching Assistant InterviewTesting.
+Authors: S Jenkins, I Parra
+Year: 1997
+Citations: 0
+
+[16] Development of Fluency, Complexity, and Accuracy in Second LanguageOral Proficiency: A Longitudinal Study of Two International Teaching Assistants in the US
+Authors: Q Zhang- 2023
 Year: N/A
 Citations: 0
 
-[18] Standard Setting for Next Generation TOEFL Academic Speaking Test (TAST): Reflections on the ETS Panel ofInternational Teaching Assistant Developers.
-Authors: D Papajohn- TESL-EJ, 2006
-Year: N/A
-Citations: 0
-
-[19] Discourse differences between international teaching assistants and university registers: a quantitative corpus approach
+[17] Discourse differences between international teaching assistants and university registers: a quantitative corpus approach
 Authors: H Chang- Language and Education, 2025
 Year: N/A
 Citations: 0
 
-[20] International Teaching Assistant(ITA) training program at Bowling Green State University: Putting the needs of ITAs and the expectations of undergraduate native …
-Authors: S Youssef
-Year: 2018
+[18] Test taker-initiated repairs in an Englishoral proficiencyexam for international teaching assistants
+Authors: SH Kim,I Park- Text & Talk, 2015
+Year: N/A
 Citations: 0
 
-[21] Validating the Use of TOEFL® iBT Speaking Section Scores to Screen and Set Standards for International Teaching Assistants
-Authors: X Xi- Research Spotlight, 2008
+[19] Domain Description: Validating the Interpretation of theTOEFL iBT® Speaking Scores forInternational Teaching Assistant Screeningand Certification Purposes
+Authors: E Cotos, YR Chung - ETS Research Report Series, 2018
 Year: N/A
+Citations: 0
+
+[20] Standard Setting for Next Generation TOEFL Academic Speaking Test (TAST): Reflections on the ETS Panel ofInternational Teaching Assistant Developers.
+Authors: D Papajohn- TESL-EJ, 2006
+Year: N/A
+Citations: 0
+
+[21] Undergraduates Learning from Nonnative English-Speaking Teaching Assistants.
+Authors: N Oppenheim
+Year: 1996
 Citations: 0
 
 [22] Knowledge structures inoral proficiencyinterviews for international teaching assistants
@@ -117,178 +117,178 @@ Authors: BA Mohan - … approaches to the assessment oforal proficiency, 2011
 Year: N/A
 Citations: 0
 
-[23] [CITATION][C]… : Validating the Interpretation of the TOEFL iBT® Test Speaking Scores forInternational Teaching Assistant Screeningand Certification Purposes
-Authors: E Cotos, YR Chung
-Year: N/A
-Citations: 0
-
-[24] Testing language and teaching skills of international teaching assistants: The limits of compensator strategies
-Authors: GB Halleck, CL Moder - TESOL Quarterly, 1995
-Year: N/A
-Citations: 0
-
-[25] A university‐wide assessment and training program for international teaching assistants
-Authors: D vom Saal, RJ Miles… - Journal of Agronomic …, 1988
-Year: N/A
-Citations: 0
-
-[26] Validating TOEFL® iBT Speaking and setting score requirements forITAscreening
-Authors: X Xi-Language AssessmentQuarterly, 2007
-Year: N/A
-Citations: 0
-
-[27] INVESTIGATING THE CRITERION‐RELATED VALIDITY OF THE TOEFL®SPEAKING SCORES FORITASCREENING AND SETTING STANDARDS FOR ITAS
-Authors: X Xi- ETS Research Report Series, 2008
-Year: N/A
-Citations: 0
-
-[28] Test taker-initiated repairs in an Englishoral proficiencyexam for international teaching assistants
-Authors: SH Kim,I Park- Text & Talk, 2015
-Year: N/A
-Citations: 0
-
-[29] Undergraduates Learning from Nonnative English-Speaking Teaching Assistants.
-Authors: N Oppenheim
-Year: 1996
-Citations: 0
-
-[30] Planning, discourse marking, and the comprehensibility of international teaching assistants
-Authors: J Williams - Tesol Quarterly, 1992
-Year: N/A
-Citations: 0
-
-[31] Exploring the Grammatical Complexity of International Teaching Assistants: A Comparative Corpus Study
-Authors: H Chang,A Raeisi‐Vanani- TESOL Quarterly, 2025
-Year: N/A
-Citations: 0
-
-[32] An Investigation of Interactional Authenticity inInternational Teaching Assistant InterviewTesting.
-Authors: S Jenkins, I Parra
-Year: 1997
-Citations: 0
-
-[33] Topic development in the Englishoral proficiencyinterview for international teaching assistants at the University of Illinois at Urbana-Champaign
-Authors: K Kim
-Year: 2017
-Citations: 0
-
-[34] Resolvinginternational teaching assistant languageinadequacy through dialogue: Challenges and opportunities for clarity and credibility
-Authors: L Li,JP Mazer,R Ju- Communication Education, 2011
-Year: N/A
-Citations: 0
-
-[35] Functional language in curriculum genres: Implications for testing international teaching assistants
-Authors: E Cotos, YR Chung - Journal of English for Academic Purposes, 2019
-Year: N/A
-Citations: 0
-
-[36] Becoming the teacher: Changing participant frameworks ininternational teaching assistant discourse
-Authors: EF Rine,JK Hall- JK Hall, J. Hellermann, & S. Pekarek Doehler …, 2011
-Year: N/A
-Citations: 0
-
-[37] [B]Communicate: Strategies for international teaching assistants
-Authors: JA Smith, CM Meyers, AJ Burkhalter
-Year: 2007
-Citations: 0
-
-[38] A corpus-based analysis of grammatical complexity as a measure of international teaching assistants' oral English proficiency
+[23] A corpus-based analysis of grammatical complexity as a measure of international teaching assistants' oral English proficiency
 Authors: S Thirakunkovit,RA Rodríguez-Fuentes,K Park… - English for Specific …, 2019
 Year: N/A
 Citations: 0
 
-[39] 16 Teaching Pronunciation to International Teaching Assistants
-Authors: R Oreto - English Pronunciation Teaching: Theory, Practice and …, 2023
+[24] An analysis of non-native English-speaking graduate teaching assistants' online journal entries
+Authors: B Ates,ZR Eslami- Language and Education, 2012
 Year: N/A
 Citations: 0
 
-[40] Oral English Proficiency Requirements for ITAs in US Colleges and Universities: An Issue in Speech Communication.
-Authors: RC Dick, BM Robinson
-Year: 1993
-Citations: 0
-
-[41] Towards defining a valid assessment criterion of pronunciation proficiency in non-native English-speaking graduate students
-Authors: T Isaacs- Canadian Modern Language Review, 2008
+[25] Testing language and teaching skills of international teaching assistants: The limits of compensator strategies
+Authors: GB Halleck, CL Moder - TESOL Quarterly, 1995
 Year: N/A
 Citations: 0
 
-[42] Aiming for positive washback: A case study of international teaching assistants
-Authors: S Saif - Language testing, 2006
-Year: N/A
-Citations: 0
-
-[43] Discipline-specific practica for international teaching assistants
-Authors: GJ Gorsuch- English for Specific Purposes, 2006
-Year: N/A
-Citations: 0
-
-[44] Technology Enhanced Accent Modification (TEAM) for International Teaching Assistants (ITAs).
-Authors: AH Schwartz
-Year: 1996
-Citations: 0
-
-[45] [CITATION][C]Performance on a general versus a field-specific test of speaking proficiency by international teaching assistants
-Authors: D Douglas, L Selinker - A new decade …, 1993
-Year: N/A
-Citations: 0
-
-[46] International teaching assistant development: Embracing the “I” inITA
-Authors: D Cozzarelli
-Year: 2022
-Citations: 0
-
-[47] [B]The efficacy of oral Englishlanguage proficiencypolicies for international teaching assistants in institutions of higher education
-Authors: LA Obi
-Year: 1995
-Citations: 0
-
-[48] Cultural and linguistic miscues: A case study ofinternational teaching assistant andacademic faculty miscommunication
-Authors: S Jenkins - International Journal of Intercultural Relations, 2000
-Year: N/A
-Citations: 0
-
-[49] The interactive demonstration of interactional competence in theITATEACH Test
-Authors: S Wagner
-Year: 2014
-Citations: 0
-
-[50] Nonlanguage factors affecting undergraduates' judgments of nonnative English-speaking teaching assistants
+[26] Nonlanguage factors affecting undergraduates' judgments of nonnative English-speaking teaching assistants
 Authors: DL Rubin- Research in Higher education, 1992
 Year: N/A
 Citations: 0
 
-[51] Interactional/Ability Authenticity and the Development of a Criterion-Referenced Performance Test for Evaluating theOral Proficiencyof Teaching Assistants
-Authors: S Saif - Working Papers of the Linguistics Circle, 1997
+[27] [CITATION][C]… : Validating the Interpretation of the TOEFL iBT® Test Speaking Scores forInternational Teaching Assistant Screeningand Certification Purposes
+Authors: E Cotos, YR Chung
 Year: N/A
 Citations: 0
 
-[52] A needs-based analysis of cross-cultural competence: A case study on spoken English learning experience of Chinese International Teaching Assistants in the …
-Authors: L Ye - Journal of English as an International Language, 2013
+[28] Linguistic and Non-linguistic Factors Affecting International Teaching Assistants' Comprehensibility and Teaching Quality
+Authors: X Hu,LJ Kuo, LQ Dixon - Journal of Language, Identity & …, 2024
 Year: N/A
 Citations: 0
 
-[53] [B]International teaching assistants—from admissions to placement
-Authors: CA Ernst
-Year: 2008
+[29] Becoming the teacher: Changing participant frameworks ininternational teaching assistant discourse
+Authors: EF Rine,JK Hall- JK Hall, J. Hellermann, & S. Pekarek Doehler …, 2011
+Year: N/A
 Citations: 0
 
-[54] [CITATION][C]Self-assessment of English ability of Korean teaching assistants at Iowa State University
+[30] [B]" Living through" an intercultural experience: Undergraduates learning from nonnative English-speaking teaching assistants
+Authors: NA Oppenheim
+Year: 1996
+Citations: 0
+
+[31] Topic development in the Englishoral proficiencyinterview for international teaching assistants at the University of Illinois at Urbana-Champaign
+Authors: K Kim
+Year: 2017
+Citations: 0
+
+[32] International Teaching Assistant(ITA) training program at Bowling Green State University: Putting the needs of ITAs and the expectations of undergraduate native …
+Authors: S Youssef
+Year: 2018
+Citations: 0
+
+[33] [B]COMMUNICATIVE COMPETENCE IN CLASSROOM: THE EXPERIENCES OF INTERNATIONAL TEACHING ASSISTANTS
+Authors: E Bengü- 2020
+Year: N/A
+Citations: 0
+
+[34] [CITATION][C]Self-assessment of English ability of Korean teaching assistants at Iowa State University
 Authors: S Sohn
 Year: 1989
 Citations: 0
 
-[55] Ratings of L2 oral performance in English: Relative impact of rater characteristics and acoustic measures of accentedness
-Authors: O Kang- 2008
+[35] Towards defining a valid assessment criterion of pronunciation proficiency in non-native English-speaking graduate students
+Authors: T Isaacs- Canadian Modern Language Review, 2008
 Year: N/A
 Citations: 0
 
-[56] [B]Crossing Pedagogical Oceans: International Teaching Assistants in US Undergraduate Education. ASHE-ERIC Higher Education Report No. 8, 1992.
+[36] Development of a framework for computer assisted assessment systems used in oral English proficiency testing of international teaching assistants
+Authors: KPC Madhavan
+Year: 2003
+Citations: 0
+
+[37] US Undergraduates' Perceptions of International Teaching Assistants' Comprehensibility, Accentedness, and Teaching Ability Within a Virtual Language Partner …
+Authors: BC McDermott
+Year: 2022
+Citations: 0
+
+[38] Resolvinginternational teaching assistant languageinadequacy through dialogue: Challenges and opportunities for clarity and credibility
+Authors: L Li,JP Mazer,R Ju- Communication Education, 2011
+Year: N/A
+Citations: 0
+
+[39] Effects of accent, ethnicity, and lecture topic on undergraduates' perceptions of nonnative English-speaking teaching assistants
+Authors: DL Rubin, KA Smith - International journal of intercultural relations, 1990
+Year: N/A
+Citations: 0
+
+[40] The" foreign TA problem
+Authors: K Bailey - Bailey, Kathleen M., Ed.; And Others Foreign Teaching …, 1984
+Year: N/A
+Citations: 0
+
+[41] [B]International Teaching Assistants'(ITAs') Experiences with Language Learning, Learner Autonomy, and Technology as Students in a Requisite Oral …
+Authors: LR Wallace
+Year: 2014
+Citations: 0
+
+[42] Cultural and linguistic miscues: A case study ofinternational teaching assistant andacademic faculty miscommunication
+Authors: S Jenkins - International Journal of Intercultural Relations, 2000
+Year: N/A
+Citations: 0
+
+[43] [CITATION][C]Performance on a general versus a field-specific test of speaking proficiency by international teaching assistants
+Authors: D Douglas, L Selinker - A new decade …, 1993
+Year: N/A
+Citations: 0
+
+[44] International teaching assistants and summative and formative student evaluation
+Authors: G Gorsuch, J Sokolowski - The Journal of Faculty Development, 2007
+Year: N/A
+Citations: 0
+
+[45] A COMPARISON OF NATIVE AND NON-NATIVE ENGLISH-SPEAKING TEACHING ASSISTANTS (TEXAS)
+Authors: ZSS SHAHENAYATI
+Year: 1987
+Citations: 0
+
+[46] Cultural and Pragmatic Miscues: A Case Study ofInternational Teaching Assistant andAcademic Faculty Miscommunication.
+Authors: S Jenkins
+Year: 1997
+Citations: 0
+
+[47] A needs-based analysis of cross-cultural competence: A case study on spoken English learning experience of Chinese International Teaching Assistants in the …
+Authors: L Ye - Journal of English as an International Language, 2013
+Year: N/A
+Citations: 0
+
+[48] Characterizing successful classroom discourse for NNS teaching assistant training
+Authors: PL Rounds - TESOL quarterly, 1987
+Year: N/A
+Citations: 0
+
+[49] Issues in having international teaching assistants in engineering evaluate undergraduate writing
+Authors: J Lax - 2002 Annual Conference, 2002
+Year: N/A
+Citations: 0
+
+[50] [B]The efficacy of oral Englishlanguage proficiencypolicies for international teaching assistants in institutions of higher education
+Authors: LA Obi
+Year: 1995
+Citations: 0
+
+[51] The impact of intercultural training on the satisfaction and achievement of undergraduates taught by international teaching assistants
+Authors: K Jensen
+Year: 2007
+Citations: 0
+
+[52] Discipline-specific practica for international teaching assistants
+Authors: GJ Gorsuch- English for Specific Purposes, 2006
+Year: N/A
+Citations: 0
+
+[53] [B]Working with an accent: The aesthetic labour of international teaching assistants in Ontario universities
+Authors: VA Ramjattan- 2019
+Year: N/A
+Citations: 0
+
+[54] Translingual identity as pedagogy: International teaching assistants of English in college composition classrooms
+Authors: X Zheng - The Modern Language Journal, 2017
+Year: N/A
+Citations: 0
+
+[55] [B]Crossing Pedagogical Oceans: International Teaching Assistants in US Undergraduate Education. ASHE-ERIC Higher Education Report No. 8, 1992.
 Authors: RM Smith
 Year: 1992
 Citations: 0
 
-[57] Effects of accent, ethnicity, and lecture topic on undergraduates' perceptions of nonnative English-speaking teaching assistants
-Authors: DL Rubin, KA Smith - International journal of intercultural relations, 1990
+[56] The Foreign TA: A Guide to Teaching Effectiveness.
+Authors: JL Gburek, SC Dunnett
+Year: 1986
+Citations: 0
+
+[57] [CITATION][C]Undergraduates' Ratings of Domestic and International Teaching Assistants: Timing of Data Collection and Communication Intervention.
+Authors: RA Smith, RE Strom, N Muthuswamy - Journal of Intercultural Communication …, 2005
 Year: N/A
 Citations: 0
 
@@ -297,219 +297,219 @@ Authors: SG Stevens- 1988
 Year: N/A
 Citations: 0
 
-[59] Teaching in a foreign land: Experiences of international teaching assistants in US engineering classrooms
-Authors: A Agrawal,LD McNair, MC Paretti - 2018 ASEE Annual Conference …, 2018
-Year: N/A
-Citations: 0
-
-[60] Cultural and Pragmatic Miscues: A Case Study ofInternational Teaching Assistant andAcademic Faculty Miscommunication.
-Authors: S Jenkins
-Year: 1997
-Citations: 0
-
-[61] [B]International teaching assistant programevaluation
-Authors: Y Shi
-Year: 2006
-Citations: 0
-
-[62] International teaching assistants and summative and formative student evaluation
-Authors: G Gorsuch, J Sokolowski - The Journal of Faculty Development, 2007
-Year: N/A
-Citations: 0
-
-[63] Development of a framework for computer assisted assessment systems used in oral English proficiency testing of international teaching assistants
-Authors: KPC Madhavan
-Year: 2003
-Citations: 0
-
-[64] Implications of student evaluations of teaching forITAdevelopment
-Authors: DD Hendel, T Dunham, J Smith, J Solberg, C Tzenis…
-Year: 1992
-Citations: 0
-
-[65] ReimaginingITAtraining: promoting student-scholars' agency
-Authors: N Sahranavard,Q Du- ELT Journal, 2022
-Year: N/A
-Citations: 0
-
-[66] International teaching assistants: Increasing communicative awareness and understanding
-Authors: K Yaw,O Kang- Linguistic Discrimination in US Higher Education, 2021
-Year: N/A
-Citations: 0
-
-[67] Investigating the effects of discipline and first-language backgrounds on ITAs' instructional discourse patterns
-Authors: H Chang- … Journal of English for Academic Purposes …, 2024
-Year: N/A
-Citations: 0
-
-[68] Beyond language barriers: Teaching self-efficacy among East Asian international teaching assistants.
-Authors: E Kim - International Journal of Teaching and Learning in …, 2009
-Year: N/A
-Citations: 0
-
-[69] [CITATION][C]Undergraduates' Ratings of Domestic and International Teaching Assistants: Timing of Data Collection and Communication Intervention.
-Authors: RA Smith, RE Strom, N Muthuswamy - Journal of Intercultural Communication …, 2005
-Year: N/A
-Citations: 0
-
-[70] The" foreign TA problem
-Authors: K Bailey - Bailey, Kathleen M., Ed.; And Others Foreign Teaching …, 1984
-Year: N/A
-Citations: 0
-
-[71] Adapting to a new role as aninternational teaching assistant:Influenceof communicative competence in this adaptation process
-Authors: E Bengu- 2009
-Year: N/A
-Citations: 0
-
-[72] The educational cultures of international teaching assistants and US universities
-Authors: GJ Gorsuch- Tesl-Ej, 2003
-Year: N/A
-Citations: 0
-
-[73] HowInternational Teaching Assistant ProgramsCan Prevent Lawsuits.
-Authors: N Oppenheim
-Year: 1997
-Citations: 0
-
-[74] Undergraduates' experiences with and attitudes toward international teaching assistants
-Authors: BS Plakans - TESOL quarterly, 1997
-Year: N/A
-Citations: 0
-
-[75] [B]Student linguistic response to perceived foreignness of teaching assistants
-Authors: TV McCone
-Year: 1993
-Citations: 0
-
-[76] [CITATION][C]International teaching assistants' professional identity development in the United States: A multiple case study perspective
-Authors: H Wang, M Mantero - EFL Journal, 2018
-Year: N/A
-Citations: 0
-
-[77] The effects of a technology-supported training system on second language use strategies for international teaching assistants
-Authors: S Zha- 2006
-Year: N/A
-Citations: 0
-
-[78] [CITATION][C]Legal and policy issues in thelanguage proficiencyassessment of international teaching assistants
-Authors: K Brown, P Fishman, N Jones
-Year: 1990
-Citations: 0
-
-[79] International teaching assistants' initiation of negotiations in engineering labs
-Authors: J Kim - International Journal of Applied Linguistics, 2016
-Year: N/A
-Citations: 0
-
-[80] Topical knowledge in L2speaking assessment:Comparingindependent and integrated speaking test tasks
-Authors: HTD Huang, STA Hung,L Plakans- Language Testing, 2018
-Year: N/A
-Citations: 0
-
-[81] Analyzing item bias to validate and revise anITAperformance test
-Authors: DT Griffee, J Gevara - Pronunciation in Second Language …, 2011
-Year: N/A
-Citations: 0
-
-[82] Capturing the experiences of international teaching assistants in the US American classroom
-Authors: A Hebbani,KG Hendrix- New Directions for Teaching and …, 2014
-Year: N/A
-Citations: 0
-
-[83] Teaching suprasegmentals to international teaching assistants using field-specific materials
-Authors: J Anderson-Hsieh - English for Specific Purposes, 1990
-Year: N/A
-Citations: 0
-
-[84] The diversity discourse and language ideologies around international teaching assistants
+[59] The diversity discourse and language ideologies around international teaching assistants
 Authors: JS Kim - Critical Discourse Studies, 2020
 Year: N/A
 Citations: 0
 
-[85] [B]International teaching assistants and the essence of the development of intercultural competence
-Authors: MJF LaRocco
-Year: 2011
-Citations: 0
-
-[86] Understanding Undergraduate Students' Perceptions of International Teaching Assistants
-Authors: AA Khan- 2013
+[60] Beyond language barriers: Teaching self-efficacy among East Asian international teaching assistants.
+Authors: E Kim - International Journal of Teaching and Learning in …, 2009
 Year: N/A
 Citations: 0
 
-[87] Predicting success for international teaching assistants in a US university
+[61] [B]The relationship between English proficiency of foreign teaching assistants and their perceived teaching effectiveness at the University of South Carolina
+Authors: GP Moses
+Year: 1991
+Citations: 0
+
+[62] Chinese Biology Teaching Assistants' Perception of their English Proficiency: An Exploratory Case Study.
+Authors: X Jiang- Qualitative Report, 2014
+Year: N/A
+Citations: 0
+
+[63] Predicting success for international teaching assistants in a US university
 Authors: G Yule, P Hoffman - TESOL Quarterly, 1990
 Year: N/A
 Citations: 0
 
-[88] TheITAproblem: A ready-to-use simulation
-Authors: GB Halleck - Simulation & Gaming, 2008
+[64] [B]Non-native teachers' directives in English: A comparative analysis of the academic discourse of native speaker and Korean teaching assistants
+Authors: E Hwang
+Year: 2013
+Citations: 0
+
+[65] [B]International teaching assistants—from admissions to placement
+Authors: CA Ernst
+Year: 2008
+Citations: 0
+
+[66] [B]An investigation of communication patterns and strategies between international teaching assistants and undergraduate students in university-level science …
+Authors: BE Gourlay
+Year: 2008
+Citations: 0
+
+[67] [B]The needs and challenges of international teaching assistants (ITAs) in the US classroom and the effective and professional training strategies for ITAs
+Authors: X Wang
+Year: 2022
+Citations: 0
+
+[68] [CITATION][C]Legal and policy issues in thelanguage proficiencyassessment of international teaching assistants
+Authors: K Brown, P Fishman, N Jones
+Year: 1990
+Citations: 0
+
+[69] [CITATION][C]International teaching assistants' professional identity development in the United States: A multiple case study perspective
+Authors: H Wang, M Mantero - EFL Journal, 2018
 Year: N/A
 Citations: 0
 
-[89] Characterizing successful classroom discourse for NNS teaching assistant training
-Authors: PL Rounds - TESOL quarterly, 1987
-Year: N/A
-Citations: 0
-
-[90] The development of the Test of Oral English Proficiency for Academic Staff (TOEPAS): Technical Report
-Authors: J Kling, LS Stæhr - … , Denmark: Centre for Internationalisation and Parallel …, 2012
-Year: N/A
-Citations: 0
-
-[91] Investigation of international teaching assistants' perceptions of their teaching self-efficacy and their understanding of culturally responsive teaching pedagogy: a case …
-Authors: Q Chen
+[70] [B]ITALanguage ProficiencyTesting: Recommended Replacement for the Speak® Test
+Authors: AM Stoughton
 Year: 2019
 Citations: 0
 
-[92] Temple University'sITAplacement test in times of COVID-19
-Authors: E Wagner, A Krylova -Language AssessmentQuarterly, 2021
+[71] [B]ITALanguage ProficiencyTesting: Recommended Replacement for the Speak® Test
+Authors: AM Stoughton
+Year: 2019
+Citations: 0
+
+[72] 16 Teaching Pronunciation to International Teaching Assistants
+Authors: R Oreto - English Pronunciation Teaching: Theory, Practice and …, 2023
 Year: N/A
 Citations: 0
 
-[93] Understanding US undergraduate students' perceptions of international teaching assistants
-Authors: AA Khan,M Mallette- The CATESOL Journal, 2019
+[73] Ratings of L2 oral performance in English: Relative impact of rater characteristics and acoustic measures of accentedness
+Authors: O Kang- 2008
 Year: N/A
 Citations: 0
 
-[94] Modeling statistics ITAs' speaking performances in a certification test
-Authors: Z Zhou- 2020
+[74] Technology Enhanced Accent Modification (TEAM) for International Teaching Assistants (ITAs).
+Authors: AH Schwartz
+Year: 1996
+Citations: 0
+
+[75] Understanding Undergraduate Students' Perceptions of International Teaching Assistants
+Authors: AA Khan- 2013
 Year: N/A
 Citations: 0
 
-[95] Current Approaches to International TA Preparation in Higher Education: A Collection of Program Descriptions.
-Authors: G Bauer,M Tanner- 1994
-Year: N/A
+[76] Expectations, perspectives and experiences: investigations into teaching and learning among international teaching assistants and undergraduate students
+Authors: CBM de Oca
+Year: 1913
 Citations: 0
 
-[96] A thematic analysis of international teaching assistants' stigma experience in a US university: English-proficiency determinism
+[77] A thematic analysis of international teaching assistants' stigma experience in a US university: English-proficiency determinism
 Authors: Y Zhu,MJ Bresnahan- Journal of International and Intercultural …, 2021
 Year: N/A
 Citations: 0
 
-[97] Cultural, professional and personal influences on the teaching identity development of international teaching assistants
+[78] [B]The training of international graduate teaching assistants in southern research universities
+Authors: BC Martinson
+Year: 1990
+Citations: 0
+
+[79] The role of the Language Assistant in Spanish Bilingual Education: A Literature Review
+Authors: P Cruzado Sánchez
+Year: 2025
+Citations: 0
+
+[80] Wyoming/NAFSA Institute on Foreign TA Training. Working Papers. Volume II.
+Authors: JC Constantinides
+Year: 1988
+Citations: 0
+
+[81] Foreign teaching assistant trainingand orientation pilot project
+Authors: C Chaudron, M Pennington,J Brown- 1987
+Year: N/A
+Citations: 0
+
+[82] HowInternational Teaching Assistant ProgramsCan Prevent Lawsuits.
+Authors: N Oppenheim
+Year: 1997
+Citations: 0
+
+[83] The effects of a technology-supported training system on second language use strategies for international teaching assistants
+Authors: S Zha- 2006
+Year: N/A
+Citations: 0
+
+[84] Adapting to a new role as aninternational teaching assistant:Influenceof communicative competence in this adaptation process
+Authors: E Bengu- 2009
+Year: N/A
+Citations: 0
+
+[85] Undergraduates' experiences with and attitudes toward international teaching assistants
+Authors: BS Plakans - TESOL quarterly, 1997
+Year: N/A
+Citations: 0
+
+[86] [B]An investigation of selected variables as predictors of success on the SPEAK and TEACH tests
+Authors: RBLF Fagundes
+Year: 1994
+Citations: 0
+
+[87] Discourse structure and the perception of incoherence in international teaching assistants' spoken discourse
+Authors: A Tyler - Tesol Quarterly, 1992
+Year: N/A
+Citations: 0
+
+[88] Investigation of international teaching assistants' perceptions of their teaching self-efficacy and their understanding of culturally responsive teaching pedagogy: a case …
+Authors: Q Chen
+Year: 2019
+Citations: 0
+
+[89] International teaching assistant development: Embracing the “I” in ITA
+Authors: D Cozzarelli
+Year: 2022
+Citations: 0
+
+[90] [B]Student linguistic response to perceived foreignness of teaching assistants
+Authors: TV McCone
+Year: 1993
+Citations: 0
+
+[91] Approaches to Teaching and Self-Reported English-Proficiency of Non-native English Speaking Faculty from Higher Education Institutions in Pennsylvania
+Authors: ES Ramirez
+Year: 2011
+Citations: 0
+
+[92] Understanding US undergraduate students' perceptions of international teaching assistants
+Authors: AA Khan,M Mallette- The CATESOL Journal, 2019
+Year: N/A
+Citations: 0
+
+[93] Exploring Fulbright foreign language teaching assistants' pedagogical growth in United States universities
+Authors: N Mpofu- The Journal for Transdisciplinary Research in Southern …, 2024
+Year: N/A
+Citations: 0
+
+[94] University of Wyoming/NAFSA Institute on Foreign TA Training. Working Papers, Volume III.
+Authors: R Smith
+Year: 1989
+Citations: 0
+
+[95] A prosodic corpus of teaching assistant classroom speech: Discourse intonation and information structure
+Authors: I Edalatishams- 2022
+Year: N/A
+Citations: 0
+
+[96] An investigation into the effects of topic and background knowledge of topic on second language speaking performance assessment inlanguage proficiency…
+Authors: N Khabbazbashi- 2013
+Year: N/A
+Citations: 0
+
+[97] The educational cultures of international teaching assistants and US universities
+Authors: GJ Gorsuch- Tesl-Ej, 2003
+Year: N/A
+Citations: 0
+
+[98] Cultural, professional and personal influences on the teaching identity development of international teaching assistants
 Authors: GM Williams- 2006
 Year: N/A
 Citations: 0
 
-[98] [CITATION][C]ITAOral Assessment: The examinee's perspective
-Authors: JC Gallego, J Goodwin… - … the professoriate of …, 1991
+[99] [B]International Teaching Assistants' Lived Experiences, Perceptions of Support, and Career Goals: A Phenomenological Inquiry
+Authors: CA Hamstra- 2019
 Year: N/A
 Citations: 0
 
-[99] Issues in having international teaching assistants in engineering evaluate undergraduate writing
-Authors: J Lax - 2002 Annual Conference, 2002
-Year: N/A
+[100] [B]Verbal and nonverbal immediacy: Sex differences and international teaching assistants
+Authors: T Saechou
+Year: 2005
 Citations: 0
 
-[100] Sources of Conflict inInternational Teaching Assistant(ITA) Training Programs.
-Authors: G De Berly
-Year: 1997
-Citations: 0
-
-[101] An investigation into the effects of topic and background knowledge of topic on second language speaking performance assessment inlanguage proficiency…
-Authors: N Khabbazbashi- 2013
-Year: N/A
+[101] Analyse des besoins langagiers d'assistants d'enseignement internationaux poursuivant des études supérieures en sciences et en génie et des implications en …
+Authors: Z Mahdavi
+Year: 2016
 Citations: 0
 
 [102] [CITATION][C]THE GRADUATE SCHOOL SYRACUSE UNIVERSITY
@@ -517,493 +517,1993 @@ Authors: TA English
 Year: N/A
 Citations: 0
 
-[103] A professional development activity to better support international graduate teaching assistants in evaluating scientific writing
-Authors: LL Walsh, Z Jia, J Vernon - Journal of Microbiology & Biology …, 2020
+[103] Mandating English proficiency for college instructors: States' responses to the TA problem
+Authors: K King - Vand. J. Transnat'l L., 1998
 Year: N/A
 Citations: 0
 
-[104] The TOEFL test of spoken English and the genesis of an ETS approach to speaking assessment
-Authors: L Davis - Challenges and innovations in speaking assessment, 2024
-Year: N/A
-Citations: 0
-
-[105] Discourse structure and the perception of incoherence in international teaching assistants' spoken discourse
-Authors: A Tyler - Tesol Quarterly, 1992
-Year: N/A
-Citations: 0
-
-[106] [B]Rater Effects inITATesting: ESL Teachers' versus American Undergraduates' Judgments of Accentedness, Comprehensibility, andOral Proficiency.
-Authors: CN Hsieh- 2011
-Year: N/A
-Citations: 0
-
-[107] Rater severity differences in English language as a second languagespeaking assessment basedon rating experience, training experience, and teaching experience …
-Authors: MF Mohd Noh,MEE Mohd Matore- Frontiers in Psychology, 2022
-Year: N/A
-Citations: 0
-
-[108] Oral Englishlanguage proficiencyof ITAs: Policy, implementation, and contributing factors
-Authors: CF Thomas, PK Monoson - Innovative Higher Education, 1993
-Year: N/A
-Citations: 0
-
-[109] Language attitudes and the 'ITAproblem': Undergraduate reactions to instructors'(non) nativeness and pitch variation
-Authors: S Lindemann, A Clower - International Journal of Applied …, 2020
-Year: N/A
-Citations: 0
-
-[110] Language assessmentas a system: Best practices, stakeholders, models, and testimonials
-Authors: N Avineri, Z Londe,B Hardacre, L Carris… - Issues in Applied …, 2010
-Year: N/A
-Citations: 0
-
-[111] [CITATION][C]International Teaching Assistants and Cultural Differences: Student Evaluations of Rapport
-Authors: WE Davis - Approachability, Enthusiasm and Fairness, 1991
-Year: N/A
-Citations: 0
-
-[112] Curriculum Renewal in Training Programs for International Teaching Assistants.
-Authors: R Young- 1990
-Year: N/A
-Citations: 0
-
-[113] Testing AcademicLanguage Proficiency
-Authors: ST Cushing
-Year: N/A
-Citations: 0
-
-[114] EvaluatingITAPreparation Programs: Intensive versus Concurrent.
-Authors: J Williams
-Year: 1990
-Citations: 0
-
-[115] Using reflective dialogic blogs with international teaching assistants
-Authors: E Arshavskaya- Writing & Pedagogy, 2016
-Year: N/A
-Citations: 0
-
-[116] [B]The relationship between English proficiency of foreign teaching assistants and their perceived teaching effectiveness at the University of South Carolina
-Authors: GP Moses
-Year: 1991
-Citations: 0
-
-[117] [B]Assessing the parallelism of four SPEAK test forms
-Authors: DM Steele
-Year: 2001
-Citations: 0
-
-[118] [CITATION][C]THE ISSUE: International Teaching Assistants in Higher Education: New Perspectives and Possibilities
-Authors: M Bigelow- The Modern Language Journal, 2022
-Year: N/A
-Citations: 0
-
-[119] Rater cognition in L2speaking assessment:Areview of the literature
-Authors: Q Han
-Year: 2015
-Citations: 0
-
-[120] Multiple layers of meaning in anoral proficiencytest: The complementary roles of nonverbal, paralinguistic, and verbal behaviors in assessment decisions
-Authors: S Jenkins, I Parra - The Modern Language Journal, 2003
-Year: N/A
-Citations: 0
-
-[121] Wyoming/NAFSA Institute on Foreign TA Training. Working Papers. Volume II.
-Authors: JC Constantinides
-Year: 1988
-Citations: 0
-
-[122] Using Multi-faceted Rasch Analysis to Examine Raters, Prompts, and Rubrics in an Office-Hour Role-Play Task
-Authors: H Ren,SD Looney, ST Cushing - Local Language Testing: Practice …, 2023
-Year: N/A
-Citations: 0
-
-[123] Answering questions in LPIs: A case study
-Authors: AW He - … approaches to the assessment oforal proficiency, 2011
-Year: N/A
-Citations: 0
-
-[124] The impact of rater characteristics on oral assessments of secondlanguage proficiency
-Authors: YW Su
-Year: 2014
-Citations: 0
-
-[125] Investigating the influences on the teaching identity of international teaching assistants
-Authors: G Williams- Identity and second language learning: Culture …, 2007
-Year: N/A
-Citations: 0
-
-[126] A Descriptive Study of Communication and Teaching Strategies Used by Two Types of International Teaching Assistants at the University of Minnesota, and Their …
-Authors: D Gokcora
-Year: 1989
-Citations: 0
-
-[127] Students-as-informants: Investigating the use of feedback by ITAs
-Authors: DK Little
-Year: 2016
-Citations: 0
-
-[128] Topic and background knowledge effects on performance in speaking assessment
-Authors: N Khabbazbashi- Language Testing, 2017
-Year: N/A
-Citations: 0
-
-[129] A Study of Characteristics of the SPEAK Test
-Authors: SM Sarwark, J Smith, R MacCallum… - ETS Research Report …, 1994
-Year: N/A
-Citations: 0
-
-[130] Using Generalizability Theory to examine error variance in the SPEAK scoring rubric.
-Authors: JR GEVARA - International Journal of Language Studies, 2013
-Year: N/A
-Citations: 0
-
-[131] of Project
-Authors: CN Hsieh,P Winke- tirfonline.org
-Year: N/A
-Citations: 0
-
-[132] VALIDITY EVIDENCE: UNDERGRADUATE STUDENTS'PERCEPTIONS OF TOEFL IBT HIGH SCORE SPOKEN RESPONSES
-Authors: M Dalman,O Kang- International Journal of Listening, 2023
-Year: N/A
-Citations: 0
-
-[133] 14: Using Undergraduates to Prepare International Teaching Assistants for the American Classroom
-Authors: WE Christian, BJ Rybarczyk - To improve the academy, 2013
-Year: N/A
-Citations: 0
-
-[134] Beyond proficiency: An asset-based approach tointernational teaching assistant training
-Authors: LM Swan, S Kramer, A Gopal, L Shi… - The Journal of Faculty …, 2017
-Year: N/A
-Citations: 0
-
-[135] Journal writing in the training of international teaching assistants
-Authors: I Stevenson, S Jenkins - Journal of Second Language Writing, 1994
-Year: N/A
-Citations: 0
-
-[136] AI-CiciBot as Conversational Partners in EFL Education, focusing on Intelligent Technology Adoption (ITA) to Mollify Speaking Anxiety
-Authors: M Muthmainnah- Journal of English language teaching and …, 2024
-Year: N/A
-Citations: 0
-
-[137] Fluency, comprehensibility, and accentedness in L2 speech: Examining the role of visual and acoustic information in listener judgments
-Authors: B Gokgoz-Kurt- Australian Journal of Applied Linguistics, 2023
-Year: N/A
-Citations: 0
-
-[138] The effect of role play and dialogue techniques on the eighth grade students' speaking fluency
-Authors: MAIta- 2015
-Year: N/A
-Citations: 0
-
-[139] Opposite worlds, singular mission: Teaching as anITA
-Authors: CN Mutua- New Directions for Teaching and Learning, 2014
-Year: N/A
-Citations: 0
-
-[140] Evaluation rubrics: a tool for laboratory activities assessment in chemistry and physics
-Authors: A Andracchio, S Zappoli, G Passarelli… - Atti del XXIII Congresso …, 2009
-Year: N/A
-Citations: 0
-
-[141] Nuclear Engineering Technology Students Capstone Experience to Assess the Technical Competencies: A Case Study
-Authors: R Long, A Memon, LF Shih, B Thinger - 2006 Annual Conference & …, 2006
-Year: N/A
-Citations: 0
-
-[142] [B]The art of nonconversation: A reexamination of the validity of theoral proficiencyinterview
-Authors: M Johnson
-Year: 2008
-Citations: 0
-
-[143] Listeners and raters: Similarities and differences in evaluation of accented speech
-Authors: X Yan, A Ginther - Assessment in second language pronunciation, 2017
-Year: N/A
-Citations: 0
-
-[144] Enhancing communication between ITAs and US undergraduate students
-Authors: O Kang, M Moran - A transdisciplinary approach to international …, 2019
-Year: N/A
-Citations: 0
-
-[145] Language assessmentand the inseparability of lexis and grammar: Focus on the construct of speaking
-Authors: U Römer- Language Testing, 2017
-Year: N/A
-Citations: 0
-
-[146] Student comprehension of and growth in creating value with an entrepreneurial mindset
-Authors: S Youssef, MEIta,RL Kajfez- 2023 ASEE Annual Conference & …, 2023
-Year: N/A
-Citations: 0
-
-[147] [CITATION][C]A collaborative approach toITAtraining: The ITAs, faculty, TAs, undergraduate interns, and undergraduate students
-Authors: J Civikly, D Muchisky - Preparing the professoriate of …, 1991
-Year: N/A
-Citations: 0
-
-[148] Relative Impact of Pronunciation Features on Ratings of Non-Native Speakersâ€™Oral Proficiency
-Authors: O Kang- Pronunciation in Second Language Learning and …, 2012
-Year: N/A
-Citations: 0
-
-[149] Development of biophy magazine containing local wisdom to improve problem solving ability and promote environmental awareness campaign
-Authors: L Fitriah,IIta- Jurnal Penelitian Pendidikan IPA, 2022
-Year: N/A
-Citations: 0
-
-[150] An overview of COVID-19's impact on English language university admissions and placement tests
-Authors: GJ Ockey-Language AssessmentQuarterly, 2021
-Year: N/A
-Citations: 0
-
-[151] Upholdinglanguage assessmentquality during the COVID-19 pandemic: Some final thoughts and questions
-Authors: AA Muhammad,GJ Ockey-Language AssessmentQuarterly, 2021
-Year: N/A
-Citations: 0
-
-[152] Using Undergraduates to Prepare International Teaching Assistants for the American Classroom: Development of Senior Faculty
-Authors: WE Christian, BJ Rybarczyk
-Year: 2013
-Citations: 0
-
-[153] [B]Oral proficiencytesting and language progress over time
-Authors: IP Olivares
-Year: 1998
-Citations: 0
-
-[154] Dominance in academic writing tutorials: Gender,language proficiency, and the offering of suggestions
-Authors: T Thonus - Discourse & Society, 1999
-Year: N/A
-Citations: 0
-
-[155] Analyzingoral proficiencytest performance in general and specific purpose contexts
-Authors: D Douglas, L Selinker - System, 1992
-Year: N/A
-Citations: 0
-
-[156] An investigation of the impact of jagged profile on L2 speaking test ratings: Evidence from rating and eye-tracking data
-Authors: W Ma,P Winke-Language AssessmentQuarterly, 2022
-Year: N/A
-Citations: 0
-
-[157] [CITATION][C]Language proficiencylegislation and theITA
-Authors: K Brown, P Fishman, N Jones - Preparing the professoriate of tomorrow to teach, 1991
-Year: N/A
-Citations: 0
-
-[158] La validazione qualitativa di adASTRA, una suite dirubric perla progettazione/realizzazione di eLearning di qualità.
-Authors: PMM Ghislandi, F Cumer - L'INTEGRAZIONE SCOLASTICA E …, 2012
-Year: N/A
-Citations: 0
-
-[159] Think-Aloud Verbalizations for Identifying User Experience Problems: Effects ofLanguage Proficiencywith Chinese Non-Native English Speakers
-Authors: M Fan, L Zhu - Proceedings of the Ninth International Symposium of …, 2021
-Year: N/A
-Citations: 0
-
-[160] [B]Confirming the impact of performance tasks on latent class membership and placement decisions
-Authors: JR Gevara
-Year: 2016
-Citations: 0
-
-[161] Cornell University Center for Teaching Innovation: A Study on the Program for Improving Graduate Students' Teaching Ability
+[104] Cornell University Center for Teaching Innovation: A Study on the Program for Improving Graduate Students' Teaching Ability
 Authors: W Yi - International Journal of Educational Review, 2025
 Year: N/A
 Citations: 0
 
-[162] 20. Aligning language assessments to standards and frameworks
-Authors: S Papageorgiou- Handbook of secondlanguage assessment, 2016
+[105] Beyond proficiency: An asset-based approach tointernational teaching assistant training
+Authors: LM Swan, S Kramer, A Gopal, L Shi… - The Journal of Faculty …, 2017
 Year: N/A
 Citations: 0
 
-[163] [CITATION][C]Under controlled conditions: TheITAas laboratory assistant
-Authors: C Myers, B Plakans - Preparing the professoriate of …, 1991
+[106] Understanding theinternational teaching assistant trainingprogram: A case study at a northwestern research university
+Authors: C Jia, AA Bergerson - International Education, 2008
 Year: N/A
 Citations: 0
 
-[164] [CITATION][C]Validating the Use of TOEFL iBT Speaking Section Scores forITAScreening and Setting Standards for ITAs
-Authors: X Xi -Language AssessmentQuarterly, 2007
+[107] Investigating the effects of discipline and first-language backgrounds on ITAs' instructional discourse patterns
+Authors: H Chang- … Journal of English for Academic Purposes …, 2024
 Year: N/A
 Citations: 0
 
-[165] [CITATION][C]ITAAssessment through Office-Hour Role-Play: Task Quality andRubric Consistency
-Authors: H Ren,SD Looney, ST Cushing - 2020 conference of the American …, 2020
+[108] Transplanting Writing Pedagogy Education:International Teaching Assistant Experiences
+Authors: C Givens
+Year: 2024
+Citations: 0
+
+[109] [B]Training American undergraduates forinternational teaching assistant instruction: A program analysis
+Authors: JL Lucas-Uygun
+Year: 1996
+Citations: 0
+
+[110] The ITA problem: A ready-to-use simulation
+Authors: GB Halleck - Simulation & Gaming, 2008
 Year: N/A
 Citations: 0
 
-[166] Interpreting the relationships between TOEFL iBT scores and GPA:Language proficiency, policy, and profiles
+[111] Culture Shock Encountered in American Classrooms by a First-Time TeachingInternational Teaching Assistant Dung(Davy) Tran
+Authors: CSEBYA FIRST, TT ITA
+Year: 2018
+Citations: 0
+
+[112] [CITATION][C]Beyond Language: Reframing theForeign Teaching Assistant InstructionThrough Materiality Perspective
+Authors: YIJU LAI- The Modern Language Journal, 2022
+Year: N/A
+Citations: 0
+
+[113] The extent to which TOEFL iBT speaking scores are associated with performance on oral language tasks and oral ability components for Japanese university students
+Authors: GJ Ockey, D Koyama,E Setoguchi… - Language Testing, 2015
+Year: N/A
+Citations: 0
+
+[114] Language assessmentand the inseparability of lexis and grammar: Focus on the construct of speaking
+Authors: U Römer- Language Testing, 2017
+Year: N/A
+Citations: 0
+
+[115] Sources of Conflict inInternational Teaching Assistant(ITA) Training Programs.
+Authors: G De Berly
+Year: 1997
+Citations: 0
+
+[116] Using Generalizability Theory to examine error variance in the SPEAK scoring rubric.
+Authors: JR GEVARA - International Journal of Language Studies, 2013
+Year: N/A
+Citations: 0
+
+[117] Judgingoral proficiency: Can the naive judge determine standardized test scores (Test of Spoken English) through an interview process
+Authors: GL Freeman
+Year: 1996
+Citations: 0
+
+[118] Using reflective dialogic blogs with international teaching assistants
+Authors: E Arshavskaya- Writing & Pedagogy, 2016
+Year: N/A
+Citations: 0
+
+[119] Language assessmentas a system: Best practices, stakeholders, models, and testimonials
+Authors: N Avineri, Z Londe,B Hardacre, L Carris… - Issues in Applied …, 2010
+Year: N/A
+Citations: 0
+
+[120] International Teaching Assistant(ITA) Education and EMI
+Authors: A Kuwamura
+Year: N/A
+Citations: 0
+
+[121] Relative Impact of Pronunciation Features on Ratings of Non-Native Speakersâ€™Oral Proficiency
+Authors: O Kang- Pronunciation in Second Language Learning and …, 2012
+Year: N/A
+Citations: 0
+
+[122] [B]Instructional technology ininternational teaching assistant training
+Authors: H Crumley
+Year: 2006
+Citations: 0
+
+[123] [B]The art of nonconversation: A reexamination of the validity of theoral proficiencyinterview
+Authors: M Johnson
+Year: 2008
+Citations: 0
+
+[124] Temple University's ITA placement test in times of COVID-19
+Authors: E Wagner, A Krylova -Language AssessmentQuarterly, 2021
+Year: N/A
+Citations: 0
+
+[125] Multiple layers of meaning in anoral proficiencytest: The complementary roles of nonverbal, paralinguistic, and verbal behaviors in assessment decisions
+Authors: S Jenkins, I Parra - The Modern Language Journal, 2003
+Year: N/A
+Citations: 0
+
+[126] An integrated approach to teaching assistant training and orientation
+Authors: R Kane, C Gonzalez-Lenahan, M Kerley… - … Annual Conference & …, 2007
+Year: N/A
+Citations: 0
+
+[127] Current Approaches to International TA Preparation in Higher Education: A Collection of Program Descriptions.
+Authors: G Bauer,M Tanner- 1994
+Year: N/A
+Citations: 0
+
+[128] An overview of COVID-19's impact on English language university admissions and placement tests
+Authors: GJ Ockey-Language AssessmentQuarterly, 2021
+Year: N/A
+Citations: 0
+
+[129] Interpreting the relationships between TOEFL iBT scores and GPA:Language proficiency, policy, and profiles
 Authors: A Ginther,X Yan- Language Testing, 2018
 Year: N/A
 Citations: 0
 
-[167] Test-taker characteristics and integrated speaking test performance: A path-analytic study
-Authors: HTD Huang, STA Hung, HTV Hong -Language Assessment…, 2016
+[130] Dominance in academic writing tutorials: Gender,language proficiency, and the offering of suggestions
+Authors: T Thonus - Discourse & Society, 1999
 Year: N/A
 Citations: 0
 
-[168] [CITATION][C]Academic Success and EnglishLanguage ProficiencyAmong Senior Secondary School Two Students in Calabar Metropolis, Cross River State, by …
-Authors: F Attah, PIta- Journal of International Educational Research, 2017
+[131] Answering questions in LPIs: A case study
+Authors: AW He - … approaches to the assessment oforal proficiency, 2011
 Year: N/A
 Citations: 0
 
-[169] Assessing the oral English abilities of international teaching assistants in the USA
-Authors: T Farnsworth - The companion tolanguage assessment, 2013
+[132] [CITATION][C]What Can Pronunciation Researchers Learn From Research into Second Language Writing?
+Authors: U Knoch- Second language pronunciation assessment, 2017
 Year: N/A
 Citations: 0
 
-[170] Using corpus linguistics to examine the extrapolation inference in the validity argument for a high-stakes speaking assessment
-Authors: GT LaFlair,S Staples- Language Testing, 2017
+[133] [CITATION][C]Word clustering effect on vocabulary learning of EFL learners: A case of semantic versus phonological clustering
+Authors: SMR Amirian,M Bonjakhi… - Teaching English as …, 2018
 Year: N/A
 Citations: 0
 
-[171] Proctoring remote language assessments
-Authors: E Voss- … in technology mediatedlanguage assessment, 2023
+[134] Journal writing in the training of international teaching assistants
+Authors: I Stevenson, S Jenkins - Journal of Second Language Writing, 1994
 Year: N/A
 Citations: 0
 
-[172] Englishlanguage assessmentpolicies, programs, and test instruments for health sciences at the University of Minnesota
-Authors: M King
-Year: 2014
-Citations: 0
-
-[173] [CITATION][C]for the degree of DOCTOR OF PHILOSOPHY
-Authors: CN Hsieh- 2011
-Year: N/A
-Citations: 0
-
-[174] Functional language in academic lectures–an investigation of corpus linguistic findings nad implication forlanguage assessment
-Authors: H Ren, V Cortes - Book of Abstracts
-Year: N/A
-Citations: 0
-
-[175] Predicting ESL learners'oral proficiencyby measuring the collocations in their spontaneous speech
-Authors: J Xu- 2015
-Year: N/A
-Citations: 0
-
-[176] Considering interlocutors in university discourse communities: Impacting US undergraduates' perceptions of ITAs through a structured contact program
-Authors: S Staples,O Kang, E Wittner - English for Specific Purposes, 2014
-Year: N/A
-Citations: 0
-
-[177] Development of a direct assessment for measuring students' ability to make connections
-Authors: M West, MEIta, L Rumreich,RL Kajfez… - 2021 ASEE Virtual …, 2021
-Year: N/A
-Citations: 0
-
-[178] [B]Handbook of secondlanguage assessment
-Authors: D Tsagari,J Banerjee- 2016
-Year: N/A
-Citations: 0
-
-[179] Capstone Design Project in the Professional Master's in Aeronautical Engineering–a Collaboration BetweenITAand Embraer
-Authors: PT Lourencao,FL Bussamra, LF Ventura… - AIAA SCITECH 2025 …, 2025
-Year: N/A
-Citations: 0
-
-[180] Foreign teaching assistant trainingand orientation pilot project
-Authors: C Chaudron, M Pennington,J Brown- 1987
-Year: N/A
-Citations: 0
-
-[181] Quantitative research methods in assessment and testing
-Authors: JE Purpura- Handbook of research in second language …, 2011
-Year: N/A
-Citations: 0
-
-[182] The roles of suprasegmental features in predicting Englishoral proficiencywith an automated system
-Authors: O Kang,D Johnson-Language AssessmentQuarterly, 2018
-Year: N/A
-Citations: 0
-
-[183] Developing collective eyes for Iranian EFL teachers' computer-assistedlanguage assessmentliteracy through internet-based collaborative reflection
-Authors: R Esfandiari,MH Arefian- Education and Information Technologies, 2024
-Year: N/A
-Citations: 0
-
-[184] Functions and effects of international teaching assistants
-Authors: WS Fox, G Gay - The Review of Higher Education, 1994
-Year: N/A
-Citations: 0
-
-[185] A comparison of American and international students lifestyles and perceptions of the university experience
-Authors: SS Minchew, MB Couvillion - National Forum of Applied …, 2010
-Year: N/A
-Citations: 0
-
-[186] [CITATION][C]To be published as: Thorne, SL, Reinhardt, J., & Golombek, P.(forthcoming). Mediation as Objectification in the Development of Professional Discourse: A …
-Authors: SL Thorne
-Year: N/A
-Citations: 0
-
-[187] Research on interlanguage variation: Implications for language testing
-Authors: E Tarone- Interfaces between second language acquisition and …, 1998
-Year: N/A
-Citations: 0
-
-[188] Critical analysis on TOEFL ITP as alanguage assessment
+[135] Critical analysis on TOEFL ITP as alanguage assessment
 Authors: W Taufiq,DR Santoso,N Fediyanto- … Conference on Intellectuals …, 2018
 Year: N/A
 Citations: 0
 
-[189] [CITATION][C]Test ofOral Proficiencyof Adult EFL Learners: Focus on Implications of Adult EFL Learners' Strategic Competence in TheirOral Proficiency
-Authors: SB Oh
+[136] The TOEFL test of spoken English and the genesis of an ETS approach to speaking assessment
+Authors: L Davis - Challenges and innovations in speaking assessment, 2024
 Year: N/A
 Citations: 0
 
-[190] Speaking performances, stakeholder perceptions, and test scores: Extrapolating from the Duolingo English test to the university
-Authors: DR Isbell,D Crowther,H Nishizawa- Language Testing, 2024
+[137] The interactive demonstration of interactional competence in the ITA TEACH Test
+Authors: S Wagner
+Year: 2014
+Citations: 0
+
+[138] Englishlanguage assessmentpolicies, programs, and test instruments for health sciences at the University of Minnesota
+Authors: M King
+Year: 2014
+Citations: 0
+
+[139] Testing AcademicLanguage Proficiency
+Authors: ST Cushing
 Year: N/A
 Citations: 0
 
-[191] OnlineLanguage Assessmentthe Exception, Not the Rule: For Inclusive Language Learning.
-Authors: VK Sharma,WA Holbah- Arab World English Journal, 2022
-Year: N/A
-Citations: 0
-
-[192] BOOK REVIEW: Unsubstantiated Claims About theOral ProficiencyInterview
-Authors: GB Halleck -Language AssessmentQuarterly: An International …, 2005
-Year: N/A
-Citations: 0
-
-[193] EFL Female College Students and Instructors' Preferred Method ofSpeaking Assessment:APerspective from Saudi Arabia.
+[140] EFL Female College Students and Instructors' Preferred Method ofSpeaking Assessment:APerspective from Saudi Arabia.
 Authors: R Al-Jarf- Online Submission, 2021
 Year: N/A
 Citations: 0
 
-[194] Food Security and Preparedness Measures Against Flooding in Flood-Prone Areas of Cross River State
-Authors: …,AA Ojong,KJ Ubuh, REO Etim,OVIta… - INTERNATIONAL …, 2025
+[141] A comparison of American and international students lifestyles and perceptions of the university experience
+Authors: SS Minchew, MB Couvillion - National Forum of Applied …, 2010
 Year: N/A
 Citations: 0
 
-[195] [CITATION][C]How to establish and run a comprehensive teaching assistant training program
-Authors: K Hiiemae, L Lambert, D Hayes - Preparing the professoriate of tomorrow to teach, 1991
+[142] Englishlanguage proficiencyand academic achievement of international students: A meta-analysis
+Authors: R Wongtrirat- 2010
 Year: N/A
 Citations: 0
 
-[196] [CITATION][C]Test ofOral Proficiencyof Adult EFL Learners: Focus on Implications of Adult EFL Learners' Strategic Competence in TheirOral Proficiency
-Authors: O Sok-Bong - ENGLISH TEACHING (영어교육), 1992
+[143] [B]A practical guide tolanguage assessment: How do you know that your students are learning?
+Authors: I Porter-Szucs, CJ Macknish, S Toohey
+Year: 2025
+Citations: 0
+
+[144] An investigation of the impact of jagged profile on L2 speaking test ratings: Evidence from rating and eye-tracking data
+Authors: W Ma,P Winke-Language AssessmentQuarterly, 2022
 Year: N/A
 Citations: 0
 
-[197] Culture Shock Encountered in American Classrooms by a First-Time TeachingInternational Teaching Assistant Dung(Davy) Tran
-Authors: CSEBYA FIRST, TTITA- 2018
+[145] A Pre-Needs Analysis ofOral ProficiencyGoals in the ELI
+Authors: J Hatcher,M Morrison- 1997
 Year: N/A
 Citations: 0
 
-[198] A Bill of Rights for International Teaching Assistants.
-Authors: GA Barnes
-Year: 1990
+[146] The Downside of TraditionalLanguage AssessmentImanuel Shah University of Education Heidelberg State Examination in Primary Education Matriculation …
+Authors: K Vogt- researchgate.net
+Year: N/A
 Citations: 0
 
-[199] Standard Setting in the Post-Modern Era for anITAPerformance Test.
+[147] VALIDITY EVIDENCE: UNDERGRADUATE STUDENTS'PERCEPTIONS OF TOEFL IBT HIGH SCORE SPOKEN RESPONSES
+Authors: M Dalman,O Kang- International Journal of Listening, 2023
+Year: N/A
+Citations: 0
+
+[148] A comparison of computer assisted and face-to-facespeaking assessment:Performance, perceptions, anxiety, and computer attitudes
+Authors: E Öztekin
+Year: 2011
+Citations: 0
+
+[149] [CITATION][C]Under controlled conditions: The ITA as laboratory assistant
+Authors: C Myers, B Plakans - Preparing the professoriate of …, 1991
+Year: N/A
+Citations: 0
+
+[150] Testing AcademicLanguage Proficiency: Comparing the TOEFL iBT® Test and the Duolingo English Test
+Authors: S Cushing- ETS Research Report Series, 2025
+Year: N/A
+Citations: 0
+
+[151] Theoretical models, assessment frameworks and test construction
+Authors: M Chalhoub-Deville - Language Testing, 1997
+Year: N/A
+Citations: 0
+
+[152] Investigating the influences on the teaching identity of international teaching assistants
+Authors: G Williams- Identity and second language learning: Culture …, 2007
+Year: N/A
+Citations: 0
+
+[153] The impact of positive and negative messages on change in attitude toward international teaching assistants.
+Authors: MI Bresnahan,MS Kim- Folia Linguistica, 1993
+Year: N/A
+Citations: 0
+
+[154] At the Interface of Language Testing and Language Teaching: An Interview with Lianzhen He
+Authors: S Min -Language AssessmentQuarterly, 2025
+Year: N/A
+Citations: 0
+
+[155] Managing anxiety: A case study of aninternational teaching assistant's interactionwith American students
+Authors: J Zhou- Journal of International Students, 2014 Vol. 2 (2), 2019
+Year: N/A
+Citations: 0
+
+[156] [CITATION][C]THE ISSUE: International Teaching Assistants in Higher Education: New Perspectives and Possibilities
+Authors: M Bigelow- The Modern Language Journal, 2022
+Year: N/A
+Citations: 0
+
+[157] Improving the Traditional Testing Methods in Learning Foreign Languages
+Authors: V Pachovski,S Dimova… - … ISSN 1857-7288, 2012
+Year: N/A
+Citations: 0
+
+[158] Analyzing item bias to validate and revise an ITA performance test
+Authors: DT Griffee, J Gevara - Pronunciation in Second Language …, 2011
+Year: N/A
+Citations: 0
+
+[159] Reimagining ITA training: promoting student-scholars' agency
+Authors: N Sahranavard,Q Du- ELT Journal, 2022
+Year: N/A
+Citations: 0
+
+[160] International Students' Levels of EnglishLanguage Proficiencyand Academic Achievement at One US Historically Black University: a Snapshot
+Authors: B Zua
+Year: 2019
+Citations: 0
+
+[161] Understanding the role of likeability in the peer assessments of university students' oral presentation skills: A latent variable approach
+Authors: V Aryadoust-Language AssessmentQuarterly, 2017
+Year: N/A
+Citations: 0
+
+[162] The ITA Trainer: Advocate or Adversary.
+Authors: G De Berly
+Year: 1995
+Citations: 0
+
+[163] “Are You Into Beer Pong?” Exploring Question-Answer Sequences in an L2 Oral Performance Assessment
+Authors: V Timpe-Laughlin,I Park-Language AssessmentQuarterly, 2019
+Year: N/A
+Citations: 0
+
+[164] Grading between the lines: What really impacts professors' holistic evaluation of ESL graduate student writing?
+Authors: J Huang, CJ Foote -Language AssessmentQuarterly, 2010
+Year: N/A
+Citations: 0
+
+[165] Listeners and raters: Similarities and differences in evaluation of accented speech
+Authors: X Yan, A Ginther - Assessment in second language pronunciation, 2017
+Year: N/A
+Citations: 0
+
+[166] [B]A comparative study of theoral proficiencyof Chinese learners of English: A discourse marker perspective
+Authors: M Wei
+Year: 2009
+Citations: 0
+
+[167] [B]The oh no! syndrome: A language expectation model of undergraduates' negative reactions toward foreign teaching assistants
+Authors: N Rao
+Year: 1994
+Citations: 0
+
+[168] Evaluating interactional competence in interview and paired discussion tasks: A rater cognition study
+Authors: S Vo- TESOL journal, 2021
+Year: N/A
+Citations: 0
+
+[169] Language Barriers and the International Community
+Authors: N Garcia, G Roeder, FJ Saleh
+Year: 2006
+Citations: 0
+
+[170] Emergent trends and research topics in language testing and assessment
+Authors: TE Toprak - Toprak Yildiz, TE (2019). Emergent Trends and …, 2019
+Year: N/A
+Citations: 0
+
+[171] [CITATION][C]OIR EVALUATION ACTIVITIES
+Authors: JC Ory - Managing Colleges and Universities: Issues for …, 2000
+Year: N/A
+Citations: 0
+
+[172] Teachers' Techniques of Assessing English Speaking Skill in Limited Face to Face Learning
+Authors: R Marlenie,D Sofyan… - Edu-Ling: Journal of …, 2022
+Year: N/A
+Citations: 0
+
+[173] Implications of student evaluations of teaching for ITA development
+Authors: DD Hendel, T Dunham, J Smith, J Solberg, C Tzenis…
+Year: 1992
+Citations: 0
+
+[174] Relationships Between Learning Strategies, Motivation, and theOral Proficiencyof ESL Students
+Authors: KL McCrackin
+Year: 1998
+Citations: 0
+
+[175] [B]L2 interactional competence and development
+Authors: JK Hall,J Hellermann,SP Doehler- 2011
+Year: N/A
+Citations: 0
+
+[176] [B]Assessing the parallelism of four SPEAK test forms
+Authors: DM Steele
+Year: 2001
+Citations: 0
+
+[177] Directives used in college laboratory oral discourse
+Authors: J Tapper - English for Specific Purposes, 1994
+Year: N/A
+Citations: 0
+
+[178] The foreign TA problem from an acquisition-theoretic point of view
+Authors: J Ard - English for Specific Purposes, 1987
+Year: N/A
+Citations: 0
+
+[179] Data collection in pragmatics research
+Authors: G Kasper- 1999
+Year: N/A
+Citations: 0
+
+[180] of Project
+Authors: CN Hsieh,P Winke- tirfonline.org
+Year: N/A
+Citations: 0
+
+[181] Standard Setting in the Post-Modern Era for an ITA Performance Test.
 Authors: DT GRIFFEE, JR GEVARA - Texas Papers in Foreign …, 2011
 Year: N/A
 Citations: 0
 
-[200] Cohesion and Perceived Proficiency inITAOral Communication across Engineering and the Sciences
+[182] An overview of the teaching assistant consultant program for developing competency in novice engineering graduate teaching assistants
+Authors: K Bubbar, A Dimopoulos,C Korpan… - Proceedings of the …, 2017
+Year: N/A
+Citations: 0
+
+[183] The Oh No! Syndrome: Understanding the Negative Reactions of Undergraduates toward Foreign Teaching Assistants.
+Authors: N Rao
+Year: 1993
+Citations: 0
+
+[184] Some typical problems in the training of Chinese teaching assistants: Three case studies
+Authors: E Christy, W Rittenberg - Wyoming/NAFSA institute on foreign TA training …, 1988
+Year: N/A
+Citations: 0
+
+[185] Considering interlocutors in university discourse communities: Impacting US undergraduates' perceptions of ITAs through a structured contact program
+Authors: S Staples,O Kang, E Wittner - English for Specific Purposes, 2014
+Year: N/A
+Citations: 0
+
+[186] [CITATION][C]Managing evaluations in higher education
+Authors: JC Ory - Managing colleges and universities: Issues for …, 2000
+Year: N/A
+Citations: 0
+
+[187] Book Review: Local Language Testing: Design, Implementation, and Development
+Authors: NZ Bi- 2021
+Year: N/A
+Citations: 0
+
+[188] Friend or foe: Considering what pronunciation teachers can do that ChatGPT cannot
+Authors: E Lima, L Wallace - Proceedings of 14th Pronunciation in …, 2024
+Year: N/A
+Citations: 0
+
+[189] The Mirroring Project
+Authors: E Tarone, C Meyers - Speaking in a Second
+Year: N/A
+Citations: 0
+
+[190] Structural equation modeling to predict performance in English proficiency tests
+Authors: X Zhu,M Raquel,V Aryadoust- … forLanguage Assessment…, 2019
+Year: N/A
+Citations: 0
+
+[191] Structural equation modeling to predict performance in English proficiency tests
+Authors: X Zhu,M Raquel,V Aryadoust- … forLanguage Assessment…, 2019
+Year: N/A
+Citations: 0
+
+[192] Validity and classroom language testing: a practical approach
+Authors: F Giraldo- Colombian Applied Linguistics Journal, 2020
+Year: N/A
+Citations: 0
+
+[193] Chinese 101, a prerequisite to Math 100? A look at undergraduate students' beliefs about their role in communication with international teaching assistants
+Authors: JA Damron
+Year: 2000
+Citations: 0
+
+[194] AC 2007-375: AN INTEGRATED APPROACH TO TEACHING ASSISTANT TRAINING AND ORIENTATION
+Authors: R Kane - age, 2007
+Year: N/A
+Citations: 0
+
+[195] [B]Designing second language performance assessments
+Authors: JM Norris- 1998
+Year: N/A
+Citations: 0
+
+[196] What do test-takers say? Test-taker feedback as input for quality management of a local oral English proficiency test
+Authors: X Yan,SP Thirakunkovit, NL Kauper… - …language assessmentof …, 2016
+Year: N/A
+Citations: 0
+
+[197] Fluency and anxiety in self-access speaking tasks: The influence of environment
+Authors: G Kessler- Computer Assisted Language Learning, 2010
+Year: N/A
+Citations: 0
+
+[198] English and technology as customers
+Authors: MA Julian - Orr, Thomas, Ed. English for Science and Technology …, 1995
+Year: N/A
+Citations: 0
+
+[199] Exploring the Construct Validity of Integrated Speaking Tasks: The Case of a Large-scale High-stakes Computer-based Listening-Speaking Task
+Authors: Y Zhou, K Bin, LJ Zhang
+Year: 2025
+Citations: 0
+
+[200] Interactional sociolinguistics as a multi-pronged approach to office hour rapport management
+Authors: H Nguyen - Journal of English for Academic Purposes, 2023
+Year: N/A
+Citations: 0
+
+[201] Effective Assessment Plan Leading to Strong Reform of Petroleum Engineering Graduate Program
+Authors: C Stockton,TD Gamadi,H Emadi- 2018 Gulf Southwest Section …, 2019
+Year: N/A
+Citations: 0
+
+[202] On the factor structure (invariance) of the PhD UEE using multigroup structural equation modeling
+Authors: H Ravand, GR Rohani, F Faryabi - Teaching English as a Second …, 2018
+Year: N/A
+Citations: 0
+
+[203] Considering What Pronunciation Teachers Can Do That ChatGPT Cannot
+Authors: EF Lima, L Wallace - Pronunciation in Second Language …, 2024
+Year: N/A
+Citations: 0
+
+[204] What's in a Name? Office of Graduate Education Versus Graduate School
+Authors: TJ Cummings,K Butler-Purry- Voices of Black Graduate Deans in …, 2025
+Year: N/A
+Citations: 0
+
+[205] From a" Sesame Street" Model TA to a University TA: Investigation of anInternational Teaching Assistant's SecondLanguage Socialization over Time.
+Authors: YIJUA WU - Language Education & Assessment, 2022
+Year: N/A
+Citations: 0
+
+[206] The language policy of placement tests for newcomer English learners
+Authors: K King,M Bigelow- Educational Policy, 2018
+Year: N/A
+Citations: 0
+
+[207] Academia, English, and the International Student.
+Authors: CW Schweers Jr
+Year: 1993
+Citations: 0
+
+[208] Evaluating the impact of nonverbal behavior on language ability ratings
+Authors: JD Burton- Language Testing, 2024
+Year: N/A
+Citations: 0
+
+[209] The influence of a teaching assistant orientation on teaching assistant perceptions of self-efficacy
+Authors: KA Rosse-Richards, JD Velasquez… - 2013 ASEE Annual …, 2013
+Year: N/A
+Citations: 0
+
+[210] [CITATION][C]A collaborative approach to ITA training: The ITAs, faculty, TAs, undergraduate interns, and undergraduate students
+Authors: J Civikly, D Muchisky - Preparing the professoriate of …, 1991
+Year: N/A
+Citations: 0
+
+[211] [CITATION][C]A collaborative approach to ITA training: The ITAs, faculty, TAs, undergraduate interns, and undergraduate students
+Authors: J Civikly, D Muchisky - Preparing the professoriate of …, 1991
+Year: N/A
+Citations: 0
+
+[212] Communication Differences between Native and Non-Native Instructors as Perceived by US Students.
+Authors: R Ma- 1993
+Year: N/A
+Citations: 0
+
+[213] The Mirroring Project: Improving suprasegmentals and intelligibility in ESL presentations
+Authors: E Tarone, C Meyers - Speaking in a second language, 2018
+Year: N/A
+Citations: 0
+
+[214] A Descriptive Study of Communication and Teaching Strategies Used by Two Types of International Teaching Assistants at the University of Minnesota, and Their …
+Authors: D Gokcora
+Year: 1989
+Citations: 0
+
+[215] Effects of pragmatic task features on temporal measures of Chinese ESL and EFL
+Authors: L Cheng - Advancing the Field ofLanguage Assessment, 2014
+Year: N/A
+Citations: 0
+
+[216] Self-regulation in the IEP classroom: Developing lifelong Englishlanguage proficiency
+Authors: J Slayton
+Year: 2014
+Citations: 0
+
+[217] Language Education & Assessment
+Authors: YIJUA WU
+Year: 2018
+Citations: 0
+
+[218] Enhancement of communication competence: a model for a program for international teaching faculty at the University of North Dakota
+Authors: LS Goldstone
+Year: 1995
+Citations: 0
+
+[219] The effectiveness of computer-assisted pronunciation training
+Authors: N Stenson, B Downing, J Smith, K Smith - Calico Journal, 1991
+Year: N/A
+Citations: 0
+
+[220] The attitudes of university students towards non-native speakers English teachers in Hong Kong
+Authors: CY Ling, G Braine - RELC journal, 2007
+Year: N/A
+Citations: 0
+
+[221] The construction of discourse by nonnative speakers: Introduction
+Authors: K Bardovi-Harlig, BS Hartford - Studies in Second Language …, 1995
+Year: N/A
+Citations: 0
+
+[222] The Growth of an Emerging Field: A history of ESL program development at the University of Minnesota
+Authors: FM Canestorp
+Year: 2014
+Citations: 0
+
+[223] [B]The Effect of Pause Duration on Intelligibility of Non-Native Spontaneous Oral Discourse
+Authors: RF Lege- 2012
+Year: N/A
+Citations: 0
+
+[224] Everyone Is an Academic English Learner: Interactive Support in Mainstream Classrooms
+Authors: K Park- Purdue Journal of Service-Learning and International …, 2017
+Year: N/A
+Citations: 0
+
+[225] Are we doing enough when mentoring our TAs and ITAs?
+Authors: AD Lytle
+Year: N/A
+Citations: 0
+
+[226] Development and evaluation of a virtual reality environment for the Oral English Certification Test
+Authors: S Kurt- 2025
+Year: N/A
+Citations: 0
+
+[227] Stereotyped English language use and identity in Asian teaching assistants: A poststructuralist perspective
+Authors: H Wang- RELC Journal, 2020
+Year: N/A
+Citations: 0
+
+[228] Evaluating TOEFL ITP Test: A Critical Review
+Authors: AA Dalimunte,A Tika… - Humanitatis …, 2023
+Year: N/A
+Citations: 0
+
+[229] Discourse Marking and Elaboration and the Comprehensibility of Second Language Speakers.
+Authors: J Williams
+Year: 1990
+Citations: 0
+
+[230] Enhancing communication between ITAs and US undergraduate students
+Authors: O Kang, M Moran - A transdisciplinary approach to international …, 2019
+Year: N/A
+Citations: 0
+
+[231] Short-And Long-Term Word Clustering Effect on Vocabulary Learning of EFL Learners: A Case of Semantic Versus Phonological Clustering
+Authors: SM RezaAmirian,M Bonjakhi… - Journal of Teaching …, 2018
+Year: N/A
+Citations: 0
+
+[232] Curriculum Renewal in Training Programs for International Teaching Assistants.
+Authors: R Young- 1990
+Year: N/A
+Citations: 0
+
+[233] [B]Testing speaking ability in academic contexts: Theoretical considerations
+Authors: D Douglas- 1997
+Year: N/A
+Citations: 0
+
+[234] Validity and Classroom Language Testing: A Practical Approach1 La validez y la evaluación de lenguas en el aula de idiomas: un enfoque práctico
+Authors: F Giraldo
+Year: N/A
+Citations: 0
+
+[235] Something Old, Something New, Something Borrowed, Something....: Piloting a Computer Mediated Version of the Michigan Listening Comprehension Test
+Authors: GJ Gorsuch, T Cox - Tesl-Ej, 2000
+Year: N/A
+Citations: 0
+
+[236] The utility of objective (computer) measures of the fluency of speakers of English as a second language
+Authors: D Rekart, P Dunkel - Applied Language Learning, 1992
+Year: N/A
+Citations: 0
+
+[237] Feigned incompetence: The pitfalls of evaluating Miranda comprehension in non-native speakers of English
+Authors: A Pavlenko- Language and Law/Linguagem E Direito, 2021
+Year: N/A
+Citations: 0
+
+[238] Understanding community linguistic diversity: An ecological approach to examining language use patterns of international graduate students
+Authors: EC Cassell
+Year: 2007
+Citations: 0
+
+[239] PROPOSTA DE PROGRAMA DE DESENVOLVIMENTO PROFISSIONAL FLEXÍVEL PARA INSTRUTORES INTERNACIONAIS EM UNIVERSIDADES …
+Authors: G da Silva Felix, G Payne,B Cooper,X Hu…
+Year: N/A
+Citations: 0
+
+[240] Rethinking the role of communicative competence in language teaching
+Authors: M Celce-Murcia - Intercultural language use and language learning, 2007
+Year: N/A
+Citations: 0
+
+[241] What is missing in the international teaching assistants training curriculum?
+Authors: J Zhou- The Journal of Faculty Development, 2009
+Year: N/A
+Citations: 0
+
+[242] Predictive validity of TOEFL scores on first term's GPA as the criterion for international exchange students
+Authors: Z Yan
+Year: 1995
+Citations: 0
+
+[243] From the other side of the desk: Conversations with international students about teaching in the US
+Authors: MJ Bresnahan,DH Cai- Qualitative Research Reports in …, 2000
+Year: N/A
+Citations: 0
+
+[244] Employment and Education of Teaching Assistants. Institutional Responsibilities and Responses. Readings from a National Conference.
+Authors: NVN Chism, SB Warner
+Year: 1987
+Citations: 0
+
+[245] Foreigners in our midst: Resources for internationalizing the sociology major
+Authors: KS Crittenden - Teaching Sociology, 1994
+Year: N/A
+Citations: 0
+
+[246] Perceived Needs of Nonnative English Speaking Students in MA TESOL Programs.
+Authors: KA Johnson
+Year: N/A
+Citations: 0
+
+[247] How to teach intonation to EFL students: A focus on communicative teaching methods
+Authors: MÁM Segarra - Fòrum de Recerca, 2017
+Year: N/A
+Citations: 0
+
+[248] [CITATION][C]DYNAMIC EVALUATION AND TEST OF ORALS: DIGITAL EFFICACY ON UNIVERSITY UNDERGRADUATES'PERFORMANCE IN SOUTHWEST NIGERIA
+Authors: BO Faloye, KT Ajisola - International Journal of Social Science, 2023
+Year: N/A
+Citations: 0
+
+[249] Reducing international graduate students' language anxiety through oral pronunciation corrections
+Authors: EJE Lee - System, 2016
+Year: N/A
+Citations: 0
+
+[250] Challenges in Academic Speaking for Non-Native Speakers: The Case of Libyan Students Studying in Malaysia.
+Authors: AAS Halali,L Ismail,A Abd Samad… - … Journal of Social …, 2022
+Year: N/A
+Citations: 0
+
+[251] An Analysis of Linguistic Discrimination: Undergraduate Reactions to Nonnative Instructors
+Authors: S Hansen
+Year: 2012
+Citations: 0
+
+[252] Navigating the contact zone: Postcolonial graduate teaching assistants' experiences in a UK higher education institution
+Authors: J Collins- Teaching in Higher Education, 2021
+Year: N/A
+Citations: 0
+
+[253] Using TOEFL sub-scores to predict SPEAK test outcome: A multivariate Bayesian model
+Authors: V Mercado - 2017 Systems and Information Engineering …, 2017
+Year: N/A
+Citations: 0
+
+[254] [CITATION][C]The impact in-class activities in an academic communication skills class for international teaching assistants (ITAs) have on avoiding miscommunication in …
+Authors: E Tremmel
+Year: 2005
+Citations: 0
+
+[255] Doing Standard Setting for an In-House High-Stakes Speaking Performance Test
+Authors: G Gorsuch- researchgate.net
+Year: N/A
+Citations: 0
+
+[256] Questioning in TOEFL iBT speaking test: a case of washback and construct underrepresentation
+Authors: A Sayyadi,R Rezvani- Language Testing in Asia, 2021
+Year: N/A
+Citations: 0
+
+[257] [B]The impact of attitudes and values on the instructional performance of international teaching assistants
+Authors: CA Numrich
+Year: 1991
+Citations: 0
+
+[258] Improving the Impact of Undergraduate English Language TAs at a Top Global University
+Authors: P Sevigny, L Stilp, K Jones, A Bankole - APU Journal of Language …, 2021
+Year: N/A
+Citations: 0
+
+[259] Assessing Speaking Skills in Virtual Reality: Impacts and Implications.
+Authors: A Lee - English Teaching, 2025
+Year: N/A
+Citations: 0
+
+[260] [CITATION][C]Intelligibility of Misplaced Lexical Stress
+Authors: C Bappe
+Year: 2020
+Citations: 0
+
+[261] Empowering Learners: A Win-Win
+Authors: DK Davies, S Gonzalez - Student Affairs Professionals …, 2017
+Year: N/A
+Citations: 0
+
+[262] The balanced equation to training chemistry ITAs
+Authors: MW Tanner, S Selfe, D Wiegand - Innovative Higher Education, 1993
+Year: N/A
+Citations: 0
+
+[263] Unlocking Potential: Integrating Pronunciation into Business Instruction to Inspire Students and Strengthen Content Teachers
+Authors: B Kanoksilapatham… - Studies in English …, 2024
+Year: N/A
+Citations: 0
+
+[264] TRABAJO FIN DE MÁSTER MÁSTER EN ENSEÑANZA BILINGÜE EN CENTROS EDUCATIVOS DE EDUCACIÓN PRIMARIA E INMERSIÓN EN LENGUA …
+Authors: P CRUZADO SÁNCHEZ
+Year: N/A
+Citations: 0
+
+[265] Functions and effects of international teaching assistants
+Authors: WS Fox, G Gay - The Review of Higher Education, 1994
+Year: N/A
+Citations: 0
+
+[266] Reconstructing the professional identity of foreign-trained teachers in Ontario schools
+Authors: H Mawhinney, F Xu - Tesol Quarterly, 1997
+Year: N/A
+Citations: 0
+
+[267] Pursuing a response in office hour interactions between US college students and international teaching assistants
+Authors: SY Chiang- Journal of Pragmatics, 2011
+Year: N/A
+Citations: 0
+
+[268] [B]Development and implementation of an ESL classroom assessment of face-to-face conversational interaction
+Authors: NL Kauper
+Year: 2012
+Citations: 0
+
+[269] The graduate teaching assistant (GTA): Lessons from North American experience
+Authors: C Park* - Teaching in Higher Education, 2004
+Year: N/A
+Citations: 0
+
+[270] A Study of Characteristics of the SPEAK Test
+Authors: SM Sarwark, J Smith, R MacCallum… - ETS Research Report …, 1994
+Year: N/A
+Citations: 0
+
+[271] Topical knowledge and ESL writing
+Authors: L He, L Shi - Language testing, 2012
+Year: N/A
+Citations: 0
+
+[272] [B]Investigating test delivery modes within video-conferenced English speaking proficiency assessment
+Authors: JS Choi
+Year: 2022
+Citations: 0
+
+[273] Speaking section in English speaking and writing test-Ââ€ â€'ESWT
+Authors: Z Zhou- Pronunciation in Second Language Learning and …, 2015
+Year: N/A
+Citations: 0
+
+[274] Speaking Section in English Speaking and Writing Test (ESWT)
+Authors: Z Zhou- … IN SECOND LANGUAGE LEARNING AND TEACHING …
+Year: N/A
+Citations: 0
+
+[275] International Students and Language Policy in US Higher Education: A Case Study of Two Universities
+Authors: M Mitchell
+Year: 2021
+Citations: 0
+
+[276] An analysis of student persuasive impromptu speeches: A systemic functional linguistic approach
+Authors: J Lockwood
+Year: 2016
+Citations: 0
+
+[277] Teaching assistants from the People's Republic of China and US undergraduates: Perceptions of teaching and teachers
+Authors: D Gokcora - The International Journal for Academic Development, 1996
+Year: N/A
+Citations: 0
+
+[278] [CITATION][C]Effective teaching strategies for non-native English instructors
+Authors: HY Han - English Teaching (KATE), 2001
+Year: N/A
+Citations: 0
+
+[279] [B]Confirming the impact of performance tasks on latent class membership and placement decisions
+Authors: JR Gevara
+Year: 2016
+Citations: 0
+
+[280] 14: Using Undergraduates to Prepare International Teaching Assistants for the American Classroom
+Authors: WE Christian, BJ Rybarczyk - To improve the academy, 2013
+Year: N/A
+Citations: 0
+
+[281] Exporting English Pronunciation from China: The Communication Needs of Young Chinese Scientists as Teachers in Higher Education Abroad.
+Authors: G Gorsuch- Forum on Public Policy Online, 2011
+Year: N/A
+Citations: 0
+
+[282] Mirroring MLK: Improving intelligibility in homilies for international priests and seminarians
+Authors: SK Wicker
+Year: 2017
+Citations: 0
+
+[283] Reformulation: a verbal display of interlanguage awareness in instructional interactions
+Authors: SY Chiang, HF Mi - Language Awareness, 2011
+Year: N/A
+Citations: 0
+
+[284] Video-taped teaching simulations
+Authors: P Byrd - AUTHOR Constantinides, Janet C., Ed. TITLE Wyoming …, 1986
+Year: N/A
+Citations: 0
+
+[285] Perspectives of international teaching assistants on working in music disciplines in American higher education
+Authors: S Tian - International Journal of Music Education, 2024
+Year: N/A
+Citations: 0
+
+[286] Intersecting roles of authority and marginalization: International teaching assistants and research university power dynamics
+Authors: V Jones, Y Kim,W Ryu- Journal of International Students, 2020
+Year: N/A
+Citations: 0
+
+[287] Empowering Learners: A Win‐Win Solution for Students and Educators
+Authors: D K. Davies, S Gonzalez - New Directions for Student Services, 2017
+Year: N/A
+Citations: 0
+
+[288] Understanding argument-based validity in language testing
+Authors: CA Chapelle,H Lee- … in language testing: Case studies of …, 2021
+Year: N/A
+Citations: 0
+
+[289] Research on interlanguage variation: Implications for language testing
+Authors: E Tarone- Interfaces between second language acquisition and …, 1998
+Year: N/A
+Citations: 0
+
+[290] Approaches and challenges to assessing oral communication on Japanese entrance exams
+Authors: GJ OCKEY- JLTA Journal, 2017
+Year: N/A
+Citations: 0
+
+[291] One Course, Two Approaches:: ITA Educators' Diverging Ideologies
+Authors: R Anderson - Journal of International Students, 2024
+Year: N/A
+Citations: 0
+
+[292] [B]Effects of task values, attributions, and cultural constructs on foreign language use anxiety among international teaching assistants
+Authors: HY Lim
+Year: 2004
+Citations: 0
+
+[293] “It just made me look at language in a different way:” ESOL teacher candidates' identity negotiation through teacher education coursework
+Authors: B Yazan- Linguistics and Education, 2017
+Year: N/A
+Citations: 0
+
+[294] Teaching assistant training to enhance graduate engineering education
+Authors: S Caines,L Lye,MR Hossain- Proceedings of the Canadian …, 2014
+Year: N/A
+Citations: 0
+
+[295] Quantitative, notional, and comprehensive evaluations of spontaneous engaged speech
+Authors: G Molholt, MJ Cabrera, VK Kumar… - CALICO Journal, 2012
+Year: N/A
+Citations: 0
+
+[296] [CITATION][C]The Identity and Advantages of Nonnative ESL/EFL Teachers
+Authors: L Shen, SSJ Savignon
+Year: 2007
+Citations: 0
+
+[297] Research methodology in context-based second-language research
+Authors: D Douglas, L Selinker - Research methodology in second …, 2013
+Year: N/A
+Citations: 0
+
+[298] Emotion labor and affect in transnational encounters: Insights from Western-trained TESOL professionals in Saudi Arabia
+Authors: A Alshakhi,P Le Ha- Research in Comparative and …, 2020
+Year: N/A
+Citations: 0
+
+[299] The Test of Spoken English as a measure of communicative ability in English‐medium instructional settings
+Authors: JLD Clark, SS Swinton - ETS Research Report Series, 1980
+Year: N/A
+Citations: 0
+
+[300] Technology Innovation: Using ChatGPT to Elevate Pronunciation Pedagogy with the CTPSC Prompting Framework
+Authors: L Wallace,EF Lima- Pronunciation in Second Language …, 2025
+Year: N/A
+Citations: 0
+
+[301] [B]The Perception of Tanzanian EFL Teachers Regarding the Use of Performance-Based Assessments to Promote Spoken English Language in Secondary …
+Authors: A Mutashobya
+Year: 2023
+Citations: 0
+
+[302] Perspective taking to improve attitudes towards international teaching assistants: The role of national identification and prior attitudes
+Authors: U Manohar,O Appiah- Communication Education, 2016
+Year: N/A
+Citations: 0
+
+[303] Using Undergraduates to Prepare International Teaching Assistants for the American Classroom: Development of Senior Faculty
+Authors: WE Christian, BJ Rybarczyk
+Year: 2013
+Citations: 0
+
+[304] [B]Planning and second-language narrative production
+Authors: JN Wendel
+Year: 1997
+Citations: 0
+
+[305] Cohesion and Perceived Proficiency in ITA Oral Communication across Engineering and the Sciences
 Authors: J Haan
 Year: 2015
+Citations: 0
+
+[306] Legitimacy of teaching English composition as a non-native speaker.
+Authors: AN Bulamur- Universal Journal of Educational Research, 2013
+Year: N/A
+Citations: 0
+
+[307] Incorporating ESOL learners' feedback and usability testing in instructor-developed CALL materials
+Authors: G Kessler,L Plakans- Tesol Journal, 2001
+Year: N/A
+Citations: 0
+
+[308] [B]Selection criteria for mathematics graduate teaching assistants
+Authors: DL Henderson
+Year: 1995
+Citations: 0
+
+[309] Texas Papers in Foreign Language Education (TPFLE)
+Authors: L Plakans, DT Griffee, JR Gevara, L Perea…
+Year: N/A
+Citations: 0
+
+[310] World Englishes: To teach or not to teach?
+Authors: K Brown - World Englishes, 1995
+Year: N/A
+Citations: 0
+
+[311] Dominance in Academic Writing Tutorials: Gender, Language, and the Offering of Suggestions
+Authors: T Thonus
+Year: 1999
+Citations: 0
+
+[312] Challenges of accommodating non-native English-speaking instructors' teaching and native English-speaking students' learning in college, and the exploration of …
+Authors: X Wu
+Year: 2003
+Citations: 0
+
+[313] The effects of pause in English speaking evaluation
+Authors: MS Kim,TY Jang- 말소리와 음성과학, 2017
+Year: N/A
+Citations: 0
+
+[314] [B]The experiences of non-native English speaking teachers and their professional identity constructions in an ESL context
+Authors: SJ Choi
+Year: 2007
+Citations: 0
+
+[315] Foreign TA training project needs analysis
+Authors: J Weaver, A Pickett, L Kiu, J Cook
+Year: 1987
+Citations: 0
+
+[316] Discourse-based Grammar and the Teaching of Academic Reading and Writing in EFL Contexts.
+Authors: M Celce-Murcia,IWH Yoo- English Teaching, 2014
+Year: N/A
+Citations: 0
+
+[317] Learning to teach, teaching to learn: The lived experience of international teaching assistants at a Midwestern university
+Authors: VL Bates Holland
+Year: 2008
+Citations: 0
+
+[318] From Traditional to Performance-based Assessment: Student Perceptions and Implications of a New Achievement Assessment in Introductory Japanese Courses
+Authors: N Uchida
+Year: 2015
+Citations: 0
+
+[319] Integrating nonnatives as teachers: Patterns and perceptions of compliance-gaining strategies
+Authors: M Liu,DD Sellnow,S Venette- Communication Education, 2006
+Year: N/A
+Citations: 0
+
+[320] In Other Peopleâ€™ s Words: Language Learnersâ€™ Imitation of Professional Speech
+Authors: J Crabtree - … in Second Language Learning and Teaching …, 2016
+Year: N/A
+Citations: 0
+
+[321] In Other Peopleâ€™ s Words: Language Learnersâ€™ Imitation of Professional Speech
+Authors: J Crabtree - … in Second Language Learning and Teaching …, 2016
+Year: N/A
+Citations: 0
+
+[322] [CITATION][C]Written English into spoken: A functional discourse analysis of American, Indian, and Chinese TA presentations
+Authors: G Levis,J Levis,T Slater- 2012
+Year: N/A
+Citations: 0
+
+[323] 数据挖掘技术在语言测试研究中的应用
+Authors: 王萍， 辜向东 - Overseas English Testing: Pedagogy and Research, 2020
+Year: N/A
+Citations: 0
+
+[324] [CITATION][C]On TESOL'84: A Brave New World for TESOL
+Authors: LH Perry
+Year: 1987
+Citations: 0
+
+[325] Recurrent restorying through language teacher narrative inquiry
+Authors: PR Golombek, KE Johnson - System, 2021
+Year: N/A
+Citations: 0
+
+[326] Exploring Socialization and Teaching Self-Efficacy through a Community of Practice for International Teaching Assistants.
+Authors: L Hakkola, MT Chien, K Pelletreau - Journal of the Scholarship of Teaching …, 2020
+Year: N/A
+Citations: 0
+
+[327] How students respond to critical feedback from teaching assistants: The effect of instructor and feedback characteristics on perceptions of credibility, efficacy, affect …
+Authors: IA Cionea,BN Gilmore,AT Machette… - Western Journal of …, 2023
+Year: N/A
+Citations: 0
+
+[328] Cultural Identity, Pronunciation and Attitudes of Turkish speakers of English: Language identity in an EFL context
+Authors: E Pullen - Pronunciation in Second Language Learning and …, 2012
+Year: N/A
+Citations: 0
+
+[329] An extra layer of support: Developing an English-speaking consultation program
+Authors: T Kochem,I Edalatishams, L Compton… - … Different Approaches to …, 2022
+Year: N/A
+Citations: 0
+
+[330] A meta-analytic investigation of the predictive validity of the Test of English as a Foreign Language (TOEFL) scores on GPA
+Authors: M Abunawas
+Year: 2014
+Citations: 0
+
+[331] International Teaching Assistants' Identity Roles Represented through Self-Mentions in Teaching Demonstrations
+Authors: I Edalatishams- 2017 Second Language Research Forum, 2019
+Year: N/A
+Citations: 0
+
+[332] Balancing teaching, culture and gender in Japan: Prospects and challenges as an American female teacher abroad
+Authors: SR Asada- Early career teachers in higher education: International …, 2021
+Year: N/A
+Citations: 0
+
+[333] [CITATION][C]Institutional responsibilities and responses in the employment and education of teaching assistants: Readings from a national conference
+Authors: NVN Chism, SB Warner
+Year: 1987
+Citations: 0
+
+[334] Interactional competence in Japanese as an additional language: An overview
+Authors: T Greer, M Ishida, Y Tateyama - Interactional competence in …, 2017
+Year: N/A
+Citations: 0
+
+[335] Syntactic Complexity: Investigating hypotactic and paratactic styles of speech in non-native extended discourse
+Authors: M Cribb
+Year: 2004
+Citations: 0
+
+[336] Exploring the Role of Course Teams in Helping Graduate Teaching Assistants Navigate Day-to-Day Teaching.
+Authors: A Agrawal- International Journal of Engineering Pedagogy, 2025
+Year: N/A
+Citations: 0
+
+[337] Beyond the resume: HR students' evaluations of interview performances by first and second language speakers
+Authors: C Teló,P Trofimovich, MG O'Brien,TNN Le… - Equality, Diversity and …, 2025
+Year: N/A
+Citations: 0
+
+[338] Internationalisation of higher education: Integrating international students into Canadian academic environment
+Authors: S Guo, M Chase - Teaching in Higher Education, 2011
+Year: N/A
+Citations: 0
+
+[339] Teaching Speech Communication with a Foreign Accent: A Pilot Study.
+Authors: GM Chen, J Chung
+Year: 1993
+Citations: 0
+
+[340] TOEFL iBT integrated speaking tasks: A comparison of test-takers' performance in terms of complexity, accuracy, and fluency
+Authors: AA Ariamanesh,H Barati… - Iranian Journal of Applied …, 2020
+Year: N/A
+Citations: 0
+
+[341] NGTA and IGTA training and experience: Comparisons between self-ratings and undergraduate student evaluations
+Authors: DJ Twale,DM Shannon, MS Moore - Innovative Higher Education, 1997
+Year: N/A
+Citations: 0
+
+[342] Chapter 10. L2 speaking and its internal correlates: A meta-analysis
+Authors: R Koizumi,Y In'nami,EH Jeon- Understanding L2 Proficiency …, 2022
+Year: N/A
+Citations: 0
+
+[343] Discourse Coherence in Nonnative Extended Speech: Implications for ELT
+Authors: VM Cribb
+Year: N/A
+Citations: 0
+
+[344] Development and validation of a web-based L2 pragmatic speaking test in the university context
+Authors: S Chen
+Year: 2021
+Citations: 0
+
+[345] Teacher-centered approach and its ramifications on the performance of would-be professors/teachers: Two case studies of NNSs
+Authors: A Al-Qahtani- King Khalid University Journal of Humanities, 2015
+Year: N/A
+Citations: 0
+
+[346] Research Literature
+Authors: D Coniam,P Falvey- High-Stakes Testing: The Impact of the LPATE on …, 2018
+Year: N/A
+Citations: 0
+
+[347] [B]Achieving mutual understanding: Compensatory communication strategies in the interactions between nonnative teaching assistants and United States …
+Authors: SY Chiang- 2003
+Year: N/A
+Citations: 0
+
+[348] Interactional competence in the introduction to physics lab
+Authors: SD Looney- 2013
+Year: N/A
+Citations: 0
+
+[349] [B]Discourse and the non-native English speaker
+Authors: M Cribb
+Year: 2009
+Citations: 0
+
+[350] ESP teacher education in the USA
+Authors: P Master- Teacher education for LSP, 1997
+Year: N/A
+Citations: 0
+
+[351] [CITATION][C]5 Support for the Evaluation Inference
+Authors: H Yang
+Year: N/A
+Citations: 0
+
+[352] Heteroglossia and constructed dialogue in SLA
+Authors: D LaSCOTTE,E Tarone- The Modern Language Journal, 2019
+Year: N/A
+Citations: 0
+
+[353] Collaborative autoethnography as a pathway for teacher learning
+Authors: N Zacharias,G Shleykina- American Journal of Qualitative Research, 2021
+Year: N/A
+Citations: 0
+
+[354] [B]Communication strategies for linguistic problems in second language oral communication: A qualitative examination of 12 Korean university students
+Authors: SJ Kang
+Year: 2005
+Citations: 0
+
+[355] Intercultural teaching competence: A multi-disciplinary model for instructor reflection
+Authors: N Dimitrov, A Haque - Intercultural education, 2016
+Year: N/A
+Citations: 0
+
+[356] Examining the impact of rater educational background on ESL writing assessment: A generalizability theory approach
+Authors: R Elorbany, J Huang - Language and Communication Quarterly, 2012
+Year: N/A
+Citations: 0
+
+[357] Students-as-informants: Investigating the use of feedback by ITAs
+Authors: DK Little
+Year: 2016
+Citations: 0
+
+[358] UNBC TEACHING ASSISTANT MANUAL
+Authors: T ASSISTANT
+Year: N/A
+Citations: 0
+
+[359] The basic communication course: Options for accommodating non-native speakers of mainstream North American English
+Authors: DL Rubin, D Turk - Journal of the Association for …, 1997
+Year: N/A
+Citations: 0
+
+[360] Defining flipped learning and academic English at the university
+Authors: E Voss,I Kostka- … English Language Learning: Experiences from an …, 2019
+Year: N/A
+Citations: 0
+
+[361] A study of oral academic presentation tasks from a language socialization perspective
+Authors: N Morita
+Year: 1996
+Citations: 0
+
+[362] How much exposure to English do international graduate students really get? Measuring language use in a naturalistic setting
+Authors: L Ranta, A Meckelborg - Canadian modern language review, 2013
+Year: N/A
+Citations: 0
+
+[363] [CITATION][C]Teaching Science in Another Culture: Multicultural Influences on International Teaching Assistants in Science Programs
+Authors: B Avsar Erumit,VL Akerson,GA Buck- International Handbook of …, 2021
+Year: N/A
+Citations: 0
+
+[364] Davies, M (2008) The Corpus of Contemporary American English: 450 million words, 1990–present, available online: corpus. byu. edu/coca/Gabrielson, S …
+Authors: KL Greenberg - ISSN 1756-509X, 2014
+Year: N/A
+Citations: 0
+
+[365] A “dramatic” approach to improving the intelligibility of ITAs
+Authors: SG Stevens- English for Specific Purposes, 1989
+Year: N/A
+Citations: 0
+
+[366] The rhetorical process of digital subjectivities: Case studies of international teaching assistants negotiating identity with digital media
+Authors: KE De Pew
+Year: 2003
+Citations: 0
+
+[367] [B]Training teaching assistants across the curriculum: A study of the certificate in university teaching (CUT) program
+Authors: CI Brown
+Year: 2012
+Citations: 0
+
+[368] PROPOSAL FOR A UNIVERSITY WIDE TA ORIENTATION PROGRAM
+Authors: D Kinney,M Van Wart- Wyoming/NAFSA Institute on Foreign TA Training., 1988
+Year: N/A
+Citations: 0
+
+[369] Assessing nonverbal and verbal interactional competence in a video-mediated oral test
+Authors: H Yang - Linguistic Research, 2023
+Year: N/A
+Citations: 0
+
+[370] [B]The long shadow of neocolonialism: Experiences of Asian students on the American campus
+Authors: SK Rao
+Year: 1989
+Citations: 0
+
+[371] Incidental displays of cultural knowledge in the nonnative‐English‐speaking teacher's classroom
+Authors: A Lazaraton - Tesol Quarterly, 2003
+Year: N/A
+Citations: 0
+
+[372] “You Will Be Evaluated According to the Following”: Language, Race, and International Students at a US Predominantly White Institution
+Authors: A Anand
+Year: 2022
+Citations: 0
+
+[373] Perspectives on English for academic purposes
+Authors: J Morley - Georgetown University Round Table on Languages …, 1992
+Year: N/A
+Citations: 0
+
+[374] The social and cultural life of non-native English speaking international graduate students at a Canadian university
+Authors: J Myles,L Cheng- Journal of english for academic purposes, 2003
+Year: N/A
+Citations: 0
+
+[375] Administration, labor, and love
+Authors: A Ginther - Language Testing, 2023
+Year: N/A
+Citations: 0
+
+[376] [B]Attitudes and beliefs of international teaching assistants regarding teaching practice: A case study
+Authors: S Tavana
+Year: 2005
+Citations: 0
+
+[377] Assisted reading: A flexible approach to L2 reading fluency building
+Authors: E Taguchi, L Melhem… - The Reading Matrix: An …, 2016
+Year: N/A
+Citations: 0
+
+[378] Corpora in language testing: developments, challenges and opportunities
+Authors: ST Cushing- The Routledge Handbook of Corpus Linguistics, 2022
+Year: N/A
+Citations: 0
+
+[379] Local and dialogic language ability and its implication for language teaching and testing
+Authors: MJ Gerson - Spoken English, TESOL and Applied Linguistics …, 2006
+Year: N/A
+Citations: 0
+
+[380] Dishing from the Cultural Pot: An African Instructor's Experience Teaching BSW Courses
+Authors: A Christson- 2009
+Year: N/A
+Citations: 0
+
+[381] [B]Attitudes of American college students toward their non-native English-speaking professors
+Authors: TVL Gorbunova
+Year: 2003
+Citations: 0
+
+[382] 'The word isn't there!': a Foucauldian approach to power negotiation in an instructional interaction across linguistic and cultural boundaries
+Authors: SY Chiang- Critical Discourse Studies, 2013
+Year: N/A
+Citations: 0
+
+[383] [B]To speak or not to speak: silence in classrooms
+Authors: JJ Park- 2019
+Year: N/A
+Citations: 0
+
+[384] Comparing student perceptions of the classroom climate created by US American and international teaching assistants
+Authors: KR Meyer,Y Mao- Higher Learning Research …, 2011
+Year: N/A
+Citations: 0
+
+[385] Science International Teaching Assistants' Development of Cultural Competence and Teaching Self-Efficacy
+Authors: Z Jia
+Year: 2021
+Citations: 0
+
+[386] [B]Competence, opportunity, negotiation and the reconstruction of a professional identity by foreign-trained teachers in Canada.
+Authors: F Xu
+Year: 1999
+Citations: 0
+
+[387] [B]Oral Communication for Non-Native Speakers of English
+Authors: A Guskaroska, E Goodale,T Kochem, M Ghosh…
+Year: 2025
+Citations: 0
+
+[388] DIVERSITY THROUGH OUR EYES: ASIAN INTERNATIONAL MATHEMATICS GRADUATE TEACHING ASSISTANTS'PERCEPTIONS OF RACE AND DIVERSITY
+Authors: K Lue, J Zheng,JJ Park- Journal of Women and Minorities in …, 2025
+Year: N/A
+Citations: 0
+
+[389] Relative salience of suprasegmental features on judgments of L2 comprehensibility and accentedness
+Authors: O Kang- System, 2010
+Year: N/A
+Citations: 0
+
+[390] Washback effect of ALCPT on cadets in Taiwan: A case study
+Authors: CW Chang - Journal of Teaching English for Specific and …, 2014
+Year: N/A
+Citations: 0
+
+[391] 5 Support for the
+Authors: H Yang- Validity Argument in Language Testing: Case Studies …, 2021
+Year: N/A
+Citations: 0
+
+[392] [B]A world of education: The influence of culture on instructional style and perceived teacher effectiveness
+Authors: A Trentin
+Year: 2008
+Citations: 0
+
+[393] Developing intercultural attitudes: the case of five colombian Fulbright foreign language teaching assistants
+Authors: LC Flórez Díaz
+Year: 2018
+Citations: 0
+
+[394] Faculty of Education Department of EFL Curriculum and Instruction
+Authors: AG Gheith
+Year: 2018
+Citations: 0
+
+[395] Analysis of English-Speaking Proficiency Using the Information Gap Method Among First-Year and Second-Year BA English Major Students
+Authors: JP Capacio, P Tira - International Journal of Sociologies and …, 2025
+Year: N/A
+Citations: 0
+
+[396] [RTF][RTF]Raising Intercultural Awareness in preparation for periods of residence abroad: A review of current practice in UKHE
+Authors: S Hall, S Toll - Retrieved January, 1999
+Year: N/A
+Citations: 0
+
+[397] TEACHING TIP FEEL THE RHYTHM! FUN AND EFFECTIVE PRONUNCIATION PRACTICE USING AUDACITY AND SITCOM SCENES
+Authors: EF Lima- … IN SECOND LANGUAGE LEARNING AND TEACHING …, 2014
+Year: N/A
+Citations: 0
+
+[398] Examining the impact of four teaching development programmes for engineering teaching assistants
+Authors: CJ Fong, J Gilmore, T Pinder-Grover… - Journal of Further and …, 2019
+Year: N/A
+Citations: 0
+
+[399] A Review of “The politics of second language writing: in search of a promised land” edited by Paul Kei Matsuda, Christina Ortmeier-Hooper and Xiaoye You, West …
+Authors: S Banerjee
+Year: 2009
+Citations: 0
+
+[400] An argument against using standardized test scores for placement of international undergraduate students in English as a Second Language (ESL) courses
+Authors: K Kokhan - Language Testing, 2013
+Year: N/A
+Citations: 0
+
+[401] TOEFL to the Test: are Monodialectal AAL‐speakers Similar to ESL Students?
+Authors: A Pandey - World Englishes, 2000
+Year: N/A
+Citations: 0
+
+[402] [B]A qualitative approach to the validation of oral language tests
+Authors: A Lazaraton
+Year: 2002
+Citations: 0
+
+[403] TA Typology
+Authors: AU TAs - Bailey, Kathleen M., Ed.; And Others Foreign Teaching …
+Year: N/A
+Citations: 0
+
+[404] Instructional development programs for international TAs: A systems analysis approach
+Authors: R Smith, P Byrd, J Constantinides, RP Barrett
+Year: 1991
+Citations: 0
+
+[405] [B]Topic familiarity and second language learners' oral performance
+Authors: YF Chang- 1997
+Year: N/A
+Citations: 0
+
+[406] Teaching Assistants'(TAs) Personal Epistemologies and Their Instructional Practices in US Universities: A Mixed Methods Investigation of International TAs and US …
+Authors: E Seo
+Year: 2009
+Citations: 0
+
+[407] [B]Teacher reformulations of student responses in an English as a Second Language and teacher development program for international teaching assistants
+Authors: JJ Dobson
+Year: 1993
+Citations: 0
+
+[408] Feel the Rhythm! Fun and Effective Pronunciation Practice Using Pronunciation in Second Language Learning and Teaching 6 Audacity and Sitcom Scenes
+Authors: EF Lima- Pronunciation in Second Language Learning and …, 2015
+Year: N/A
+Citations: 0
+
+[409] Use of L1 Initiators and Non-verbal Resources in L2 Collaborative Interactions for Text Revision in Online Translation Classrooms.
+Authors: S Choi - Ubiquitous Learning: An International Journal, 2021
+Year: N/A
+Citations: 0
+
+[410] How much is enough? Involving occupational experts in setting standards on a specific-purpose language test for health professionals
+Authors: J Pill, T McNamara - Language Testing, 2016
+Year: N/A
+Citations: 0
+
+[411] [CITATION][C]Developing teaching communication competence in international graduate students
+Authors: NL LeGros
+Year: 2010
+Citations: 0
+
+[412] Theatre voice training and technology in teaching oral skills: Integrating the components of a speech event
+Authors: DM Hardison, C Sonchaeng - System, 2005
+Year: N/A
+Citations: 0
+
+[413] [B]Hidden Roads: Nonnative English-Speaking International Professors in the Classroom: New Directions for Teaching and Learning, Number 138
+Authors: KG Hendrix,A Hebbani- 2014
+Year: N/A
+Citations: 0
+
+[414] Foreign accented-speech and perceptions of confidence and intelligence
+Authors: MN Abu Guba,S Daoud,S Jarbou- Journal of Psycholinguistic Research, 2023
+Year: N/A
+Citations: 0
+
+[415] An exploratory study of undergraduate college students' perceptions and attitudes toward foreign accented faculty.
+Authors: A Kavas,A Kavas- College Student Journal, 2008
+Year: N/A
+Citations: 0
+
+[416] Dealing with the demands of language testing and assessment
+Authors: G Fulcher,N Owen- The Routledge handbook of English …, 2016
+Year: N/A
+Citations: 0
+
+[417] How do we go about investigating test fairness?
+Authors: X Xi- Language testing, 2010
+Year: N/A
+Citations: 0
+
+[418] [CITATION][C]Spenser Grant Proposal
+Authors: W Yan
+Year: N/A
+Citations: 0
+
+[419] Investigating novice EFL writing teachers' beliefs and practices concerning written corrective feedback across contexts: A case study from a complexity theory …
+Authors: W Chen - Language awareness, 2023
+Year: N/A
+Citations: 0
+
+[420] The impact of teaching chunks on speaking fluency of Iranian EFL learners
+Authors: M Zafarghandi,A Tahriri… - Iranian Journal of …, 2015
+Year: N/A
+Citations: 0
+
+[421] The impact of teaching chunks on speaking fluency of Iranian EFL learners
+Authors: M Zafarghandi,A Tahriri… - Iranian Journal of …, 2015
+Year: N/A
+Citations: 0
+
+[422] and Research University Power Dynamics
+Authors: Y Kim - Journal of International Students, 2020 Vol. 10 No. 2, 2020
+Year: N/A
+Citations: 0
+
+[423] Communicative competence: A pedagogically motivated model with content specifications
+Authors: M Celce-Murcia,Z Dörnyei, S Thurrell - Issues in Applied linguistics, 1995
+Year: N/A
+Citations: 0
+
+[424] Composition Teacher Identity and Practice: Exploring Composition Teachers from International Contexts in the Rural Pennsylvania College Composition Courses
+Authors: J Akiyoshi- 2022
+Year: N/A
+Citations: 0
+
+[425] Closing the communication gap between undergraduates and international faculty
+Authors: D Villarreal- The CATESOL Journal, 2013
+Year: N/A
+Citations: 0
+
+[426] [B]Persian ITAs and Speech Comprehensibility: Using CAPT for Pronunciation Improvement
+Authors: A Rouhollahi
+Year: 2023
+Citations: 0
+
+[427] Effectiveness of strategy instruction using podcasts in second language listening and speaking
+Authors: T Kang- 2016
+Year: N/A
+Citations: 0
+
+[428] In the belly of paradox: Teaching equity in an [in] equitable space as a graduate teaching assistant (TA)
+Authors: RA Shahjahan- International Journal of Progressive Education, 2008
+Year: N/A
+Citations: 0
+
+[429] Effects of pragmatic task features, English proficiency, and learning setting on Chinese ESL/EFL spoken performance of requests
+Authors: L Cheng
+Year: 2014
+Citations: 0
+
+[430] [B]A study of peer collaborative mentoring for the professional development of international graduate teaching assistants
+Authors: GM Kilburg
+Year: 1992
+Citations: 0
+
+[431] When did you start wearing clothes? Confronting the stereotypes of international instructors
+Authors: GM Williams- International Journal of University Teaching and …, 2011
+Year: N/A
+Citations: 0
+
+[432] [B]Language Mindsets as Sources of Emotions: An Experimental Study of International Graduate Students in the US
+Authors: E Ozdemir
+Year: 2022
+Citations: 0
+
+[433] Mediation Effects of Language Anxiety and Prior Learning Experience on Academic Speaking Challenges and Strategies among Libyan Students in Malaysian …
+Authors: AAS Halali,L Ismail,AA Samad… - World Journal of …, 2023
+Year: N/A
+Citations: 0
+
+[434] Discourse strategies in the context of crosscultural institutional talk: Uncovering interlanguage pragmatics in the university classroom
+Authors: CE Davies, AE Tyler - Interlanguage pragmatics, 2005
+Year: N/A
+Citations: 0
+
+[435] 학문 목적 한국어 말하기 평가 도구 개발의 쟁점과 과제
+Authors: 민병곤， 이성준 - 국어교육연구, 2016
+Year: N/A
+Citations: 0
+
+[436] Chinese Engineering Students' Cross-cultural Adaptation in Graduate School.
+Authors: X Jiang
+Year: 2010
+Citations: 0
+
+[437] Integrated Speaking, Listening and Pronunciation: Are Textbooks Leading the Way?
+Authors: P Watts,A Huensch- Pronunciation in Second Language …, 2013
+Year: N/A
+Citations: 0
+
+[438] IELTS Research Reports
+Authors: F Nakatsuhara, L May,N Khabbazbashi- search.informit.org
+Year: N/A
+Citations: 0
+
+[439] Rethinking discourses of diversity: A critical discourse study of language ideologies and identity negotiation in a university ESL classroom
+Authors: JS Kim
+Year: 2017
+Citations: 0
+
+[440] A Descriptive Study of TESL Master's Degree Programs: Directors' Perceptions of TESOL's Professional Preparation Standards
+Authors: G Li
+Year: 1994
+Citations: 0
+
+[441] [B]English Language & Orientation Programs in the United States Offered by US Institutions of Higher Education and Private Language Schools.
+Authors: SJ Steen, C De Angelis
+Year: 1997
+Citations: 0
+
+[442] On the notion of 'IL competence'in early SLA research: An aid to understanding some baffling current issues
+Authors: L Selinker - Performance and competence in second language …, 1996
+Year: N/A
+Citations: 0
+
+[443] REPORT OF THE TASK FORCE ON TESTING AND TRAINING PROSPECTIVE GSIs 9/02
+Authors: C Cook
+Year: N/A
+Citations: 0
+
+[444] Expressive phonology as evaluative comment in personal oral narrative: The play frame and language learning
+Authors: JJ Mischler III- System, 2008
+Year: N/A
+Citations: 0
+
+[445] Understanding the Brazilian Way of Speaking English
+Authors: MLÌ cia de Castro Gomes - Pronunciation in Second …, 2013
+Year: N/A
+Citations: 0
+
+[446] Research Forum
+Authors: VM Cribb - AUTHOR Fotos, Sandra, Ed.; Jungheim, Nicholas O …, 2001
+Year: N/A
+Citations: 0
+
+[447] Use of L1 Initiators and Non-verbal Resources
+Authors: S Choi - Ubiquitous Learning, 2021
+Year: N/A
+Citations: 0
+
+[448] Using written text to teach oral skills: An ITA training class using field-specific materials
+Authors: SA Myers - English for Specific Purposes, 1995
+Year: N/A
+Citations: 0
+
+[449] Interaction and discourse markers in the ITA-led physics laboratory
+Authors: SD Looney- Talking Matters, 2015
+Year: N/A
+Citations: 0
+
+[450] Discourse management strategies revisited
+Authors: G Tapper, G Drzazga, M Mendoza… - Learning, Discourse and …, 2018
+Year: N/A
+Citations: 0
+
+[451] WASHBACK EFFECTS OF THE FOREIGN LANGUAGE SECTION IN HIGH SCHOOL ENTRANCE EXAM (LGS) ON THE EIGHTH GRADERS'ENGLISH …
+Authors: N KIZILTAN- 2022
+Year: N/A
+Citations: 0
+
+[452] High-stakes test preparation in Iran: The interplay of pedagogy, test content, and context
+Authors: S Saif - Challenges in Language Testing Around the World …, 2021
+Year: N/A
+Citations: 0
+
+[453] Instructors in the US Composition
+Authors: L Wang-Hiles, E Goodroad, T Zhang… - … Dialogue on Identity …, 2023
+Year: N/A
+Citations: 0
+
+[454] Lan Wang-Hiles, Ekaterina Goodroad
+Authors: T Zhang, J Szerdahelyi
+Year: N/A
+Citations: 0
+
+[455] Gestural timing patterns of nasality in highly proficient Spanish learners of English: Aerodynamic evidence
+Authors: A Beristain- Language and Speech, 2023
+Year: N/A
+Citations: 0
+
+[456] [B]A qualitative study of the acculturation process of international teaching assistants
+Authors: S Mascoop
+Year: 1993
+Citations: 0
+
+[457] Silence in online education: The invisible component
+Authors: YM Kalman- … on Instructional Technologies Research, The Open …, 2008
+Year: N/A
+Citations: 0
+
+[458] The effects of self-monitoring strategy use on the pronunciation of learners of English
+Authors: S Ingels - Pronunciation in Second Language Learning and …, 2009
+Year: N/A
+Citations: 0
+
+[459] Marginalized, silenced, and struggling: Understanding the plights of Chinese graduate teaching assistants
+Authors: T Huang,S Chen,J Lin,A Cun- International Journal of …, 2023
+Year: N/A
+Citations: 0
+
+[460] Teaching the teachers: International graduate instructor self-efficacy after completing a semester-long pedagogy course
+Authors: D Cannon
+Year: 2022
+Citations: 0
+
+[461] 3 Research on interlanguage variation
+Authors: E Tarone- Interfaces Between Second Language Acquisition and …, 1998
+Year: N/A
+Citations: 0
+
+[462] [B]Teaching college writing to diverse student populations
+Authors: D Ferris- 2009
+Year: N/A
+Citations: 0
+
+[463] Academic Oracy: What type of discourse should we teach
+Authors: VM Cribb - Exeter PIM Conference, 2005
+Year: N/A
+Citations: 0
+
+[464] [B]Academic communication skills: Conversation strategies for international graduate students
+Authors: LS Huang
+Year: 2010
+Citations: 0
+
+[465] The English Language as a Factor Influencing Foreign Students' Learning Outcomes in Higher Education
+Authors: K Svētiņa - TO BE OR NOT TO BE A GREAT EDUCATOR, 2023
+Year: N/A
+Citations: 0
+
+[466] [B]Identities in Negotiation: Stories From Three Transnational Multilingual Asian Writing Teachers
+Authors: M Kang
+Year: 2024
+Citations: 0
+
+[467] [B]The role of specialized knowledge in interlanguage variation: The discourse domain hypothesis
+Authors: SA Whyte- 1994
+Year: N/A
+Citations: 0
+
+[468] [B]A non-native English speaker's teaching characteristics in the ITV setting
+Authors: HK Han
+Year: 1996
+Citations: 0
+
+[469] Preparing graduate students to teach: A seminar on teaching for graduate assistants in engineering
+Authors: ML Brannon,S Zappe- 2009 Annual Conference & Exposition, 2009
+Year: N/A
+Citations: 0
+
+[470] The Analysis and Solution of the Present Situation of Spoken English Teaching in Higher Vocational College
+Authors: Z Yang
+Year: 2019
+Citations: 0
+
+[471] [B]The effect of formal instruction on the development of sociolinguistic competence: The performance of compliments
+Authors: KA Billmyer
+Year: 1990
+Citations: 0
+
+[472] [CITATION][C]Detecting Rater Effects Using Many-Facet Rasch Models and Bootstrap Techniques
+Authors: Z Zhou- 2020
+Year: N/A
+Citations: 0
+
+[473] Negotiating Language and Cultural Identity in Multicultural Contexts in Canada
+Authors: A Quinio - Reconceptualizing Language Norms in Multilingual …, 2024
+Year: N/A
+Citations: 0
+
+[474] The Prism Model: Increasing Graduate Teaching Assistants' Self-Perceptions of Pedagogical Content Knowledge
+Authors: C Mattox
+Year: 2019
+Citations: 0
+
+[475] Skill profiles of Japanese English learners and reasons for uneven patterns
+Authors: R Koizumi, T Agawa, K Asano,Y In'nami- Language Testing in Asia, 2022
+Year: N/A
+Citations: 0
+
+[476] Foreign TAs: A course in communication skills
+Authors: MR Franck, MA DeSousa - Improving College and University …, 1982
+Year: N/A
+Citations: 0
+
+[477] [CITATION][C]The role of questions in the physics laboratory classes of two non-native speaking teaching assistants
+Authors: J Searls
+Year: 1991
+Citations: 0
+
+[478] Social Networks and Language Use
+Authors: D Moglen- Journal of International Students, 2017 Vol. 7 (1), 2019
+Year: N/A
+Citations: 0
+
+[479] Investigating ESL Graduate Students' Intercultural Experiences of Academic English Writing: A First Person Narration of a Streamlined Qualitative Study Process.
+Authors: L Gao - Qualitative Report, 2012
+Year: N/A
+Citations: 0
+
+[480] Quality management and stakeholder accountability: Computerization of a mandate-driven placement test
+Authors: SJ Chung
+Year: 2014
+Citations: 0
+
+[481] International Graduate Student and Faculty-Advisor Relationship: Benefits and Challenges
+Authors: T Bezerra
+Year: 2021
+Citations: 0
+
+[482] Beristain, A.(2023). Gestural Timing Patterns of Nasality in Highly Proficient Spanish Learners of English: Aerodynamic Evidence. Language and Speech, 0 (0).
+Authors: A Beristain- researchgate.net
+Year: N/A
+Citations: 0
+
+[483] International students' daily negotiations in language, culture, and identity in Canadian higher education
+Authors: X Du - Interrogating models of diversity within a multicultural …, 2019
+Year: N/A
+Citations: 0
+
+[484] In the belly of paradox: Teaching equity in an [in] equitable space as a graduate
+Authors: TA TA, RA Shahjahan - International Journal of Progressive …, 2008
+Year: N/A
+Citations: 0
+
+[485] Internationalizing Illinois: English language policy at UIUC
+Authors: NJ Mullen- 2017
+Year: N/A
+Citations: 0
+
+[486] Issues in ITA Training Programs.
+Authors: DL Sequeira, M Costantino - New Directions for Teaching and Learning, 1989
+Year: N/A
+Citations: 0
+
+[487] Pauses and speech rates in assessing fluency of English speech
+Authors: MS Kim,TY Jang- 언어, 2019
+Year: N/A
+Citations: 0
+
+[488] Teaching mathematics at the college level: International TAs' transitional experiences
+Authors: JL Chae,JH Lim,MH Fisher- Primus, 2009
+Year: N/A
+Citations: 0
+
+[489] Speak English in the department or perish? A multimethod study on online public responses to an English-only incident at a US university
+Authors: Y Zhu,M Bresnahan,Y Wang,X Yan… - Language and …, 2025
+Year: N/A
+Citations: 0
+
+[490] Developing reading fluency in EFL: How assisted repeated reading and extensive reading affect fluency development
+Authors: E Taguchi, M Takayasu-Maass,GJ Gorsuch- 2004
+Year: N/A
+Citations: 0
+
+[491] American Montessori Society Works to Educate Teachers, Promote International Relations.
+Authors: D Dembus - Montessori Life, 2001
+Year: N/A
+Citations: 0
+
+[492] Rapport management of international teaching assistants in their teaching
+Authors: Y Zhang
+Year: 2013
+Citations: 0
+
+[493] Developing communicative effectiveness through the negotiated resolution of referential conflicts
+Authors: G Yule - Linguistics and education, 1991
+Year: N/A
+Citations: 0
+
+[494] Understanding of international graduate students' academic adaptation to a US graduate school
+Authors: Y Zhou- 2010
+Year: N/A
+Citations: 0
+
+[495] [B]Moving beyond “second” and “foreign”: An examination of the discursive construction of teaching English and Spanish
+Authors: NM Houser
+Year: 2011
+Citations: 0
+
+[496] Rethinking silence in the classroom: Chinese students' experiences of sharing indigenous knowledge
+Authors: Y Rachel Zhou, D Knoke,I Sakamoto- International Journal of …, 2005
+Year: N/A
+Citations: 0
+
+[497] [B]International teaching assistants' attitudes toward teaching and understanding of United States American undergraduate students
+Authors: D Trebing
+Year: 2007
+Citations: 0
+
+[498] How EFL College Learners Perceive CBI Experience.
+Authors: AJ Kang - English Teaching, 2018
+Year: N/A
+Citations: 0
+
+[499] Directives in office hour consultations: A corpus-informed investigation of learner and expert usage
+Authors: J Reinhardt- English for Specific Purposes, 2010
+Year: N/A
+Citations: 0
+
+[500] [B]East Asian students' expectations and their classroom participation
+Authors: W Tsou- 1996
+Year: N/A
 Citations: 0
 
