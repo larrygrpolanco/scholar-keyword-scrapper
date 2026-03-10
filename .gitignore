@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Generated scraper output files (run results)
+*_results.csv
+*_results.json
+*_report.txt
+checkpoint.json
+eric_checkpoint.json
+combined_results.csv
+combined_results.json
+combined_report.txt

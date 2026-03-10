@@ -226,7 +226,6 @@ def save_csv(papers: List[Dict[str, Any]], path: Path) -> None:
         writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
         writer.writeheader()
         writer.writerows(papers)
-    print(f"Saved CSV: {path}")
 
 
 def generate_report(papers: List[Dict[str, Any]], duplicates_removed: int, path: Path) -> None:
@@ -293,8 +292,6 @@ def generate_report(papers: List[Dict[str, Any]], duplicates_removed: int, path:
         for paper in sorted(low, key=lambda p: p["year"], reverse=True):
             f.write(f"[{paper['source']}] {paper['title']} ({paper['year']})\n")
 
-    print(f"Saved report: {path}")
-
 
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
@@ -325,54 +322,52 @@ def parse_args() -> argparse.Namespace:
 def main():
     args = parse_args()
 
-    print("=" * 80)
-    print("CROSS-REFERENCE AND RELEVANCE CHECKER")
-    print("=" * 80)
-    print(f"Fuzzy match threshold: {args.threshold}%")
-    print(f"Scholar JSON: {args.scholar_json}")
-    print(f"ERIC JSON: {args.eric_json}")
-    print("=" * 80 + "\n")
+    print("=" * 60)
+    print("Cross-Reference & Relevance Scorer")
+    print("=" * 60)
+    print(f"  Scholar JSON : {args.scholar_json}")
+    print(f"  ERIC JSON    : {args.eric_json}")
+    print(f"  Dedup thresh : {args.threshold}% title similarity")
+    print("=" * 60)
 
     # Load papers from both sources
     scholar_papers = load_papers(args.scholar_json, "Scholar")
     eric_papers = load_papers(args.eric_json, "ERIC")
 
     if not scholar_papers and not eric_papers:
-        print("ERROR: No papers loaded from either source. Exiting.")
+        print("\nERROR: No papers found. Run scholar_scraper_bs4.py and/or eric_scraper_bs4.py first.")
         return
 
-    # Combine papers
+    # Combine, deduplicate, score
     all_papers = scholar_papers + eric_papers
-    print(f"\nTotal papers before deduplication: {len(all_papers)}\n")
+    print(f"\nLoaded {len(all_papers)} total papers ({len(scholar_papers)} Scholar, {len(eric_papers)} ERIC)")
 
-    # Find duplicates
-    print("Finding duplicates using fuzzy title matching...")
+    print("Finding duplicates...")
     duplicates = find_duplicates(all_papers)
-    print(f"Found {len(duplicates)} duplicate pairs\n")
+    print(f"  {len(duplicates)} duplicate pairs found")
 
-    # Merge duplicates
-    print("Merging duplicates...")
     unique_papers = merge_duplicates(all_papers, duplicates)
-    print(f"Papers after deduplication: {len(unique_papers)}\n")
+    print(f"  {len(unique_papers)} unique papers after deduplication")
 
-    # Normalize data for output
-    print("Calculating relevance scores...")
+    print("Scoring relevance...")
     normalized_papers = [normalize_paper_data(p) for p in unique_papers]
 
-    # Save outputs
-    print("\nSaving results...")
+    high = sum(1 for p in normalized_papers if p["relevance"] == "High")
+    medium = sum(1 for p in normalized_papers if p["relevance"] == "Medium")
+    low = sum(1 for p in normalized_papers if p["relevance"] == "Low")
+
     save_csv(normalized_papers, OUTPUT_CSV)
     generate_report(normalized_papers, len(duplicates), OUTPUT_REPORT)
 
-    # Summary
-    print("\n" + "=" * 80)
-    print("SUMMARY")
-    print("=" * 80)
-    print(f"Total unique papers: {len(normalized_papers)}")
-    print(f"Duplicates removed: {len(duplicates)}")
-    print(f"Output CSV: {OUTPUT_CSV}")
-    print(f"Output report: {OUTPUT_REPORT}")
-    print("=" * 80)
+    print("\n" + "=" * 60)
+    print("Done")
+    print("=" * 60)
+    print(f"  Unique papers : {len(normalized_papers)}")
+    print(f"  Duplicates    : {len(duplicates)} removed")
+    print(f"  Relevance     : {high} High / {medium} Medium / {low} Low")
+    print(f"  CSV output    : {OUTPUT_CSV}")
+    print(f"  Report        : {OUTPUT_REPORT}")
+    print("=" * 60)
 
 
 if __name__ == "__main__":

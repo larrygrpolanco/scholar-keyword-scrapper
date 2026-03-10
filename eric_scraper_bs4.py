@@ -42,21 +42,28 @@ from bs4 import BeautifulSoup
 Paper = Dict[str, Any]
 
 # ==================== CONFIGURATION =====================
-ITA_KEYWORDS = [
-    "Foreign teaching assistant",
-    "International teaching assistant",
-    "Non-native teaching assistant",
-]
-
-ASSESSMENT_KEYWORDS = [
-    "speaking assessment",
-    "rubric",
-    "language proficiency",
-    "oral proficiency",
-    "language assessment",
-    "accent assessment",
-    "intelligibility assessment",
-]
+# Keywords are loaded from config.py — edit that file to customize your search.
+try:
+    from config import TOPIC_KEYWORDS as ITA_KEYWORDS, SCOPE_KEYWORDS as ASSESSMENT_KEYWORDS
+    # Strip wildcards — ERIC uses exact phrase matching
+    ITA_KEYWORDS = [kw.rstrip("*") for kw in ITA_KEYWORDS]
+    ASSESSMENT_KEYWORDS = [kw.rstrip("*") for kw in ASSESSMENT_KEYWORDS]
+except ImportError:
+    # Fallback defaults if config.py is missing
+    ITA_KEYWORDS = [
+        "Foreign teaching assistant",
+        "International teaching assistant",
+        "Non-native teaching assistant",
+    ]
+    ASSESSMENT_KEYWORDS = [
+        "speaking assessment",
+        "rubric",
+        "language proficiency",
+        "oral proficiency",
+        "language assessment",
+        "accent assessment",
+        "intelligibility assessment",
+    ]
 
 DEFAULT_MAX_RESULTS = 1000
 DEFAULT_CHUNK_SIZE = 500  # ERIC shows more results per page
@@ -375,7 +382,6 @@ def save_checkpoint(path: Path, checkpoint: Dict[str, Any]) -> None:
     """Save checkpoint to disk."""
     with path.open("w") as f:
         json.dump(checkpoint, f, indent=2)
-    print(f"Checkpoint saved: {path}")
 
 
 def read_json_results(path: Path) -> List[Paper]:
@@ -404,7 +410,6 @@ def save_json_results(papers: List[Paper], query: str, path: Path) -> None:
     }
     with path.open("w") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
-    print(f"Saved: {path}")
 
 
 def append_to_csv(papers: List[Paper], path: Path) -> None:
@@ -418,7 +423,6 @@ def append_to_csv(papers: List[Paper], path: Path) -> None:
             writer.writeheader()
         for paper in papers:
             writer.writerow({field: paper.get(field, "N/A") for field in CSV_FIELDS})
-    print(f"Appended {len(papers)} rows to {path}")
 
 
 def generate_report(papers: List[Paper], query: str, path: Path) -> None:
@@ -438,7 +442,6 @@ def generate_report(papers: List[Paper], query: str, path: Path) -> None:
             f.write(f"Authors: {paper['authors']}\n")
             f.write(f"Year: {paper['year']}\n")
             f.write(f"Peer Reviewed: {paper['peer_reviewed']}\n\n")
-    print(f"Report saved: {path}")
 
 
 def fetch_chunk(
@@ -455,7 +458,7 @@ def fetch_chunk(
     current_number = (start_page - 1) * results_per_page + 1
     reached_end = False
 
-    print(f"\n🚀 Fetching up to {chunk_size} papers starting from page {start_page}...")
+    print(f"\nFetching up to {chunk_size} papers starting from page {start_page}...")
 
     # Calculate pages needed
     pages_needed = (chunk_size // results_per_page) + 1
@@ -465,14 +468,12 @@ def fetch_chunk(
         if len(papers) >= chunk_size:
             break
 
-        print(
-            f"\n📄 Page {current_page} - {len(papers)}/{chunk_size} papers collected..."
-        )
+        print(f"\n[Page {current_page}] Progress: {len(papers)}/{chunk_size} papers collected")
 
         soup = fetch_page_with_selenium(driver, query, current_page)
 
         if soup is None:
-            print("  ❌ Failed to fetch page")
+            print("  ERROR: Failed to fetch page")
             reached_end = True
             break
 
@@ -497,11 +498,9 @@ def fetch_chunk(
                 results = result_containers
 
         if not results:
-            print("  ℹ️  No results found. Reached end or need to adjust parser.")
+            print("  No results found — reached end or parser needs adjustment.")
             reached_end = True
             break
-
-        print(f"  Found {len(results)} results")
 
         for result_elem in results:
             if len(papers) >= chunk_size:
@@ -513,9 +512,7 @@ def fetch_chunk(
                 continue
 
             papers.append(paper)
-            print(
-                f"  ✓ [{paper['number']}] {paper['title'][:60]}... ({paper['year']}) - {paper['eric_id']}"
-            )
+            print(f"  [{paper['number']:>4}] {paper['title'][:65]}  ({paper['year']}) — {paper['eric_id']}")
             current_number += 1
 
         current_page += 1
@@ -523,7 +520,7 @@ def fetch_chunk(
         # Delay between pages
         if len(papers) < chunk_size and not reached_end:
             wait_time = random.uniform(min_delay, max_delay)
-            print(f"  Waiting {wait_time:.1f}s...")
+            print(f"  Waiting {wait_time:.1f}s before next page...")
             time.sleep(wait_time)
 
     return papers, reached_end, current_page
@@ -533,26 +530,25 @@ def main():
     args = parse_args()
 
     if args.test:
-        print("*** TEST MODE: 10 papers max ***")
+        print("[TEST MODE] Limiting to 10 papers.")
         args.max_results = min(args.max_results, 10)
         args.chunk_size = min(args.chunk_size, 10)
 
     if args.headless:
-        print("⚠️  WARNING: Headless mode enabled. You won't be able to solve CAPTCHAs!")
-        print("   Press Ctrl+C to cancel and remove --headless flag.")
+        print("WARNING: Headless mode enabled — you won't be able to solve CAPTCHAs!")
+        print("Press Ctrl+C to cancel, then remove the --headless flag.")
         time.sleep(3)
 
     query = build_query(ITA_KEYWORDS, ASSESSMENT_KEYWORDS)
 
-    print("=" * 80)
-    print("ERIC SCRAPER - SELENIUM WITH MANUAL CAPTCHA")
-    print("=" * 80)
-    print(f"Chunk size: {args.chunk_size}")
-    print(f"Max results: {args.max_results}")
-    print(f"Delay: {args.min_delay}-{args.max_delay}s")
-    print(f"Query: {query}")
-    print(f"Source: https://eric.ed.gov/")
-    print("=" * 80)
+    print("=" * 60)
+    print("ERIC Scraper (eric.ed.gov)")
+    print("=" * 60)
+    print(f"  Chunk size : {args.chunk_size}")
+    print(f"  Max results: {args.max_results}")
+    print(f"  Delay      : {args.min_delay}–{args.max_delay}s between pages")
+    print(f"  Query      : {query[:80]}{'...' if len(query) > 80 else ''}")
+    print("=" * 60)
 
     if args.reset:
         clear_outputs([CHECKPOINT_PATH, CSV_PATH, JSON_PATH, REPORT_PATH])
@@ -564,10 +560,9 @@ def main():
 
     if checkpoint and checkpoint.get("query") == query:
         start_page = checkpoint.get("next_page", 1)
-        print(f"✓ Resuming from page {start_page}")
+        print(f"Resuming from page {start_page}")
 
-    # Set up Selenium
-    print("\n🌐 Starting Chrome browser...")
+    print("\nStarting Chrome browser...")
     driver = setup_driver(headless=args.headless)
 
     try:
@@ -577,7 +572,7 @@ def main():
         )
 
         if not new_papers:
-            print("\n⚠️  No papers collected this run")
+            print("\nNo papers collected this run.")
             return
 
         # Combine and save
@@ -591,30 +586,33 @@ def main():
         generate_report(combined_papers, query, REPORT_PATH)
 
         # Update checkpoint
+        done = exhausted or len(combined_papers) >= args.max_results
         checkpoint_data = {
             "query": query,
-            "ita_keywords": ITA_KEYWORDS,
-            "assessment_keywords": ASSESSMENT_KEYWORDS,
+            "topic_keywords": ITA_KEYWORDS,
+            "scope_keywords": ASSESSMENT_KEYWORDS,
             "chunk_size": args.chunk_size,
             "max_results": args.max_results,
             "next_page": next_page,
             "last_updated": datetime.now().isoformat(),
-            "completed": exhausted or len(combined_papers) >= args.max_results,
+            "completed": done,
         }
         save_checkpoint(CHECKPOINT_PATH, checkpoint_data)
 
-        # Summary
-        print("\n" + "=" * 80)
-        print("SESSION SUMMARY")
-        print("=" * 80)
-        print(f"New papers: {len(new_papers)}")
-        print(f"Total papers: {len(combined_papers)}")
-        print(f"Next page: {next_page}")
-        print(f"Files: {CSV_PATH}, {JSON_PATH}, {REPORT_PATH}")
-        print("=" * 80)
+        print("\n" + "=" * 60)
+        print("Session Complete")
+        print("=" * 60)
+        print(f"  New papers this run : {len(new_papers)}")
+        print(f"  Total papers saved  : {len(combined_papers)}")
+        if done:
+            print("  Status              : Search complete!")
+        else:
+            print(f"  Next run starts at  : page {next_page} (re-run script to continue)")
+        print(f"  Output files        : {CSV_PATH}, {JSON_PATH}, {REPORT_PATH}")
+        print("=" * 60)
 
     finally:
-        print("\n🛑 Closing browser...")
+        print("\nClosing browser...")
         driver.quit()
 
 
